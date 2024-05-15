@@ -1,0 +1,3345 @@
+Regeringens proposition 2022/23:87
+
+Säkerhetsprövning av totalförsvarspliktiga m.m. Prop. 2022/23:87
+
+Regeringen överlämnar denna proposition till riksdagen.
+
+Stockholm den 9 mars 2023
+
+Ulf Kristersson
+
+Pål Jonson (Försvarsdepartementet)
+
+Propositionens huvudsakliga innehåll
+
+Regeringen föreslår ändringar i säkerhetsskyddslagen (2018:585) i syfte att säkerställa Försvarsmaktens behov av säkerhetsprövad värnpliktig personal samt att säkerhetsprövningen sker på ett effektivt och ändamålsenligt sätt. Ändringarna innebär att
+
+•Försvarsmakten ensam ska ansvara för säkerhetsprövningen av värnpliktiga, inklusive i samband med inskrivningen,
+
+•den som är aktuell för inskrivning till grundutbildning med värnplikt, och den som har fullgjort grundutbildning med värnplikt och sedan har krigsplacerats i Försvarsmaktens verksamhet, ska undantas från kravet på samtycke till registerkontroll för säkerhetsprövning i säkerhetsklass 3, och
+
+•den som är krigsplacerad i en säkerhetsklassad befattning i Försvarsmaktens verksamhet ska anses delta i den säkerhetskänsliga verksamheten, och därmed säkerhetsprövas, under den tid som beslutet om krigsplacering kvarstår.
+
+Ändringar föreslås också i lagen (2010:1011) om brandfarliga och explosiva varor i fråga om tillstånds- och tillsynsansvaret för Försvarets radioanstalts hantering av brandfarliga och explosiva varor.
+
+Ändringarna i säkerhetsskyddslagen föreslås träda i kraft den 1 oktober 2023. Ändringarna i lagen om brandfarliga och explosiva varor föreslås träda i kraft den 1 juli 2023.
+
+1
+
+Prop. 2022/23:87 
+
+Innehållsförteckning 
+
+1 
+
+Förslag till riksdagsbeslut ................................................................. 
+
+4 
+
+2 
+
+Lagtext 
+
+.............................................................................................. 
+
+5 
+
+2.1 
+
+Förslag till lag om ändring i säkerhetsskyddslagen 
+
+(2018:585) .......................................................................... 
+
+5 
+
+2.2 
+
+Förslag till lag om ändring i lagen (2010:1011) om 
+
+brandfarliga och explosiva varor ........................................ 
+
+7 
+
+3 
+
+Ärendet och dess beredning .............................................................. 
+
+9 
+
+4 
+
+Totalförsvaret och totalförsvarsplikten ........................................... 
+
+10 
+
+4.1 
+
+Allmänt om totalförsvaret ................................................ 
+
+10 
+
+4.2 
+
+Kort om den säkerhetspolitiska utvecklingen och 
+
+påverkan på totalförsvaret ................................................ 
+
+10 
+
+4.3 
+
+Totalförsvarsplikt ............................................................. 
+
+11 
+
+4.3.1 
+
+Allmänt om totalförsvarsplikt.......................... 
+
+11 
+
+4.3.2 
+
+Värnplikt.......................................................... 
+
+12 
+
+4.3.3 
+
+Civilplikt.......................................................... 
+
+15 
+
+4.3.4 
+
+Allmän tjänsteplikt .......................................... 
+
+15 
+
+5 
+
+Säkerhetsskydd och säkerhetsprövning........................................... 
+
+16 
+
+5.1 
+
+Allmänt om säkerhetsskydd ............................................. 
+
+16 
+
+5.2 
+
+Säkerhetsskyddsanalys, säkerhetsskyddsåtgärder och 
+
+säkerhetsskyddsklassificering .......................................... 
+
+16 
+
+5.3 
+
+Personalsäkerhet............................................................... 
+
+17 
+
+5.3.1 
+
+Allmänt om säkerhetsprövning........................ 
+
+17 
+
+5.3.2 
+
+Placering i säkerhetsklass ................................ 
+
+18 
+
+5.3.3 
+
+Säkerhetsprövningens innehåll ........................ 
+
+19 
+
+5.3.4 
+
+Krav på samtycke till registerkontroll och 
+
+särskild personutredning.................................. 
+
+21 
+
+5.3.5 
+
+Uppföljande säkerhetsprövning ....................... 
+
+21 
+
+5.3.6 
+
+Ansvaret för säkerhetsprövningen ................... 
+
+22 
+
+5.3.7 
+
+Utbildning i säkerhetsskydd ............................ 
+
+22 
+
+5.3.8 
+
+Sekretess.......................................................... 
+
+23 
+
+5.4 
+
+Tillsyn, råd och vägledning .............................................. 
+
+24 
+
+6 
+
+Skyddet för den personliga integriteten och dess reglering ............ 
+
+24 
+
+6.1 
+
+Begreppet personlig integritet .......................................... 
+
+24 
+
+6.2 
+
+Internationella åtaganden och Europarätt ......................... 
+
+24 
+
+6.2.1 
+
+Förenta nationerna ........................................... 
+
+24 
+
+6.2.2 
+
+Europakonventionen........................................ 
+
+25 
+
+6.2.3 
+
+Europeiska unionen ......................................... 
+
+25 
+
+6.3 
+
+Skyddet för den personliga integriteten i nationell 
+
+rätt .................................................................................... 
+
+26 
+
+6.3.1 
+
+Reglering i grundlag ........................................ 
+
+26 
+
+6.3.2 
+
+Reglering i lag ................................................. 
+
+29 
+
+7 
+
+Säkerhetsprövning av totalförsvarspliktiga i dag ............................ 
+
+30 
+
+7.1 
+
+Placering i säkerhetsklass ................................................. 
+
+30 
+
+7.2 
+
+Säkerhetsprövning inför grundutbildning med 
+
+2 
+
+värnplikt ........................................................................... 
+
+30 
+
+7.2.1 
+
+Grundutredning och inhämtande av 
+
+samtycke ......................................................... 
+
+30 
+
+7.2.2 
+
+Registerkontroll .............................................. 
+
+31 
+
+7.3 
+
+Uppföljande säkerhetsprövning av krigsplacerade .......... 
+
+31 
+
+7.4Säkerhetsprövning av den som redan har fullgjort
+
+grundutbildning med värnplikt ........................................ 
+
+32 
+
+8 
+
+Försvarsmakten ska ansvara för säkerhetsprövningen av 
+
+värnpliktiga .................................................................................... 
+
+32 
+
+9 
+
+Undantag från kravet på samtycke till registerkontroll ska 
+
+införas 
+
+............................................................................................ 
+
+36 
+
+10 
+
+Tydligt lagstöd för den uppföljande säkerhetsprövningen av 
+
+krigsplacerade i Försvarsmakten .................................................... 
+
+41 
+
+11 
+
+Tillstånds- och tillsynsansvaret för Försvarets radioanstalts 
+
+hantering av brandfarliga och explosiva varor ............................... 
+
+44 
+
+11.1 
+
+Försvarets radioanstalt..................................................... 
+
+44 
+
+11.2 
+
+Regleringen om brandfarliga och explosiva varor........... 
+
+45 
+
+11.3Tillstånds- och tillsynsansvaret för Försvarets radioanstalts hantering av brandfarliga och explosiva
+
+varor ska ändras............................................................... 
+
+46 
+
+12 Ikraftträdande- och övergångsbestämmelser.................................. 
+
+47 
+
+12.1 
+
+Ändringarna i säkerhetsskyddslagen ............................... 
+
+47 
+
+12.2Ändringarna i lagen om brandfarliga och explosiva
+
+varor ................................................................................ 
+
+47 
+
+13 Konsekvenser ................................................................................. 
+
+48 
+
+13.1 
+
+Ändringarna i säkerhetsskyddslagen ............................... 
+
+48 
+
+13.2Ändringarna i lagen om brandfarliga och explosiva
+
+varor ................................................................................ 
+
+51 
+
+14 Författningskommentar .................................................................. 
+
+51 
+
+14.1Förslaget till lag om ändring i säkerhetsskyddslagen
+
+(2018:585) ....................................................................... 
+
+51 
+
+14.2Förslaget till lag om ändring i lagen (2010:1011) om
+
+brandfarliga och explosiva varor ..................................... 
+
+53 
+
+Bilaga 1 
+
+Sammanfattning av betänkandet Säkerhetsprövning 
+
+av totalförsvarspliktiga (SOU 2021:82)........................... 
+
+55 
+
+Bilaga 2 
+
+Betänkandets lagförslag................................................... 
+
+60 
+
+Bilaga 3 
+
+Förteckning över remissinstanserna (SOU 2021:82) ....... 
+
+62 
+
+Bilaga 4 
+
+Sammanfattning av promemorian Tillstånds- och 
+
+tillsynsansvaret för Försvarets radioanstalts 
+
+hantering av brandfarliga och explosiva varor ................ 
+
+63 
+
+Bilaga 5 
+
+Promemorians lagförslag................................................. 
+
+64 
+
+Bilaga 6 
+
+Förteckning över remissinstanserna (promemorian) ....... 
+
+66 
+
+Bilaga 7 
+
+Lagrådsremissens lagförslag............................................ 
+
+67 
+
+Bilaga 8 
+
+Lagrådets yttrande ........................................................... 
+
+71 
+
+Utdrag ur protokoll vid regeringssammanträde den 9 mars 2023 .......... 
+
+72 
+
+Prop. 2022/23:87
+
+3
+
+Prop. 2022/23:87
+
+1Förslag till riksdagsbeslut
+
+Regeringens förslag:
+
+1.Riksdagen antar regeringens förslag till lag om ändring i säkerhetsskyddslagen (2018:585).
+
+2.Riksdagen antar regeringens förslag till lag om ändring i lagen (2010:1011) om brandfarliga och explosiva varor.
+
+4
+
+2 
+
+Lagtext 
+
+Prop. 2022/23:87 
+
+Regeringen har följande förslag till lagtext.
+
+2.1Förslag till lag om ändring i säkerhetsskyddslagen (2018:585)
+
+Härigenom föreskrivs i fråga om säkerhetsskyddslagen (2018:585) dels att 3 kap. 4 § ska ha följande lydelse,
+
+dels att det ska införas tre nya paragrafer, 3 kap. 3 a, 4 d och 18 a §§, av följande lydelse.
+
+Nuvarande lydelse 
+
+Föreslagen lydelse 
+
+3kap. 3 a §
+
+En totalförsvarspliktig som efter avslutad grundutbildning med värnplikt har krigsplacerats enligt 3 kap. 12 § lagen (1994:1809) om totalförsvarsplikt i en befattning placerad i säkerhetsklass i Försvarsmaktens verksamhet ska anses delta i säkerhetskänslig verksamhet under den tid som
+
+beslutet om krigsplacering kvarstår.
+
+4 §1
+
+Säkerhetsprövningen ska utgå från uppgifter som kommit fram när grundutredningen gjordes och den kännedom som i övrigt finns om den som ska prövas, uppgifter som har lämnats ut efter registerkontroll och särskild personutredning, arten av den verksamhet som prövningen gäller
+
+samt omständigheterna i övrigt. 
+
+Bedömningen görs av den som 
+
+Bedömningen görs av den som 
+
+beslutar om anställning eller annat 
+
+beslutar om anställning eller annat 
+
+deltagande i den säkerhetskänsliga 
+
+deltagande i den säkerhetskänsliga 
+
+verksamheten, om inte annat följer 
+
+verksamheten, om inte annat följer 
+
+av tredje stycket, 4 a, 4 b eller 
+
+av tredje stycket, 4 a, 4 b, 4 c eller 
+
+4 c §. 
+
+4 d §. 
+
+Om en myndighet har det bestämmande inflytandet över den prövades lämplighet att delta i säkerhetskänslig verksamhet hos en enskild verksamhetsutövare, är det i stället myndigheten som gör den slutliga bedömningen.
+
+1 Senaste lydelse 2022:443. 
+
+5 
+
+Prop. 2022/23:87 Om det finns anledning till det, ska en tidigare gjord bedömning av en persons lämplighet att delta i den säkerhetskänsliga verksamheten omprövas.
+
+4 d §
+
+Bedömningen enligt 4 § görs av Försvarsmakten när det gäller
+
+totalförsvarspliktigainför inskrivning för värnplikt och totalförsvarspliktiga som efter avslutad grundutbildning med värnplikt har krigsplacerats enligt 3 kap. 12 § lagen (1994:1809) om totalförsvarsplikt i en befattning placerad i säkerhetsklass i Försvarsmaktens verksamhet.
+
+18 a §
+
+Kravet på samtycke till registerkontroll i 18 § gäller inte en totalförsvarspliktig som skrivs in
+
+för värnplikt enligt lagen (1994:1809) om totalförsvarsplikt. Kravet gäller inte heller en totalförsvarspliktig som efter avslutad grundutbildning med värnplikt har krigsplacerats enligt den lagen.
+
+Undantaget från kravet på samtycke gäller under den tid som deltagandet i den säkerhetskänsliga verksamheten pågår.
+
+Undantaget gäller endast för sådan registerkontroll som ska göras för placering i säkerhetsklass 3.
+
+Denna lag träder i kraft den 1 oktober 2023.
+
+6
+
+6. sådan hantering som Försvarsmakten, Försvarets materielverk, Försvarets radioanstalt, Totalförsvarets forskningsinstitut och Fortifikationsverket behöver ha tillstånd till.
+
+Frågor om tillstånd till hantering och överföring av explosiva varor i övriga fall ska prövas av den kommun där varorna ska hanteras. Om frågan gäller förvaring i ett flyttbart förråd och förvaringen ska ske i mer än en kommun, ska frågan prövas av den kommun där sökanden är bosatt eller där verksamheten huvudsakligen ska bedrivas.
+
+Prop. 2022/23:87
+
+2.2Förslag till lag om ändring i lagen (2010:1011) om brandfarliga och explosiva varor
+
+Härigenom föreskrivs att 17, 18 och 21 §§ lagen (2010:1011) om brandfarliga och explosiva varor ska ha följande lydelse.
+
+Nuvarande lydelse 
+
+Föreslagen lydelse 
+
+17 § 
+
+Frågor om tillstånd till hantering 
+
+Frågor om tillstånd till hantering 
+
+av brandfarliga 
+
+varor 
+
+inom 
+
+av brandfarliga 
+
+varor 
+
+inom 
+
+Försvarsmakten, 
+
+Försvarets 
+
+Försvarsmakten, 
+
+Försvarets 
+
+materielverk, 
+
+Totalförsvarets 
+
+materielverk, 
+
+Försvarets 
+
+radio- 
+
+forskningsinstitut 
+
+och Fortifika- 
+
+anstalt, Totalförsvarets forsknings- 
+
+tionsverket 
+
+ska 
+
+prövas 
+
+av 
+
+institut och Fortifikationsverket ska 
+
+Myndigheten 
+
+för 
+
+samhällsskydd 
+
+prövas av 
+
+Myndigheten 
+
+för 
+
+och beredskap. 
+
+samhällsskydd och beredskap. 
+
+Frågor om tillstånd till hantering av brandfarliga varor i övriga fall ska prövas av den kommun där hanteringen ska bedrivas.
+
+18 §1
+
+Myndigheten för samhällsskydd och beredskap ska pröva frågor om tillstånd till explosiva varor som avser
+
+1.tillverkning, bearbetning, behandling, destruktion, underhåll och återvinning,
+
+2.annan hantering som sker i anslutning till sådan hantering som nämns
+
+i1,
+
+3.gränsöverskridande överföring,
+
+4.import,
+
+5.export, och
+
+6. sådan hantering som Försvarsmakten, Försvarets materielverk, Totalförsvarets forskningsinstitut och Fortifikationsverket behöver ha tillstånd till.
+
+Frågor om tillstånd till hantering och överföring av explosiva varor i övriga fall ska prövas av den kommun där varorna ska hanteras. Gäller frågan förvaring i flyttbart förråd och ska förvaringen ske i mer än en kommun, ska frågan prövas av den kommun där sökanden är bosatt eller där verksamheten huvudsakligen ska bedrivas.
+
+1 Senaste lydelse 2016:379. 
+
+7 
+
+Prop. 2022/23:87
+
+21 § 
+
+Den 
+
+myndighet 
+
+som prövar 
+
+Den 
+
+myndighet 
+
+som 
+
+prövar 
+
+frågor om tillstånd enligt denna lag 
+
+frågor om tillstånd enligt denna lag 
+
+har också, inom sitt verksamhets- 
+
+har också, inom sitt verksamhets- 
+
+område, tillsyn över efterlevnaden 
+
+område, tillsyn över att lagen och 
+
+av lagen och föreskrifter och beslut 
+
+föreskrifter och beslut som har 
+
+som meddelats i anslutning till 
+
+meddelats i anslutning till lagen 
+
+lagen. 
+
+följs. 
+
+Försvarsmakten 
+
+får, 
+
+efter 
+
+Försvarsmakten får, efter med- 
+
+medgivande 
+
+av 
+
+Myndigheten 
+
+för 
+
+givande 
+
+av 
+
+Myndigheten 
+
+för 
+
+samhällsskydd 
+
+och 
+
+beredskap, i 
+
+samhällsskydd 
+
+och 
+
+beredskap, i 
+
+stället 
+
+för 
+
+Myndigheten 
+
+för 
+
+stället 
+
+för 
+
+Myndigheten 
+
+för 
+
+samhällsskydd 
+
+och 
+
+beredskap 
+
+samhällsskydd 
+
+och 
+
+beredskap 
+
+utöva viss tillsyn över Försvars- 
+
+utöva viss tillsyn över Försvars- 
+
+maktens, Försvarets materielverks, 
+
+maktens, Försvarets materielverks, 
+
+Totalförsvarets 
+
+forskningsinstituts 
+
+Försvarets 
+
+radioanstalts, 
+
+Total- 
+
+och Fortifikationsverkets hantering 
+
+försvarets 
+
+forskningsinstituts 
+
+och 
+
+och import av brandfarliga och 
+
+Fortifikationsverkets hantering och 
+
+explosiva varor. 
+
+import 
+
+av 
+
+brandfarliga 
+
+och 
+
+explosiva varor. 
+
+Myndigheten för samhällsskydd 
+
+Myndigheten för samhällsskydd 
+
+och beredskap eller den myndighet 
+
+och beredskap eller den myndighet 
+
+som 
+
+regeringen bestämmer 
+
+har 
+
+som regeringen bestämmer 
+
+har 
+
+tillsyn över hanteringen av brand- 
+
+tillsyn över hanteringen av brand- 
+
+farliga varor som transporteras i 
+
+farliga varor som transporteras i en 
+
+sådan 
+
+rörledning 
+
+för 
+
+vilken 
+
+sådan rörledning som det har 
+
+koncession 
+
+har 
+
+meddelats 
+
+enligt 
+
+meddelats 
+
+koncession för 
+
+enligt 
+
+lagen (1978:160) om vissa rör- 
+
+lagen (1978:160) om vissa rör- 
+
+ledningar eller enligt naturgaslagen 
+
+ledningar eller enligt naturgaslagen 
+
+(2005:403). 
+
+(2005:403). 
+
+Denna lag träder i kraft den 1 juli 2023.
+
+8
+
+3 
+
+Ärendet och dess beredning 
+
+Prop. 2022/23:87 
+
+Regeringen beslutade den 11 februari 2021 att ge en särskild utredare i uppdrag att se över reglerna om säkerhetsprövning enligt säkerhetsskyddslagen (2018:585) av sådana totalförsvarspliktiga som ska tjänstgöra i säkerhetskänslig verksamhet med stöd av lagen (1994:1809) om totalförsvarsplikt. Syftet var att analysera vilken eller vilka myndigheter som bör ansvara för och genomföra säkerhetsprövningen av totalförsvarspliktiga samt se till att säkerhetsprövningen kan genomföras på ett ändamålsenligt och effektivt sätt. Uppdraget syftade också till att säkerställa att kravet på samtycke till registerkontroll och särskild personutredning enligt säkerhetsskyddslagen inte urholkar de skyldigheter som följer av lagen om totalförsvarsplikt (dir. 2021:9).
+
+Utredningen, som tog namnet Utredningen om säkerhetsprövning av totalförsvarspliktiga (Fö 2021:01), överlämnade den 26 oktober 2021 betänkandet Säkerhetsprövning av totalförsvarspliktiga (SOU 2021:82).
+
+En sammanfattning av betänkandet finns i bilaga 1. Betänkandets lagförslag finns i bilaga 2.
+
+Betänkandet har remissbehandlats. En förteckning över remissinstanserna finns i bilaga 3. Remissvaren finns tillgängliga på regeringens webbplats (regeringen.se) och i Försvarsdepartementet (Fö2021/01204).
+
+Inom Försvarsdepartementet har det utarbetats en promemoria med förslag om ändringar i lagen (2010:1011) om brandfarliga och explosiva varor i fråga om tillstånds- och tillsynsansvaret för Försvarets radioanstalts hantering av brandfarliga och explosiva varor. En sammanfattning av promemorian finns i bilaga 4. Promemorians lagförslag finns i bilaga 5.
+
+Promemorian har remissbehandlats. En förteckning över remissinstanserna finns i bilaga 6. Remissvaren finns tillgängliga på regeringens webbplats (regeringen.se) och i Försvarsdepartementet (Fö2021/00609).
+
+Lagrådet
+
+Regeringen beslutade den 2 februari 2023 att inhämta Lagrådets yttrande över de lagförslag som finns i bilaga 7. Lagrådets yttrande finns i bilaga 8. Lagrådet lämnade förslagen utan erinran. Vissa språkliga och redaktionella ändringar har gjorts i förhållande till förslagen i lagrådsremissen.
+
+9
+
+Prop. 2022/23:87 
+
+4 
+
+Totalförsvaret och totalförsvarsplikten 
+
+4.1Allmänt om totalförsvaret
+
+Totalförsvar är den verksamhet som behövs för att förbereda Sverige för krig. Totalförsvaret består av militär verksamhet (militärt försvar) och civil verksamhet (civilt försvar). Detta framgår av 1 § lagen (1992:1403) om totalförsvar och höjd beredskap.
+
+För att stärka landets försvarsförmåga kan beredskapen höjas. Med höjd beredskap menas antingen skärpt beredskap eller högsta beredskap. Under högsta beredskap är totalförsvar all samhällsverksamhet som då ska bedrivas (1 §).
+
+Om Sverige är i krig råder högsta beredskap. Om Sverige är i krigsfara eller om det råder sådana utomordentliga förhållanden som är föranledda av att det är krig utanför Sveriges gränser eller av att Sverige har varit i krig eller krigsfara, får regeringen besluta om skärpt eller högsta beredskap (3 §).
+
+Den del av totalförsvaret som utgör det militära försvaret är främst en uppgift för Försvarsmakten, men också för andra myndigheter som har till uppgift att stödja det militära försvaret. Det civila försvaret omfattar hela samhället, och verksamheten bedrivs av många olika aktörer: statliga och kommunala myndigheter, näringsliv och frivilligorganisationer.
+
+4.2 
+
+Kort om den säkerhetspolitiska utvecklingen 
+
+och påverkan på totalförsvaret 
+
+I propositionen Försvarspolitisk inriktning – Sveriges försvar 
+2016–2020
+
+(prop. 2014/15:109) konstaterade regeringen att den säkerhetspolitiska 
+
+situationen i Europa hade försämrats och att den ryska ledningen hade 
+
+visat att den är beredd att använda sin militära förmåga för att uppnå 
+
+politiska mål. Mot denna bakgrund beslutade riksdagen och regeringen att 
+
+totalförsvarets förmåga inför och vid ett angrepp behövde stärkas. En 
+
+sammanhängande planering för totalförsvaret skulle därför återupptas. 
+
+Därefter har regeringen i propositionen Totalförsvaret 
+2021–2025
+ (prop. 
+
+2020/21:30) konstaterat att ett väpnat angrepp mot Sverige inte kan 
+
+uteslutas, och att det inte heller kan uteslutas att militära maktmedel eller 
+
+hot om sådana kan komma att användas mot Sverige. Med hänsyn till att 
+
+Sverige oundvikligen skulle påverkas om en säkerhetspolitisk kris eller 
+
+väpnad konflikt uppstår i Sveriges närområde har regeringen bedömt att 
+
+totalförsvarets förmåga måste fortsätta att stärkas. 
+
+Riksdagen har därefter beslutat om ett övergripande mål för 
+
+totalförsvaret och om nya mål för det civila och militära försvaret 
+
+(bet. 2020/21:FöU4 och rskr. 2020/21:136). Det övergripande målet för 
+
+Sveriges totalförsvar är att ha förmåga att försvara Sverige mot ett väpnat 
+
+angrepp och värna vår säkerhet, frihet, självständighet och handlingsfrihet. 
+
+Verksamhet inom totalförsvaret ska kunna bedrivas enskilt och 
+
+tillsammans med andra, inom och utom landet. 
+
+Regeringen har vidare beslutat om mål för Försvarsmaktens operativa 
+
+10 
+
+förmåga. Försvarsmakten ska bland annat successivt under perioden 
+
+2021–2025
+ respektive 
+2026–2030
+ öka sin förmåga att, i händelse av krig, Prop. 2022/23:87 utan förberedelsetid och under pågående angrepp, mobilisera krigsorganisationen. Under samma tidsperiod ska Försvarsmakten öka sin
+
+förmåga att, i fredstid, bland annat kunna lösa krigsuppgifter med hela krigsorganisationen inom en vecka efter beslut om höjd beredskap och allmän mobilisering. Inom ramen för detta ska del av krigsorganisationen kunna börja lösa krigsuppgifter omedelbart och huvuddelen av krigsorganisationen kunna börja lösa krigsuppgifter inom några dagar (regeringsbeslut den 17 december 2020, Fö nr 30).
+
+Ryssland har under flera år visat att landet är berett att använda militärt våld för att nå sina politiska mål, bland annat genom krigen i Georgien 2008 och sedan 2014 i Ukraina, inklusive den olagliga annekteringen av Krim. Den fullskaliga invasionen av Ukraina den 24 februari 2022 utgör ett vidare steg i denna utveckling. Den ryska aggressionen innebär att säkerhetsläget i Europa har förändrats i grunden, med konsekvenser även för Sveriges säkerhet.
+
+Den 16 mars 2022 enades samtliga politiska partier i riksdagen om att öka anslagen till det militära och det civila försvaret under 2022. Syftet med anslagsökningarna är att stärka försvarsförmågan på kort sikt och åstadkomma en snabbare upprustning av försvaret.
+
+Den 16 maj 2022 beslutade regeringen att ansöka om medlemskap i Nato (regeringsbeslut den 16 maj 2022, UD nr I:1).
+
+4.3Totalförsvarsplikt
+
+4.3.1 Allmänt om totalförsvarsplikt
+
+Bestämmelser om totalförsvarsplikt finns i lagen (1994:1809) om total- 
+
+försvarsplikt. I lagen anges att totalförsvaret är en angelägenhet för hela 
+
+befolkningen (1 kap. 1 §). 
+
+Totalförsvarsplikt gäller för varje svensk medborgare och i Sverige 
+
+bosatta personer från början av det kalenderår när han eller hon fyller 
+
+sexton år till slutet av det kalenderår när han eller hon fyller sjuttio år 
+
+(1 kap. 2 §). 
+
+Totalförsvarspliktiga är skyldiga att medverka vid utredning om deras 
+
+personliga förhållanden, tjänstgöra inom totalförsvaret i den omfattning 
+
+som hans eller hennes kroppskrafter och hälsotillstånd tillåter, och iaktta 
+
+de föreskrifter som i övrigt meddelas enligt lagen om totalförsvarsplikt 
+
+(1 kap. 3 §). 
+
+Skyldigheten att tjänstgöra inom totalförsvaret fullgörs genom värnplikt, 
+
+civilplikt eller allmän tjänsteplikt. Värnplikten och civilplikten omfattar 
+
+grundutbildning, repetitionsutbildning, beredskapstjänstgöring och 
+
+krigstjänstgöring, medan den allmänna tjänsteplikten innebär tjänstgöring 
+
+enbart under höjd beredskap (1 kap. 4 §). 
+
+I lagen om totalförsvarsplikt finns också bestämmelser om straff 
+
+kopplade till totalförsvarsplikten. En totalförsvarspliktig som uppsåtligen 
+
+eller av oaktsamhet uteblir från en mönstring eller annan utredning enligt 
+
+2 kap. 1 § som han eller hon har kallats till döms till penningböter. Om en 
+
+totalförsvarspliktig uppsåtligen avviker eller uteblir från värnplikt, 
+
+civilplikt eller allmän tjänsteplikt döms denne, under vissa förutsättningar, 
+
+11 
+
+Prop. 2022/23:87 för brott mot totalförsvarsplikten till böter eller fängelse i högst ett år (10 kap. 1 och 2 §§).
+
+Totalförsvarsplikten är inte grundlagsreglerad, men den aktualiserar vissa grundlagsrelaterade aspekter. Av 2 kap. 8 § regeringsformen framgår att var och en gentemot det allmänna är skyddad mot frihetsberövanden och att varje svensk medborgare även i övrigt är tillförsäkrad frihet att förflytta sig inom riket och lämna det. Totalförsvarsplikten är en begränsning av denna frihet eftersom plikten innebär en skyldighet för enskilda att t.ex. genomgå mönstring och fullgöra grundutbildning. Rörelsefriheten får enligt 2 kap. 12 § regeringsformen begränsas endast genom lag, och en begränsning får bara göras för att tillgodose ändamål som är godtagbara i ett demokratiskt samhälle. Begränsningen måste också vara proportionerlig med hänsyn till det ändamål den avser att fylla och får inte sträcka sig så långt att den utgör ett hot mot den fria åsiktsbildningen. Totalförsvarsplikten, som alltså inskränker rörelsefriheten, har således bedömts stå i överensstämmelse med kraven i regeringsformen.
+
+I lagen om totalförsvarsplikt anges också att den som fullgör värnplikt eller civilplikt är skyldig att i den mån verksamheten kräver det tåla inskränkningar såväl i sin frihet att förflytta sig inom landet och att lämna detta som i sin personliga frihet i övrigt (5 kap. 1 § första stycket).
+
+4.3.2Värnplikt
+
+Återaktiveringen av värnplikten
+
+Våren 2010 beslutade riksdagen att totalförsvarets personalförsörjning skulle bygga på frivillighet och inte på plikt. Bedömningen gjordes dock att totalförsvarsplikten i grunden skulle kvarstå med möjlighet för regeringen att aktivera delar av totalförsvarsplikten om försvarsberedskapen kräver det. Skyldigheten att genomgå mönstring och fullgöra värnplikt och civilplikt skulle därmed vara vilande till dess att regeringen beslutade annat. Dessutom skulle skyldigheten att fullgöra värnplikt och civilplikt med längre grundutbildning omfatta även kvinnor (prop. 2009/10:160 s. 
+77–80).
+ I och med detta infördes ett nytt personalförsörjningssystem, byggt på tidvis och kontinuerligt anställd personal samt avtalspersonal.
+
+I december 2014 beslutade regeringen att totalförsvarspliktiga som, efter att ha fullgjort grundutbildning med värnplikt eller annan motsvarande militär utbildning eller tjänstgöring i Försvarsmakten, krigsplacerats i ett krigsförband ska vara skyldiga att fullgöra repetitionsutbildning enligt lagen om totalförsvarsplikt (regeringsbeslut den 11 december 2014, Fö nr 15).
+
+Den 2 mars 2017 beslutade regeringen att totalförsvarspliktiga ska vara skyldiga att genomgå mönstring och fullgöra grundutbildning med värnplikt (regeringsbeslut den 2 mars 2017, Fö nr 3).
+
+I och med 2014 och 2017 års beslut aktiverades alltså delar av den vilande totalförsvarsplikten. Skyldigheten för totalförsvarspliktiga att fullgöra civilplikt är alltjämt vilande.
+
+12
+
+Mönstring
+
+Alla totalförsvarspliktiga är skyldiga att genomgå mönstring om det inte är uppenbart att han eller hon saknar förutsättningar att fullgöra värnplikt och civilplikt. Skyldigheten inträder det kalenderår när den totalförsvarspliktige fyller 18 år eller, för den som förvärvar svenskt medborgarskap senare, från och med den dag när han eller hon blir svensk medborgare. Om det inte finns särskilda skäl, är ingen skyldig att genomgå mönstring efter det kalenderår när han eller hon fyller 24 år. Mönstringen syftar till att utreda om den totalförsvarspliktige har förutsättningar att fullgöra värnplikt eller civilplikt (2 kap. 2 § lagen om totalförsvarsplikt).
+
+Totalförsvarets plikt- och prövningsverk ska kalla de totalförsvarspliktiga svenska medborgare till mönstring som bedöms ha förutsättningar för att skrivas in enligt 3 kap. 1 § lagen om totalförsvarsplikt och som i övrigt kan antas komma i fråga för sådan inskrivning. Myndigheten ska kalla till mönstring senast det kalenderår den totalförsvarspliktige fyller
+
+19år, om han eller hon inte vistas utomlands eller det finns andra särskilda skäl att inte kalla honom eller henne (4 kap. 1 § förordningen [1995:238] om totalförsvarsplikt).
+
+För att göra en första bedömning av vilka som kan antas ha förutsättningar att fullgöra grundutbildning med värnplikt skickar Totalförsvarets plikt- och prövningsverk ut ett så kallat mönstringsunderlag till de allra flesta totalförsvarspliktiga som ska fylla 18 år. Totalförsvarspliktiga är skyldiga att svara på frågorna i mönstringsunderlaget (2 kap. 1 § lagen om totalförsvarsplikt). Utifrån Försvarsmaktens behov och svaren i mönstringsunderlaget avgör sedan Totalförsvarets plikt- och prövningsverk vilka som ska kallas till mönstring.
+
+Mönstringen sker vid personlig inställelse och omfattar medicinska och psykologiska undersökningar samt annan utredning av den totalförsvarspliktiges personliga förhållanden (2 kap. 2 § lagen om totalförsvarsplikt).
+
+Om resultatet av mönstringen visar att den totalförsvarspliktige har förutsättningar att fullgöra värnplikt (eller civilplikt), ska Totalförsvarets plikt- och prövningsverk placera honom eller henne i en eller flera befattningsgrupper samt skriva in honom eller henne för värnplikt (3 kap.
+
+1§ lagen om totalförsvarsplikt). Ur varje befattningsgrupp ska de som är bäst lämpade sedan skrivas in för tjänstgöring (3 kap. 2 § lagen om totalförsvarsplikt).
+
+För att skriva in en person till grundutbildning med värnplikt räknar Totalförsvarets plikt- och prövningsverk med att behöva mönstra i genomsnitt 3,5 personer. Myndigheten har under 2021 mönstrat 19 800 totalförsvarspliktiga och av dessa skrivit in 5 800 till grundutbildning med värnplikt. Motsvarande siffror för 2020 var 13 000 mönstrade och ca 5 100 inskrivna. 2019 mönstrades 16 200 totalförsvarspliktiga och ca 4 700 skrevs in. 2018 mönstrades 14 177 totalförsvarspliktiga och ca 3 700 skrevs in. Totalförsvarets plikt- och prövningsverk räknar med att under de kommande åren behöva öka antalet mönstrade för att 2025 kunna skriva in ca 8 000 totalförsvarspliktiga för grundutbildning med värnplikt. Alltså behöver sannolikt ca 28 000 mönstringar genomföras år 2025.
+
+Prop. 2022/23:87
+
+13
+
+Prop. 2022/23:87
+
+14
+
+Grundutbildning med värnplikt
+
+Värnplikten ska fullgöras hos Försvarsmakten och den ska alltid inledas med grundutbildning, om inte den totalförsvarspliktige redan har fullgjort annan motsvarande militär utbildning eller tjänstgöring (1 kap. 5 § lagen om totalförsvarsplikt). Grundutbildningen för en totalförsvarspliktig som har skrivits in för värnplikt är högst 615 dagar lång (4 kap. 1 §).
+
+Den som fullgör värnplikt är skyldig att, i den mån verksamheten kräver, tåla inskränkningar såväl i sin frihet att förflytta sig inom landet och att lämna detta som i sin personliga frihet i övrigt. Den som fullgör värnplikt kan under vissa förhållanden t.ex. bli skyldig att genomgå medicinska och psykologiska undersökningar och att lämna 
+urin-,
+ saliv- eller hårprov för kontroll av att han eller hon inte är påverkad av beroendeframkallande medel (5 kap. 1 §).
+
+Den som fullgör värnplikt ska lyda en förmans eller annan chefs order, om det inte är uppenbart att ordern inte angår tjänsten, och den ska även i övrigt rätta sig efter de tjänstgöringsföreskrifter som gäller (5 kap. 2 §).
+
+Grundutbildningen ska ge de kunskaper och färdigheter som krigsuppgiften kräver (5 kap. 3 § första stycket).
+
+Krigsplacering
+
+Om den totalförsvarspliktige efter avslutad grundutbildning har förvärvat tillräckliga kunskaper och färdigheter för en krigsuppgift ska denne krigsplaceras i en befattning eller i en viss verksamhet som han eller hon är lämplig för. Krigsplaceringen ska inte kvarstå längre än tio år efter det senaste tjänstgöringstillfället. Om det finns särskilda skäl i enskilda fall får beslut fattas om förlängning (3 kap. 12 § lagen om totalförsvarsplikt).
+
+Det är Totalförsvarets plikt- och prövningsverk som, efter framställningar från statliga myndigheter, kommuner, regioner, bolag, föreningar m.fl., fattar beslut om krigsplacering (3 kap. 15 § första stycket lagen om totalförsvarsplikt).
+
+När det gäller en totalförsvarspliktig som har fullgjort grundutbildning med värnplikt är det Försvarsmakten som gör en sådan framställning till Totalförsvarets plikt- och prövningsverk.
+
+Ett beslut om krigsplacering får fattas utan att den som beslutet avser ges tillfälle att yttra sig (4 kap. 8 § förordningen om totalförsvarsplikt). Beslut om krigsplacering är inte överklagbara (jfr 11 kap. 4 § lagen om totalförsvarsplikt).
+
+Repetitionsutbildning
+
+Totalförsvarspliktiga som har genomgått grundutbildning och som är
+
+krigsplacerade kan bli kallade till repetitionsutbildning.
+
+Repetitionsutbildningen ska vidmakthålla och utveckla de totalförsvarspliktigas skicklighet för krigsuppgiften (5 kap. 3 § andra stycket lagen om totalförsvarsplikt). Repetitionsutbildningens omfattning bestäms av krigsuppgiften och behovet att öva det förband eller den verksamhet där den totalförsvarspliktige är krigsplacerad (5 kap. 5 §).
+
+Regeringen har 2014, som beskrivits ovan, beslutat att återaktivera möjligheten för Försvarsmakten att kalla krigsplacerade totalförsvarspliktiga till repetitionsutbildning. Beslutet fattades mot bakgrund av att
+
+totalförsvarspliktiga kvarstår i krigsförbanden och att Försvarsmakten bör Prop. 2022/23:87 ges möjlighet att bedriva repetitionsutbildning av dessa i den utsträckning
+
+det behövs för Sveriges försvarsberedskap (regeringsbeslut den 11 december 2015, Fö nr 15).
+
+Det är Totalförsvarets plikt- och prövningsverk som kallar krigsplacerade totalförsvarspliktiga till repetitionsutbildning. När det gäller repetitionsutbildning av krigsplacerade i Försvarsmakten är det på uppdrag av den myndigheten som Totalförsvarets plikt- och prövningsverk skickar ut kallelse till repetitionsutbildning.
+
+När en krigsplacerad totalförsvarspliktig deltar i en repetitionsutbildning förlängs tiden för krigsplaceringen med tio år räknat från repetitionsutbildningen (jfr 3 kap. 12 § tredje stycket lagen om totalförsvarsplikt).
+
+Krigstjänstgöring och beredskapstjänstgöring
+
+Totalförsvarspliktiga som har krigsplacerats enligt lagen om totalförsvarsplikt är skyldiga att fullgöra krigstjänstgöring under höjd beredskap (4 kap. 7 §).
+
+Om det behövs med hänsyn till Sveriges försvarsberedskap får regeringen föreskriva att totalförsvarspliktiga som har krigsplacerats enligt lagen om totalförsvarsplikt ska fullgöra beredskapstjänstgöring (4 kap. 8 §).
+
+4.3.3Civilplikt
+
+När personalförsörjningssystemet ändrades 2010 och skyldigheten att genomgå mönstring och fullgöra värnplikt upphörde att gälla, upphörde också motsvarande skyldigheter avseende civilplikten. Till skillnad från vad som i dag gäller för värnplikten, är civilplikten inte återaktiverad. Civilplikten är alltså fortsatt vilande och inga totalförsvarspliktiga kallas till mönstring eller fullgör grundutbildning med civilplikt. Regeringen gav dock den 12 januari 2023 Myndigheten för samhällsskydd i beredskap i uppdrag att genomföra de åtgärder som behövs för att förbereda för en
+
+aktivering av civilplikten inom kommunal räddningstjänst (regeringsbeslut den 12 januari 2023, Fö nr 1).
+
+4.3.4Allmän tjänsteplikt
+
+När det råder höjd beredskap får regeringen besluta att totalförsvarspliktiga ska fullgöra allmän tjänsteplikt, om det behövs för att verksamhet som är av särskild vikt för totalförsvaret ska kunna upprätthållas. Det framgår av 6 kap. 1 § lagen om totalförsvarsplikt.
+
+Allmän tjänsteplikt fullgörs genom att den som är totalförsvarspliktig kvarstår i sin anställning eller fullföljer ett uppdrag, eller tjänstgör enligt avtal om frivillig tjänstgöring inom totalförsvaret. Allmän tjänsteplikt kan också fullgöras genom att den totalförsvarspliktige utför arbete som anvisas honom eller henne av den myndighet som regeringen bestämmer. Sådant arbete får vara förenat med bruk av vapen mot annan endast om den som tjänstgör har samtyckt till det (6 kap. 2 §). Arbetsförmedlingen
+
+har i uppgift att bland annat anvisa totalförsvarspliktiga till sådant arbete
+
+15
+
+Prop. 2022/23:87 och besluta om hos vilka andra arbetsgivare och uppdragsgivare än statliga myndigheter som allmän tjänsteplikt ska fullgöras (6 kap. 2 § förordningen om totalförsvarsplikt).
+
+Den som är krigsplacerad med stöd av lagen om totalförsvarsplikt får inte omfattas av ett beslut om att fullgöra allmän tjänsteplikt (6 kap. 3 § förordningen om totalförsvarsplikt).
+
+5Säkerhetsskydd och säkerhetsprövning
+
+5.1Allmänt om säkerhetsskydd
+
+Säkerhetsskydd är skydd av säkerhetskänslig verksamhet mot spioneri, sabotage, terroristbrott och andra brott som kan hota verksamheten samt skydd i andra fall av säkerhetsskyddsklassificerade uppgifter. Detta framgår av 1 kap. 2 § säkerhetsskyddslagen (2018:585). Med säkerhetskänslig verksamhet avses alla verksamheter som till någon del är av betydelse för Sveriges säkerhet eller som omfattas av ett för Sverige förpliktande internationellt åtagande om säkerhetsskydd (1 kap. 1 §).
+
+Med säkerhetsskyddsklassificerade uppgifter avses uppgifter som rör säkerhetskänslig verksamhet och som därför omfattas av sekretess enligt offentlighets- och sekretesslagen (2009:400) eller som skulle ha omfattats av sekretess enligt den lagen om den hade varit tillämplig (1 kap. 2 § andra stycket). I propositionen Ett modernt och stärkt skydd för Sveriges säkerhet – ny säkerhetsskyddslag (prop. 2017/18:89 s. 52) anges att särskilt relevant för vägledning i fråga om vilka uppgifter som till sin natur medför krav på säkerhetsskydd är den så kallade försvarssekretessen i 15 kap. 2 § offentlighets- och sekretesslagen. Enligt den bestämmelsen gäller sekretess för uppgift som rör verksamhet för att försvara landet eller planläggning eller annan förberedelse av sådan verksamhet eller som i övrigt rör totalförsvaret, om det kan antas att det skadar landets försvar eller på annat sätt vållar fara för rikets säkerhet om uppgiften röjs. Även andra sekretessbestämmelser som delvis överlappar försvarssekretessen bör kunna tjäna som vägledning till vilka förhållanden som är av betydelse för Sveriges säkerhet.
+
+5.2Säkerhetsskyddsanalys, säkerhetsskyddsåtgärder och säkerhetsskyddsklassificering
+
+Den som bedriver säkerhetskänslig verksamhet ska vidta vissa åtgärder för att följa säkerhetsskyddslagens bestämmelser. Bland annat ska behovet av säkerhetsskydd utredas i en säkerhetsskyddsanalys som ska dokumenteras. Med utgångspunkt i analysen ska verksamhetsutövaren planera och vidta de säkerhetsskyddsåtgärder som behövs med hänsyn till verksamhetens art, omfattning, förekomst av säkerhetsskyddsklassificerade uppgifter och övriga omständigheter (2 kap. 1 § säkerhetsskyddslagen).
+
+16
+
+Säkerhetsskyddsåtgärderna delas in i tre kategorier: informations- Prop. 2022/23:87 säkerhet, fysisk säkerhet och personalsäkerhet.
+
+Säkerhetsskyddsåtgärden informationssäkerhet ska förebygga att säkerhetsskyddsklassificerade uppgifter obehörigen röjs, ändras, görs otillgängliga eller förstörs. Informationssäkerhet ska också förebygga skadlig inverkan i övrigt på uppgifter och informationssystem som gäller säkerhetskänslig verksamhet (2 kap. 2 §).
+
+Säkerhetsskyddsåtgärden fysisk säkerhet ska förebygga obehörigt tillträde till och skadlig inverkan på områden, byggnader och andra anläggningar eller objekt där säkerhetsskyddsklassificerade uppgifter finns eller där säkerhetskänslig verksamhet i övrigt bedrivs (2 kap. 3 §).
+
+Slutligen ska säkerhetsskyddsåtgärden personalsäkerhet förebygga att personer som inte är pålitliga från säkerhetssynpunkt deltar i en verksamhet där de kan få tillgång till säkerhetsskyddsklassificerade uppgifter eller i en verksamhet som av någon annan anledning är säkerhetskänslig. Åtgärden personalsäkerhet ska också säkerställa att de som deltar i säkerhetskänslig verksamhet har tillräcklig kunskap om säkerhetsskydd (2 kap. 4 §). Säkerhetsskyddsåtgärden personalsäkerhet består av två delar, den ena är säkerhetsprövning, den andra utbildning. Frågor om personalsäkerhet behandlas särskilt i nästa avsnitt.
+
+Den som bedriver säkerhetskänslig verksamhet ska genom säkerhetsskyddsklassificering dela in sådana uppgifter som vid ett röjande kan medföra skada för Sveriges säkerhet i fyra olika säkerhetsskyddsklasser:
+
+1.kvalificerat hemlig vid en synnerligen allvarlig skada,
+
+2.hemlig vid en allvarlig skada,
+
+3.konfidentiell vid en inte obetydlig skada, eller
+
+4.begränsat hemlig vid endast ringa skada.
+
+Indelningen har betydelse bland annat när det gäller placering av befattningar i säkerhetsklass, se avsnitt 5.3.2 nedan.
+
+5.3Personalsäkerhet
+
+5.3.1Allmänt om säkerhetsprövning
+
+En säkerhetsprövning ska göras av den som genom anställning eller på något annat sätt ska delta i säkerhetskänslig verksamhet. Vissa typer av uppdrag, bland annat som statsråd, ledamot av riksdagen, som offentlig försvarare eller ombud undantas från kravet på säkerhetsprövning (3 kap.
+
+1§ säkerhetsskyddslagen).
+
+Säkerhetsprövning handlar ytterst om att bedöma om en person har
+
+tillräckliga förutsättningar och personlig lämplighet att genom anställning eller på annat sätt delta i säkerhetskänslig verksamhet. Det är fråga om en bedömning som görs utifrån ett riskreduceringsperspektiv, dvs. i syfte att undvika risker i den säkerhetskänsliga verksamheten som inte kan accepteras. Det bör göras en helhetsbedömning som baseras på ett allsidigt underlag och på att bedömningen tydligt relateras till verksamheten och anställningen (prop. 2017/18:89 s. 79).
+
+17
+
+Prop. 2022/23:87 Syftet med säkerhetsprövningen är att klarlägga om en person kan antas vara lojal mot de intressen som skyddas i säkerhetsskyddslagen och i övrigt är pålitlig från säkerhetssynpunkt. Vid säkerhetsprövningen ska sådana omständigheter beaktas som kan antas innebära sårbarheter i säkerhetshänseende (3 kap. 2 § säkerhetsskyddslagen). Pålitlighetsbedömningen ska innefatta inte bara en bedömning av om det finns en risk för att personen i fråga kan göra sig skyldig till spioneri eller dylikt, utan också av risken för att personen kan bli utsatt för olika påtryckningar eller risker för att den enskilde genom slarv eller på annat oavsiktligt sätt röjer sekretessbelagda uppgifter. Med lojalitetsprövningen avses i första hand en bedömning av om det t.ex. på grund av bindningar till en främmande makt eller en terroristorganisation finns en risk att personen begår brottsliga handlingar (prop. 2017/18:89 s. 79).
+
+Säkerhetsprövningen ska göras innan deltagandet i den säkerhetskänsliga verksamheten påbörjas och prövningen ska innefatta en grundutredning samt under vissa förutsättningar kompletteras med registerkontroll och särskild personutredning (3 kap. 3 § säkerhetsskyddslagen). Säkerhetsprövningens innehåll beskrivs i avsnitt 5.3.3 nedan.
+
+5.3.2Placering i säkerhetsklass
+
+De olika säkerhetsklasserna
+
+Med utgångspunkt i säkerhetsskyddsanalysen ska den som bedriver säkerhetskänslig verksamhet planera och vidta de säkerhetsskyddsåtgärder som behövs. Däri ingår bland annat att göra en befattningsanalys och besluta eller inventera vilka anställningar eller annat deltagande som ska placeras i säkerhetsklass. Av 3 kap. 5 § säkerhetsskyddslagen följer att en anställning eller annat deltagande i säkerhetskänslig verksamhet ska placeras i säkerhetsklass i den utsträckning som följer av bestämmelserna i 
+6–10
+ §§ samma kapitel.
+
+Det finns tre säkerhetsklasser i säkerhetsskyddslagen. Säkerhetsklass 1 gäller om en anställd eller den som på annat sätt deltar i säkerhetskänslig verksamhet i en omfattning som inte är ringa får del av uppgifter i säkerhetsskyddsklassen kvalificerat hemlig, eller till följd av sitt deltagande i verksamheten har möjlighet att orsaka synnerligen allvarlig skada för Sveriges säkerhet (3 kap. 6 § säkerhetsskyddslagen).
+
+Säkerhetsklass 2 gäller om en anställd eller den som på annat sätt deltar i säkerhetskänslig verksamhet i en omfattning som inte är ringa får del av uppgifter i säkerhetsskyddsklassen hemlig, i ringa omfattning får del av uppgifter i säkerhetsklassen kvalificerat hemlig, eller till följd av sitt deltagande i verksamheten har möjlighet att orsaka allvarlig skada för Sveriges säkerhet (3 kap. 7 § säkerhetsskyddslagen).
+
+Säkerhetsklass 3 gäller om en anställd eller den som på annat sätt deltar i säkerhetskänslig verksamhet får del av uppgifter i säkerhetsskyddsklassen konfidentiell, i ringa omfattning får del av uppgifter i säkerhetsskyddsklassen hemlig, eller till följd av sitt deltagande i verksamheten har möjlighet att orsaka en inte obetydlig skada för Sveriges säkerhet (3 kap. 8 § säkerhetsskyddslagen).
+
+18
+
+Beslut om placering i säkerhetsklass 
+
+Prop. 2022/23:87 
+
+I säkerhetsskyddslagen anges att en anställning eller något annat deltagande endast får placeras i säkerhetsklass om behovet av säkerhetsskydd inte kan tillgodoses på något annat sätt (3 kap. 10 §).
+
+En säkerhetsprövning aktualiserar ofta frågor som kan uppfattas som mycket integritetskränkande för den enskilde. Placering i säkerhetsklass medför bl.a. att registerkontroll får göras. Säkerhetsprövningen innebär även insamling av en stor mängd information om den enskilda individen. Det finns därför ett behov av restriktivitet när det gäller placering av befattningar i säkerhetsklass, och sådan placering bör bara ske när det verkligen är nödvändigt (prop. 2017/18:89 s. 85).
+
+Riksdagen och dess myndigheter beslutar om placering i säkerhetsklass när det gäller riksdagens förvaltningsområde. I övrigt beslutar regeringen om placering i säkerhetsklass. Regeringen får meddela föreskrifter om att myndigheter och andra får besluta om placering i säkerhetsklass (3 kap.
+
+12§ säkerhetsskyddslagen). Sådana föreskrifter har regeringen meddelat i
+
+5kap. 
+5–10
+ §§ säkerhetsskyddsförordningen (2021:955) och i bilagan till förordningen.
+
+Regeringens föreskrifter innebär bland annat att kommuner och regioner beslutar om placering i säkerhetsklass 2 och 3 i fråga om anställning eller annat deltagande i den egna verksamheten (5 kap. 8 § säkerhetsskyddsförordningen). Ett stort antal statliga myndigheter har också getts rätt att besluta om placering i säkerhetsklass i samma utsträckning som kommuner och regioner, däribland Försvarsmakten och Totalförsvarets plikt- och prövningsverk (se bilagan till förordningen).
+
+5.3.3Säkerhetsprövningens innehåll
+
+Grundutredning
+
+Med grundutredning avses en utredning om personliga förhållanden av betydelse för säkerhetsprövningen. Utredningen ska omfatta betyg, intyg, referenser och uppgifter som den som prövningen gäller har lämnat. Också andra uppgifter som är relevanta för prövningen ska omfattas av grundutredningen (5 kap. 2 § säkerhetsskyddsförordningen).
+
+Vid den intervju som ska göras inom ramen för grundutredningen, den så kallade säkerhetsprövningsintervjun, ska lojalitet, pålitlighet och sårbarhet bedömas (jfr 3 kap. 2 § säkerhetsskyddslagen).
+
+Om det redan efter grundutredningen står klart att den som prövningen gäller inte uppfyller kraven för en godkänd säkerhetsprövning enligt 3 kap. 2 § säkerhetsskyddslagen ska registerkontroll och i förekommande fall särskild personutredning inte göras (5 kap. 3 § säkerhetsskyddsförordningen).
+
+Registerkontroll
+
+Registerkontroll ska göras om anställningen eller deltagandet i den säkerhetskänsliga verksamheten har placerats i säkerhetsklass. Uppgifter ska löpande hämtas under den tid deltagandet i den säkerhetskänsliga verksamheten pågår (3 kap. 14 § första stycket säkerhetsskyddslagen).
+
+19
+
+Prop. 2022/23:87
+
+20
+
+Om anställningen eller deltagandet i verksamheten har placerats i säkerhetsklass 1 eller 2 får uppgifter hämtas från belastningsregistret och misstankeregistret. Även uppgifter som behandlas med stöd av lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område eller lagen (2019:1182) om Säkerhetspolisens behandling av personuppgifter får hämtas. Om den kontrollerade är gift eller sambo får motsvarande uppgifter även hämtas om maken/makan eller sambon (3 kap. 14 § andra stycket).
+
+När det gäller säkerhetsklass 3 får sådana uppgifter om den kontrollerade som finns i belastningsregistret eller misstankeregistret eller som behandlas hos Säkerhetspolisen med stöd av lagen om polisens behandling av personuppgifter inom brottsdatalagens område eller lagen om Säkerhetspolisens behandling av personuppgifter inhämtas (3 kap. 14
+
+§tredje stycket). Till skillnad från vad som gäller för säkerhetsklass 1 och
+
+2 får uppgifter om den kontrollerades eventuella make/maka eller sambo inte hämtas. Det finns dock undantag som innebär att även andra uppgifter får hämtas om det finns synnerliga skäl till det. Det finns också regler om att registerkontroll i vissa fall får göras utan föregående placering i säkerhetsklass (3 kap. 14 § fjärde stycket och 15 §).
+
+Det är Säkerhetspolisen som genomför kontroll mot aktuella register (5 kap. 14 § säkerhetsskyddsförordningen). Om det under registerkontrollen kommer fram en uppgift får den endast lämnas ut om det i det enskilda fallet kan antas ha betydelse för prövningen av den enskildes lojalitet, pålitlighet och sårbarhet enligt 3 kap. 2 § säkerhetsskyddslagen. Uppgifter som gäller den kontrollerades make/ maka eller sambo får bara lämnas ut om det är absolut nödvändigt (3 kap. 19 § säkerhetsskyddslagen).
+
+Säkerhets- och integritetsskyddsnämnden bedömer om uppgiften har betydelse för säkerhetsprövningen och beslutar om uppgiften ska lämnas ut till verksamhetsutövaren (3 kap. 19 § säkerhetsskyddslagen). I sin bedömning beaktar nämnden bland annat vilken typ av anställning prövningen gäller, hur lång tid som passerat sedan händelsen som gett upphov till träffen i registren ägde rum och, om det gäller ett begånget brott, vilken påföljd som dömts ut.
+
+Innan Säkerhets- och integritetsskyddsnämnden beslutar om att lämna ut uppgiften ska, med vissa undantag, den som uppgiften gäller ha fått tillfälle att yttra sig över uppgiften (3 kap. 20 § säkerhetsskyddslagen). Om uppgifter lämnas ut blir dessa en del av underlaget i verksamhetsutövarens säkerhetsprövning. (Frågor om sekretess behandlas nedan i avsnitt 5.3.8.)
+
+Registerkontrollen ska som ovan nämnts pågå löpande under hela tiden den enskilde deltar i den säkerhetskänsliga verksamheten. När anställningen eller deltagandet som föranlett placeringen i säkerhetsklass upphör, eller vid en omplacering till en lägre säkerhetsklass, ska verksamhetsutövaren skyndsamt anmäla till Säkerhetspolisen att registerkontrollen ska avslutas (5 kap. 20 § säkerhetsskyddsförordningen).
+
+Särskild personutredning
+
+Den särskilda personutredningen är en undersökning av den kontrollerades ekonomiska förhållanden. I övrigt ska utredningen ha den omfattning som behövs. En särskild personutredning ska göras i samband med register-
+
+kontrollen när det gäller anställning eller annat deltagande i verksamhet Prop. 2022/23:87 som har placerats i säkerhetsklass 1 eller 2 (3 kap. 17 § säkerhets-
+
+skyddslagen). Det är Säkerhetspolisen som gör den särskilda personutredningen. Om anställningen eller deltagandet har placerats i säkerhetsklass 1 ska Säkerhetspolisen hålla ett personligt samtal med den som prövningen gäller, om det inte står klart att samtalet inte behövs. Ett personligt samtal ska, om det behövs, även hållas när utredningen gäller anställningar och annat deltagande i verksamhet som har placerats i säkerhetsklass 2 (5 kap. 17 § säkerhetsskyddsförordningen). Precis som när det gäller registerkontroll ska den enskilde innan ett utlämnande sker ha getts tillfälle att yttra sig över uppgiften, och det är Säkerhets- och integritetsskyddsnämnden som beslutar om en uppgift ska lämnas ut. Samma bestämmelser är i detta avseende tillämpliga som när det gäller registerkontroll (3 kap. 19 och 20 §§ säkerhetsskyddslagen).
+
+5.3.4Krav på samtycke till registerkontroll och särskild personutredning
+
+En registerkontroll och särskild personutredning får göras endast om den som säkerhetsprövningen gäller har lämnat sitt samtycke till det. Samtycket ska anses gälla också kontroller och utredningar under den tid som deltagandet i den säkerhetskänsliga verksamheten pågår (3 kap. 18 § säkerhetsskyddslagen). Det är den som ansöker om registerkontroll, dvs. verksamhetsutövaren, som ansvarar för att ett samtycke har inhämtats (5 kap. 15 § säkerhetsskyddsförordningen).
+
+Kravet på samtycke infördes i den tidigare säkerhetsskyddslagen. Innan dess var den som beslutade om personalkontroll (motsvarade dagens säkerhetsprövning) endast skyldig att underrätta den som kontrollen avsåg för att denne skulle ha möjlighet att återkalla sin ansökan om anställning, om han eller hon hade anledning att befara att ofördelaktiga uppgifter skulle komma fram vid personalkontrollen. Regeringen gav vidare dispens från den underrättelseskyldigheten vid krigsplaceringar och liknande situationer där det inte var fråga om en anställning som den kontrollerade ansökt om att få. Den tidigare nämnda dispensmöjligheten behölls dock inte, när kravet på samtycke infördes, med motiveringen att ett krav på samtycke har så stort principiellt värde.
+
+I propositionen till den äldre säkerhetsskyddslagen motiverades införandet av krav på samtycke med att den enskilde skulle ges en valmöjlighet och ett ökat skydd för sina rättigheter. Framför allt ansågs ett krav på samtycke, till skillnad från en ren underrättelseskyldighet, medföra att den enskilde aktivt fick ta ställning till om kontroll skulle utföras eller inte. Detta bedömdes bidra till att göra systemet öppnare och mindre integritetskränkande (prop. 1995/96:129 s. 
+54–55).
+
+5.3.5Uppföljande säkerhetsprövning
+
+Säkerhetsprövningen ska följas upp under tiden deltagandet i den säkerhetskänsliga verksamheten pågår (3 kap. 3 § andra stycket säkerhetsskyddslagen).
+
+21
+
+Prop. 2022/23:87 Kravet på uppföljning infördes i den nuvarande säkerhetsskyddslagen, och i förarbetena till lagen uttalas att säkerhetsprövningen ska ses som en process som ska pågå under hela den tid som en person har sin anställning eller sitt uppdrag. Under anställningstiden handlar det om att skaffa sig en fördjupad personkännedom genom t.ex. regelbundna kontakter och uppföljningssamtal för att kunna fånga upp upplevt missnöje med arbetssituationen, kontaktförsök från främmande makt och liknande förhållanden som kan påverka risk och mottaglighet för utpressning eller omständigheter som tyder på att personen är i riskzonen för olika former av missbruk. Vid uppföljning av säkerhetsprövningen finns det anledning att lägga särskild vikt vid tillfällen som innebär större förändringar av arbetsuppgifterna och vid den avslutande fasen av anställningen. Uppföljningsansvaret innebär även att det ska ske en kontinuerlig bevakning av uppgifter som tillförs de register som är aktuella vid registerkontroll (prop. 2017/18:89 s. 81).
+
+Om det finns anledning till det ska en tidigare gjord bedömning av en persons lämplighet att delta i den säkerhetskänsliga verksamheten omprövas (3 kap. 4 § tredje stycket säkerhetsskyddslagen). Om den som deltar i verksamheten inte längre kan antas vara lojal mot de intressen som skyddas i säkerhetsskyddslagen, eller i övrigt inte är pålitlig från säkerhetssynpunkt, ska deltagandet inte fortgå.
+
+5.3.6Ansvaret för säkerhetsprövningen
+
+Bedömningen av säkerhetsprövningen ligger på den som beslutar om anställning eller annat deltagande i den säkerhetskänsliga verksamheten (3 kap. 4 § andra stycket säkerhetsskyddslagen). Om det är en myndighet som har det bestämmande inflytandet över den prövades lämplighet att delta i säkerhetskänslig verksamhet hos en enskild verksamhetsutövare, är det i stället den myndigheten som gör den slutliga bedömningen (3 kap. 4 § tredje stycket). Det finns också särskilda regler för vem som gör bedömningen när det t.ex. gäller domstolschefer och övriga ordinarie domare i Sveriges domstolar (3 kap. 4 a §).
+
+Säkerhetsprövningen ska utgå från uppgifter som kommit fram när grundutredningen gjordes och den kännedom som i övrigt finns om den som ska prövas, uppgifter som har lämnats ut efter registerkontroll och särskild personutredning, arten av den verksamhet som prövningen gäller samt omständigheterna i övrigt (3 kap. 4 § första stycket).
+
+5.3.7 
+
+Utbildning i säkerhetsskydd 
+
+För att förebygga sådana sårbarheter som den så kallade mänskliga faktorn 
+
+kan utgöra i en verksamhet är information och utbildning om 
+
+säkerhetsskydd viktiga delar av säkerhetsskyddet. Sårbarheter vid t.ex. 
+
+myndigheter kan inte sällan direkt kopplas samman med anställda som av 
+
+okunskap, obetänksamhet eller bekvämlighet inte följer de krav på 
+
+säkerhetsskydd som gäller för verksamheten. Det är den som bedriver den 
+
+säkerhetskänsliga verksamheten som ska se till att den som ska anställas 
+
+eller på annat sätt delta i verksamheten får utbildning i säkerhetsskydd i 
+
+22 
+
+den utsträckning som behövs. På samma sätt som för säkerhetsprövningen 
+
+finns det för utbildningskravet ett uppföljningsansvar som sträcker sig Prop. 2022/23:87 över hela anställningsförhållandet eller den motsvarande tid som
+
+deltagandet pågår. Utbildning i säkerhetsskydd kan också underlätta den uppföljande säkerhetsprövningen. Samtal om säkerhetsskydd i samband med utbildning kan ge tillfälle att fånga upp relevanta attitydförändringar hos personer som omfattas av krav på säkerhetsprövning (prop. 2017/18:89 s. 74 och 75).
+
+Skyldigheten att se till att den som deltar i säkerhetskänslig verksamhet får utbildning i säkerhetsskydd finns reglerad i 5 kap. 1 § säkerhetsskyddsförordningen.
+
+5.3.8Sekretess
+
+Sekretess gäller som utgångspunkt för de uppgifter som kommer fram under säkerhetsprövningen (35 kap. 1 § första stycket 3 offentlighets- och sekretesslagen [2009:400]). Sekretessen gäller hos alla myndigheter. För enskild verksamhet finns en motsvarande bestämmelse om tystnadsplikt i 8 kap. 1 § säkerhetsskyddslagen.
+
+En särskild fråga är i vilken utsträckning uppgifter i ett ärende om registerkontroll eller personutredning kan hållas hemliga för den kontrollerade själv.
+
+Säkerhets- och integritetsskyddsnämnden beslutar om uppgifter som kommit fram vid registerkontrollen ska lämnas ut för säkerhetsprövning. Huvudregeln i offentlighets- och sekretesslagen är att sekretess till skydd för den enskilde inte gäller i förhållande till den enskilde själv (12 kap.
+
+1 §). Uppgifter som är sekretessbelagda enligt 35 kap. 1 § första stycket 3 offentlighets- och sekretesslagen kan alltså inte hållas hemliga för den kontrollerade själv så länge sekretessen gäller endast till förmån för honom eller henne. Det finns dock andra sekretessregler som kan hindra att uppgifterna lämnas ut till den enskilde. Det kan t.ex. röra sig om sekretess till skydd för närstående till den kontrollerade. Också andra sekretessregler kan hindra ett utlämnande till den kontrollerade, t.ex. sekretess till skydd för rikets säkerhet eller för förebyggande eller beivrande av brott. Sådana regler gäller också i förhållande till den kontrollerade. Frågan om utlämnande till den kontrollerade har också reglerats i 3 kap. 20 § säkerhetsskyddslagen. Av den bestämmelsen framgår att innan en uppgift lämnas ut för säkerhetsprövning ska den som uppgiften gäller ges tillfälle att yttra sig över uppgiften. Det gäller dock inte om uppgiften omfattas av sekretess i förhållande till den enskilde enligt någon annan bestämmelse i offentlighets- och sekretesslagen än 35 kap. 3 §. Även om uppgiften omfattas av sådan sekretess ska den som uppgiften avser ges tillfälle att yttra sig innan uppgiften lämnas ut, om hans eller hennes intresse av att få yttra sig skäligen bör ha företräde framför det intresse som sekretessen ska skydda. Det innebär att också en närstående till den som kontrolleras kan få tillfälle att yttra sig om uppgiften som avses lämnas ut rör denne närstående.
+
+Om den som uppgiften avser är part i ett ärende hos den myndighet som bedömer säkerhetsprövningen, kan han eller hon ändå ha rätt att få del av uppgifterna. Uppgifterna får i sådant fall inte lämnas ut till den enskilde i
+
+den utsträckning det av hänsyn till allmänt eller enskilt intresse är av
+
+23
+
+Prop. 2022/23:87 synnerlig vikt att sekretessbelagd uppgift i materialet inte röjs (se 10 kap.
+
+3 § första stycket offentlighets- och sekretesslagen).
+
+5.4Tillsyn, råd och vägledning
+
+I 8 kap. säkerhetsskyddsförordningen finns bestämmelser om vilka myndigheter som utövar tillsyn över säkerhetsskyddet hos myndigheter och andra som lagen gäller för. Av 8 kap. 1 § följer att Försvarsmakten utövar tillsyn över Totalförsvarets plikt- och prövningsverk och att Säkerhetspolisen utövar tillsyn över bland annat Myndigheten för samhällsskydd och beredskap. Som tillsynsmyndigheter ska Försvarsmakten och Säkerhetspolisen lämna råd och vägledning om säkerhetsskydd (8 kap. 11 och 12 §§).
+
+6Skyddet för den personliga integriteten och dess reglering
+
+6.1Begreppet personlig integritet
+
+Begreppet personlig integritet finns i både grundlag och vanlig lag, t.ex. i 2 kap. 6 § andra stycket regeringsformen och 5 kap. 6 § lagen (2019:1182) om Säkerhetspolisens behandling av personuppgifter, men någon allmängiltig definition av vad som menas med personlig integritet har inte slagits fast i lagstiftning. Det har inte heller bedömts vara nödvändigt att formulera någon sådan definition för att kunna bedöma vilka intressen som har ett sådant skyddsvärde att de bör omfattas av ett särskilt starkt skydd mot omotiverade ingrepp (prop. 2009/10:80 s. 175). Vad som närmare inbegrips i den personliga integriteten är i stället något som kan och bör utvecklas över tid (prop. 2016/17:222 s. 18).
+
+Den rättsliga regleringen av skyddet för den personliga integriteten finns såväl i nationell rätt som i internationella överenskommelser som Sverige har anslutit sig till.
+
+6.2 
+
+Internationella åtaganden och Europarätt 
+
+6.2.1 
+
+Förenta nationerna 
+
+Förenta nationerna (FN) antog år 1948 den allmänna förklaringen om de 
+
+mänskliga rättigheterna. Förklaringen är inte formellt bindande för 
+
+medlemsstaterna, men ses som ett uttryck för sedvanerättsliga regler. 
+
+Förklaringen innehåller artiklar som skyddar privatlivet och den 
+
+personliga integriteten. I förklaringen anges att ingen får utsättas för 
+
+godtyckligt ingripande i fråga om privatliv, familj, hem eller 
+
+korrespondens och inte heller för angrepp på sin heder eller sitt anseende. 
+
+Var och en har rätt till lagens skydd mot sådana ingripanden och angrepp 
+
+24 
+
+(artikel 12). I förklaringen anges också att en person endast får underkastas 
+
+sådana inskränkningar som har fastställts i lag och enbart i syfte att trygga Prop. 2022/23:87 tillbörlig hänsyn till och respekt för andras fri- och rättigheter samt för att
+
+tillgodose ett demokratiskt samhälles berättigade krav på moral, allmän ordning och allmän välfärd (artikel 29).
+
+Sverige är därutöver folkrättsligt förpliktat att uppfylla de åtaganden som följer av 1966 års 
+FN-konvention
+ om medborgerliga och politiska rättigheter som trädde i kraft 1976. I konventionen finns skyddet för den personliga integriteten i artikel 17 som till sitt innehåll är likvärdig med artikel 12 i den allmänna förklaringen som nämns ovan.
+
+6.2.2Europakonventionen
+
+Europeiska konventionen om skydd för de mänskliga rättigheterna och grundläggande friheterna, Europakonventionen, innehåller också bestämmelser som skyddar rätten till privat- och familjeliv. För svensk del gäller Europakonventionen som lag (lagen [1994:1219] om den europeiska konventionen angående skydd för de mänskliga rättigheterna och de grundläggande friheterna). Ingen lag eller föreskrift får meddelas i strid med Sveriges åtaganden enligt Europakonventionen (2 kap. 19 § regeringsformen).
+
+Artikel 8 i Europakonventionen, om rätt till skydd för bland annat privatliv, innehåller följande.
+
+1.Var och en har rätt till skydd för sitt privat- och familjeliv, sitt hem och sin korrespondens.
+
+2.Offentlig myndighet får inte ingripa i denna rättighet annat än med stöd av lag och om det i ett demokratiskt samhälle är nödvändigt med hänsyn till den nationella säkerheten, den allmänna säkerheten eller landets ekonomiska välstånd, till förebyggande av oordning eller brott, till skydd för hälsa eller moral eller till skydd för andra personers fri- och rättigheter.
+
+6.2.3Europeiska unionen
+
+Stadgan
+
+Också i Europeiska unionens stadga om de grundläggande rättigheterna (stadgan) finns bestämmelser som är avsedda att skydda den personliga integriteten. I samband med att Lissabonfördraget antogs den 1 december 2009 fick stadgan direkt effekt. Detta följer av artikel 6.1 i fördraget om Europeiska unionen 
+(EU-fördraget).
+ Därmed blev stadgan rättsligt bindande för EU:s medlemsstater.
+
+Stadgan föreskriver att var och en har rätt till fysisk och mental integritet (artikel 3). Var och en har också rätt till respekt för sitt privatliv och familjeliv, sin bostad och sina kommunikationer (artikel 7). Stadgan innehåller därutöver bestämmelser om bland annat skydd för personuppgifter (artikel 8). Stadgan är tillämplig för unionens institutioner, organ och byråer samt för medlemsstaterna när de tillämpar unionsrätten (artikel 51.1).
+
+25
+
+Prop. 2022/23:87 Dataskyddsförordningen
+
+26
+
+Sedan den 25 maj 2018 är Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning) grunden för generell personuppgiftsbehandling inom EU. I fortsättningen används förkortningen dataskyddsförordningen.
+
+Det huvudsakliga syftet med dataskyddsförordningen är bland annat att säkerställa en enhetlig skyddsnivå över hela unionen och att undvika avvikelser som hindrar den fria rörligheten av personuppgifter inom den inre marknaden. Dataskyddsförordningen är direkt tillämplig i alla EU:s medlemsstater men förutsätter och möjliggör samtidigt kompletterande nationella bestämmelser. I Sverige har generella kompletterande bestämmelser samlats i lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning, dataskyddslagen.
+
+Dataskyddsförordningen ska tillämpas på sådan behandling av personuppgifter som helt eller delvis företas på automatisk väg samt på annan behandling än automatisk av personuppgifter som ingår i eller kommer att ingå i ett register. Förordningen ska dock inte tillämpas på behandling av personuppgifter som utgör ett led i en verksamhet som inte omfattas av unionsrätten, t.ex. försvar och nationell säkerhet (jfr artikel 2.2 a dataskyddsförordningen).
+
+Dataskyddsförordningen reglerar bland annat grundläggande principer för behandling av personuppgifter, den registrerades rättigheter, personuppgiftsansvar, tillsyn över personuppgiftsbehandling och rätten för enskilda att få tillgång till rättsmedel och sanktioner mot ansvariga som inte lever upp till förordningens krav. I förhållande till tidigare lagstiftning ställer dataskyddsförordningen högre krav på de personuppgiftsansvariga genom bestämmelser om bland annat utökad informationsskyldighet och möjlighet att besluta om administrativa sanktionsavgifter (artikel 83).
+
+Av dataskyddslagen följer att bestämmelserna i dataskyddsförordningen gäller även vid behandling av personuppgifter som utgör ett led i en verksamhet som inte omfattas av unionsrätten (1 kap. 2 §). Vissa undantag har gjorts för det utvidgade tillämpningsområdet som anges i dataskyddslagen, bland annat för lagen (2021:1171) om behandling av personuppgifter vid Försvarsmakten (1 kap. 3 §).
+
+6.3Skyddet för den personliga integriteten i nationell rätt
+
+6.3.1Reglering i grundlag
+
+Regeringsformen innehåller vissa grundläggande bestämmelser till skydd för den personliga integriteten. Enligt målsättningsstadgandet i 1 kap. 2 § första stycket ska den offentliga makten utövas med respekt bland annat för den enskilda människans frihet. I fjärde stycket samma paragraf anges att det allmänna ska värna om den enskildes privat- och familjeliv.
+
+Av 2 kap. 6 § andra stycket regeringsformen följer att var och en gentemot det allmänna är skyddad mot betydande intrång i den personliga
+
+integriteten, om det sker utan samtycke och innebär övervakning eller kartläggning av den enskildes personliga förhållanden.
+
+Bestämmelsen tar sikte på att skydda information om enskildas personliga förhållanden. Uttrycket personliga förhållanden avses ha samma innebörd som i tryckfrihetsförordningen och offentlighets- och sekretesslagen (prop. 2009/10:80 s. 177). Det innebär att regleringen kan komma att omfatta vitt skilda slag av information som är knuten till den enskildes person, t.ex. uppgifter om namn och andra personliga identifikationsuppgifter, adress, familjeförhållanden, hälsa och vandel. Vad som menas med personliga förhållanden måste bestämmas med ledning av vanligt språkbruk. Också uppgift om en persons ekonomi torde omfattas av uttrycket personliga förhållanden (jfr prop. 1975/76:160 s. 109 och prop. 1979/80:2 s. 84).
+
+Bestämmelsen gäller enbart sådana intrång som sker utan samtycke, dvs. inte sådana intrång som förutsätter den enskildes godkännande. Bestämmelsen tar sikte på sådana åtgärder som den enskilde själv inte kan få kännedom om eller påverka genom ett krav på frivilligt godkännande. Om åtgärderna förutsätter den enskildes godkännande, kan det intrång som åtgärden innebär normalt inte anses vara av så allvarlig beskaffenhet att det bör omfattas av ett stärkt grundlagsskydd. Detta bör gälla oberoende av vilka slags uppgifter åtgärden eller behandlingen avser (prop. 2009/10:80 s. 
+178–179).
+
+Skyddet i grundlagen för den personliga integriteten gäller inte varje slags behandling av uppgifter om enskildas personliga förhållanden som sker utan samtycke. Den grundlagsskyddade rätten att ta del av allmänna handlingar, liksom myndigheternas skyldighet att bevara allmänna handlingar för att tillgodose bland annat denna rättighet, utgör t.ex. omistliga delar av det svenska öppna samhället. Det har därför inte ansetts lämpligt att ett utvidgat grundlagsskydd för den personliga integriteten utformas på ett sådant sätt att den inskränker myndigheternas skyldighet att lämna ut handlingar med stöd av offentlighetsprincipen. Bestämmelsens tillämpningsområde är därför begränsat till sådana intrång som innebär övervakning eller kartläggning av en enskilds personliga förhållanden (prop. 2009/10:80 s. 
+179–180).
+
+Avgörande för om en åtgärd ska anses innebära övervakning eller kartläggning är inte dess huvudsakliga syfte utan vilken effekt åtgärden har. Vad som avses med övervakning respektive kartläggning får bedömas med utgångspunkt från vad som enligt normalt språkbruk läggs i dessa begrepp (prop. 2009/10:80 s. 250).
+
+En åtgärd från det allmännas sida som vidtas primärt i syfte att ge myndigheterna underlag för beslutsfattande i enskilda fall, exempelvis insamling av uppgifter av visst slag för beslut om t.ex. beskattning eller liknande, kan – även om avsikten inte är att kartlägga enskilda – i många fall anses innebära kartläggning av enskildas förhållanden. Så torde fallet vara i fråga om ett stort antal uppgiftssamlingar som det allmänna förfogar över. I flertalet myndighetsspecifika verksamhetsregister och databaser är uppgifterna tillgängliga för myndigheterna på sådant sätt att lagringen och behandlingen av uppgifterna kan sägas innebära att enskilda kartläggs, även om det huvudsakliga ändamålet med behandlingen är ett helt annat. Det förekommer även att uppgiftssamlingar inrättas och utformas i syfte att fungera som mer utpräglade personregister. Som exempel kan nämnas
+
+Prop. 2022/23:87
+
+27
+
+Prop. 2022/23:87 polisens belastningsregister. Registreringen av personuppgifter i registret kan sägas innebära en kartläggning av alla dem som har dömts eller på annat sätt lagförts för brott, även om registrets uttalade ändamål är att ge information åt olika myndigheter om belastningsuppgifter som behövs bland annat för att utreda brott och bestämma straff samt vid lämplighets- och tillståndsprövning av skilda slag. På liknande sätt förhåller det sig med många andra register som används i den brottsbekämpande verksamheten, t.ex. polisens misstankeregister (prop. 2009/10:80 s. 180).
+
+När det gäller sådana intrång som innebär övervakning av enskildas personliga förhållanden kan det handla om sådana moment som innebär att den enskilde övervakas kontinuerligt av det allmänna under viss tid då tillstånd för sådan övervakning har lämnats, t.ex. hemlig teleövervakning. Åtgärder som innebär övervakning kan också vidtas utan att information dokumenteras med hjälp av teknisk utrustning, t.ex. i samband med spaning i den brottsbekämpande verksamheten. En del åtgärder som innebär kartläggning kan samtidigt även innebära övervakning. Det är därför inte möjligt att göra en tydlig gränsdragning mellan åtgärder som har effekter av det ena eller andra slaget (prop. 2009/10:80 s. 181).
+
+När det sedan gäller uttrycket betydande integritetsintrång bör flera omständigheter vägas in vid bedömningen av vad som utgör ett sådant intrång. De förhållanden som medför att begreppet personlig integritet är svårt att definiera innebär också att det är förenat med svårigheter att peka ut vilka specifika företeelser som är av sådant slag att de innebär ett betydande intrång i integriteten. Vad som utgör ett betydande integritetsintrång måste bedömas utifrån de samhällsvärderingar som råder vid varje givet tillfälle. Dessa kan påverkas av en rad omständigheter, inte minst av den fortsatta tekniska utvecklingen men även av andra förhållanden i vår omvärld (prop. 2009/10:80 s. 184 och 185).
+
+Av 2 kap. 20 § regeringsformen följer att skyddet mot intrång som innebär övervakning och kartläggning av den enskildes personliga förhållanden får begränsas genom lag i den utsträckning som medges i 21– 24 §§. I 21 § anges att begränsningar får göras endast för att tillgodose ändamål som är godtagbara i ett demokratiskt samhälle. Begränsningen får aldrig gå utöver vad som är nödvändigt med hänsyn till det ändamål som har föranlett den och inte heller sträcka sig så långt att den utgör ett hot mot den fria åsiktsbildningen såsom en av folkstyrelsens grundvalar. Begränsningen får inte göras enbart på grund av politisk, religiös, kulturell eller annan sådan åskådning. En följd av denna reglering är bland annat att lagstiftaren tvingas att tydligt redovisa vilka avvägningar som gjorts vid proportionalitetsbedömningen. Detta kan förväntas öka förutsättningarna för att avvägningarna i fråga om integritetsintrånget blir mer ingående belysta och att de presenteras på ett sådant sätt att kvaliteten i lagstiftningen höjs ytterligare (prop. 2009/10:80 s. 177). Att begränsningen av skyddet mot övervakning och kartläggning i 2 kap. 6 § andra stycket regeringsformen endast får göras i lag har bland annat inneburit att viss personuppgiftslagstiftning som tidigare har reglerats i förordning numera regleras i lag, t.ex. domstolsdatalagen (2015:728) och utlänningsdatalagen (2016:27).
+
+28
+
+6.3.2 
+
+Reglering i lag 
+
+Prop. 2022/23:87 
+
+Personuppgiftslagstiftning
+
+Lagen (2021:1171) om behandling av personuppgifter vid Försvarsmakten gäller vid Försvarsmaktens behandling av personuppgifter i verksamhet som rör Sveriges försvar och säkerhet samt internationellt försvars- och säkerhetssamarbete. Lagen, som gäller sedan den 1 januari 2022, ska tillämpas i stället för EU:s dataskyddsförordning och dataskyddslagen.
+
+Totalförsvarsdatalagen (2020:151) ger stöd för bland annat Totalförsvarets plikt- och prövningsverk och Försvarsmakten att behandla känsliga personuppgifter om det är absolut nödvändigt vid en utredning om den totalförsvarspliktiges personliga förhållanden som görs enligt 2 kap. 1 § lagen (1994:1809) om totalförsvarsplikt. Vid tillämpning av totalförsvarsdatalagen gäller även dataskyddsförordningen och dataskyddslagen (1 kap. 2 § dataskyddslagen, se även 4 § totalförsvarsdatalagen).
+
+Övrig nationell lagstiftning
+
+Utöver det skydd som dataskyddsförordningen och nationell lagstiftning ger mot kränkningar av den personliga integriteten vid behandling av personuppgifter finns också annan lagstiftning som syftar till att skydda den personliga integriteten.
+
+Bland annat i brottsbalken finns bestämmelser om brott mot frihet och frid, olaga intrång och brytande av post- eller telehemlighet. Därutöver finns bestämmelser om bland annat förtal och förolämpning. Även bestämmelserna om kränkande fotografering kan sägas utgöra ett skydd för den personliga integriteten. Det finns också en straffbestämmelse om olaga integritetsintrång som tar sikte på gärningar som innebär att någon gör intrång i någon annans privatliv genom att t.ex. sprida bild på eller annan uppgift om någons sexualliv eller hälsotillstånd.
+
+Kamerabevakningslagen (2018:1200) syftar även den till att tillgodose behovet av kamerabevakning för berättigade ändamål och att skydda fysiska personer mot otillbörligt intrång i den personliga integriteten vid sådan bevakning.
+
+Därutöver kan regleringen om sekretess för uppgifter om enskildas personliga förhållanden i offentlighets- och sekretesslagen (2009:400) nämnas. Ett av syftena med denna är att hindra att den enskildes personliga integritet kränks genom att personliga och kanske känsliga uppgifter sprids. I lagen framgår att sekretess gäller för en personuppgift om det kan antas att uppgiften eller ett utlämnande kommer att behandlas i strid med dataskyddsförordningen eller dataskyddslagen (21 kap. 7 §).
+
+29
+
+Prop. 2022/23:87 
+
+7 
+
+Säkerhetsprövning av 
+
+totalförsvarspliktiga i dag
+
+7.1Placering i säkerhetsklass
+
+Försvarsmakten har i sin säkerhetsskyddsanalys kommit fram till att den verksamhet som de värnpliktiga deltar i är säkerhetskänslig. Myndigheten har därför beslutat att alla som genomför grundutbildning med värnplikt ska vara placerade i säkerhetsklass. Det innebär att alla som har mönstrat efter det att värnplikten återaktiverades, och uppfyllt kraven för att kunna skrivas in för grundutbildning med värnplikt, har säkerhetsprövats innan de har fått delta i Försvarsmaktens verksamhet.
+
+Vidare har Försvarsmakten bedömt att de allra flesta befattningar som är aktuella för värnpliktiga är placerade i säkerhetsklass 3. Innan påbörjad grundutbildning med värnplikt säkerhetsprövas alla för placering i säkerhetsklass 3. De värnpliktiga som kommer i fråga för befattningar i annan säkerhetsklass genomgår ytterligare säkerhetsprövning för högre säkerhetsklass efter påbörjad grundutbildning.
+
+7.2Säkerhetsprövning inför grundutbildning med värnplikt
+
+Enligt en överenskommelse mellan Försvarsmakten och Totalförsvarets plikt- och prövningsverk genomförs grundutredningen enligt 3 kap. 3 § säkerhetsskyddslagen (2018:585) av Totalförsvarets plikt- och prövningsverk på uppdrag av Försvarsmakten. Den görs vid inskrivningstillfället för preliminärt inskrivna till grundutbildning med värnplikt.
+
+I praktiken innebär överenskommelsen att Totalförsvarets plikt- och prövningsverk också, på uppdrag av Försvarsmakten, inhämtar samtycke till registerkontroll från de totalförsvarspliktiga som bedöms vara lämpliga för inskrivning till grundutbildning med värnplikt.
+
+Totalförsvarets plikt- och prövningsverk genomför grundutredningen och inhämtar samtycke till registerkontroll under den avslutande delen av mönstringen. Tillvägagångssättet beskrivs närmare nedan.
+
+7.2.1 
+
+Grundutredning och inhämtande av samtycke 
+
+Som ett sista moment under mönstringen träffar de totalförsvarspliktiga en 
+
+inskrivningshandläggare för ett individuellt inskrivningssamtal. Syftet 
+
+med samtalet är främst att bedöma vilken befattning den totalförsvars- 
+
+pliktige är bäst lämpad för. Sedan Försvarsmakten bedömt att alla som ska 
+
+göra värnplikt behöver säkerhetsprövas används nu samtalet också i 
+
+säkerhetsprövningssyfte. 
+
+Under samtalet ska inskrivningshandläggaren informera om att en 
+
+registerkontroll kräver att den totalförsvarspliktige lämnar sitt samtycke 
+
+till det samt dokumentera lämnat samtycke. 
+
+Grundutredningen består sedan i att inskrivningshandläggaren utifrån en 
+
+30 
+
+blankett framtagen i samarbete med Försvarsmakten ställer frågor om 
+
+medborgarskap, ursprung, kontakter med utländsk försvarsmakt och Prop. 2022/23:87 utlandsvistelser med kompletterande följdfrågor till den totalförsvars-
+
+pliktige. På blanketten lämnas också utrymme för att anteckna kompletterande information som bedöms vara relevant för bedömningen av placering i säkerhetsklass.
+
+Om den totalförsvarspliktige efter samtalet bedöms uppfylla kraven på lojalitet och pålitlighet i säkerhetsskyddslagen, och också bedöms vara lämplig för inskrivning till grundutbildning med värnplikt, lämnar inskrivningshandläggaren ett besked om vilken inskrivning den totalförsvarspliktige sannolikt kommer att få, ett så kallat besked om preliminär inskrivning. Totalförsvarets plikt- och prövningsverk kontrollerar dem som har fått ett besked om preliminär inskrivning mot misstanke- och belastningsregistret. Om resultatet av mönstringen och slagningen i registren visar att den totalförsvarspliktige saknar förutsättningar att fullgöra värnplikt beslutar Totalförsvarets plikt- och prövningsverk att han eller hon inte är skyldig att fullgöra sådan tjänstgöring. Ett beslut om inskrivning kan överklagas till Statens överklagandenämnd (11 kap. 4 § 1 lagen [1994:1809] om totalförsvarsplikt och 8 kap. 1 § förordningen [1995:238] om totalförsvarsplikt).
+
+7.2.2Registerkontroll
+
+När Försvarsmakten har fått besked av Totalförsvarets plikt- och prövningsverk om vilka totalförsvarspliktiga som har skrivits in för värnplikt eller i en utbildningsreserv begär Försvarsvarsmakten en registerkontroll av dessa.
+
+Det är Säkerhetspolisen som gör kontrollen mot aktuella register. Om det under registerkontrollen kommer fram någon uppgift som i det enskilda fallet kan antas ha betydelse för prövningen av en totalförsvarspliktiges lojalitet, pålitlighet och sårbarhet enligt 3 kap. 2 § säkerhetsskyddslagen lämnas uppgiften efter beslut från Säkerhets- och integritetsskyddsnämnden ut till Försvarsmakten. Försvarsmakten har då att ta ställning till om de uppgifter som kommit fram utgör skäl att inte låta den totalförsvarspliktige göra grundutbildning med värnplikt.
+
+Om Försvarsmakten bedömer att de uppgifter som kommit fram under registerkontrollen gör att den kontrollerade inte uppfyller kraven i säkerhetsskyddslagen och därmed inte kan placeras på en befattning i säkerhetsklass, meddelar Försvarsmakten detta till Totalförsvarets plikt- och prövningsverk som i sin tur fattar beslut om att den kontrollerade inte är skyldig att fullgöra värnplikt. Ett sådant beslut, ett ändrat inskrivningsbeslut enligt 3 kap. 9 § lagen om totalförsvarsplikt, kan inte överklagas (se 11 kap. lagen om totalförsvarsplikt).
+
+7.3 Uppföljande säkerhetsprövning av krigsplacerade
+
+Försvarsmakten har bedömt att den som har fullgjort grundutbildning med 
+
+värnplikt och krigsplacerats i en säkerhetsklassad befattning fortsatt ska 
+
+anses delta i myndighetens säkerhetskänsliga verksamhet. Därför anser 
+
+31 
+
+Prop. 2022/23:87 myndigheten att säkerhetsprövningen ska följas upp även efter fullgjord grundutbildning med värnplikt och att krigsplacerade totalförsvarspliktiga ska kvarstå i registerkontroll.
+
+Efter avslutad grundutbildning med värnplikt skriver Totalförsvarets plikt- och prövningsverk in berörda för krigsplacering i Försvarsmaktens krigsorganisation. Om Säkerhets- och integritetsskyddsnämndens registerkontrolldelegation bedömer att en uppgift som har kommit fram under den pågående registerkontrollen ska lämnas ut till verksamhetsansvarig, lämnas uppgiften i dessa fall till Försvarsmakten.
+
+Utöver den pågående registerkontrollen görs i dag ingen annan uppföljande säkerhetsprövning av dem som har krigsplacerats i säkerhetsklassad befattning, dvs. varken uppföljningssamtal eller utbildning i säkerhetsskydd genomförs.
+
+7.4Säkerhetsprövning av den som redan har fullgjort grundutbildning med värnplikt
+
+Innan värnplikten återinfördes var inte alla befattningar i krigsorganisationen placerade i säkerhetsklass. Ett antal totalförsvarspliktiga i krigsorganisationen är därför inte föremål för säkerhetsprövning. Några av dessa icke säkerhetsprövade totalförsvarspliktiga är fortfarande krigsplacerade i myndighetens verksamhet. Eftersom Försvarsmakten beslutat att alla befattningar numera är placerade i säkerhetsklass har myndigheten, utifrån kraven i säkerhetsskyddslagen, kommit fram till att den som inte har genomgått någon säkerhetsprövning inte får delta i vare sig repetitionsutbildning eller annan säkerhetskänslig verksamhet utan att först säkerhetsprövas.
+
+8 
+
+Försvarsmakten ska ansvara för 
+
+säkerhetsprövningen av värnpliktiga 
+
+Regeringens förslag: Försvarsmakten ska ansvara för säkerhets- 
+
+prövningen när det gäller totalförsvarspliktiga inför inskrivning för 
+
+värnplikt och totalförsvarspliktiga som efter avslutad grundutbildning 
+
+med värnplikt har krigsplacerats enligt 3 kap. 12 § lagen om total- 
+
+försvarsplikt i en befattning placerad i säkerhetsklass i Försvarsmaktens 
+
+verksamhet. 
+
+Utredningens förslag stämmer i sak överens med regeringens. 
+
+Remissinstanserna: Totalförsvarets plikt- och prövningsverk tillstyrker 
+
+utredningens förslag men anser att det saknas lagstöd för att lägga till andra 
+
+moment vid mönstringen än att utreda den mönstrades medicinska och 
+
+psykologiska förutsättningar samt att det saknas lagstöd att kalla individer 
+
+till säkerhetsprövning med stöd av lagen om totalförsvarsplikt. 
+
+Försvarsmakten tillstyrker förslaget men anser att bestämmelsen bör 
+
+32 
+
+utformas på ett sätt som är mer förenligt med lagen (1994:1809) om 
+
+totalförsvarsplikt. Övriga remissinstanser tillstyrker eller har inte några Prop. 2022/23:87 synpunkter på utredningens förslag.
+
+Skälen för regeringens förslag
+
+Säkerhetsskyddet och myndigheternas uppgifter och ansvar
+
+Som huvudregel ska den som beslutar om anställning eller annat deltagande i den säkerhetskänsliga verksamheten också göra säkerhetsprövningen (3 kap. 4 § andra stycket säkerhetsskyddslagen [2018:585]). När det gäller värnpliktiga är det Totalförsvarets plikt- och prövningsverk som ansvarar för mönstringen av värnpliktiga och som beslutar om vilka som ska skrivas in för värnplikt. Grundutbildningen med värnplikt genomförs sedan hos Försvarsmakten. Mönstringen inför grundutbildningen med värnplikt skiljer sig från tillsättningen av andra tjänster eftersom en myndighet ansvarar för prövning och inskrivning till en tjänstgöring som en annan myndighet ansvarar för.
+
+När det gäller säkerhetsprövningen av de värnpliktiga genomför Totalförsvarets plikt- och prövningsverk på uppdrag av Försvarsmakten grundutredningen av de totalförsvarspliktiga vid mönstringen, medan Försvarsmakten ansöker om registerkontroll av dem som skrivs in för värnplikt. Att låta en av myndigheterna ansvara för hela säkerhetsprövningen skulle innebära en renodling av myndigheternas uppgifter och stå i bättre överensstämmelse med säkerhetsskyddslagens systematik. Regeringen anser därför i likhet med utredningen att en sådan ordning bör gälla.
+
+När det gäller frågan om vilken myndighet som ska ansvara för säkerhetsprövningen kan det konstateras att det är Försvarsmakten som är ansvarig för myndighetens säkerhetsskydd och som i de flesta fall genomför säkerhetsprövningen, inklusive den uppföljande säkerhetsprövningen, av dem som deltar i myndighetens verksamhet. Vidare har Försvarsmakten den kunskap om verksamheten som krävs för att avgöra i vilken utsträckning en befattning innebär att en person deltar i säkerhetskänslig verksamhet eller får del av säkerhetsskyddsklassificerade uppgifter. En ordning där den myndighet som är ansvarig för den säkerhetskänsliga verksamheten också ansvarar för säkerhetsprövningen av dem som ska delta i verksamheten måste antas innebära en minskad risk för hot mot Sveriges säkerhet. Sett enbart utifrån ett säkerhetsskyddsperspektiv bör därmed ansvaret för säkerhetsprövningen vad gäller värnpliktiga i sin helhet läggas på Försvarsmakten.
+
+Skyddet för den personliga integriteten
+
+Vid bedömning av vilken eller vilka myndigheter som ska ansvara för säkerhetsprövningen vid inskrivning till värnplikt är det viktigt att skyddet för den personliga integriteten värnas. Att myndigheter inte behöver dela integritetskänsliga uppgifter mellan varandra eller att den enskilde själv inte behöver svara på liknande frågor från två myndigheter måste antas vara mindre besvärande för den som prövas samtidigt som risken för att integritetskänsliga uppgifter hamnar i orätta händer minskar i och med att tillgången till uppgifterna begränsas. Om Försvarsmakten ansvarar för att
+
+göra grundutredningen innebär det vidare att uppgifterna som då lämnas
+
+33
+
+Prop. 2022/23:87
+
+34
+
+på ett enklare sätt kan ligga till grund för den uppföljande säkerhetsprövningen. Myndigheten har kännedom om vilka sårbarheter som finns, vad som behöver följas upp och kan rikta in sin uppföljning på det som är relevant för prövningen i det enskilda fallet. Sammantaget finns det enligt regeringens mening klara fördelar ur ett integritetsskyddsperspektiv med att ansvaret för säkerhetsprövningen i dess helhet läggs på Försvarsmakten.
+
+Administrativa, ekonomiska och praktiska konsekvenser
+
+Utredningen förordar att grundutredningen, i likhet med gällande ordning, ska genomföras i samband med mönstringen. Om Försvarsmakten ansvarar för genomförandet av grundutredningen behöver Försvarsmakten närvara med personal i Totalförsvarets plikt- och prövningsverks lokaler vid mönstringen. Ett motsvarande förfarande gäller i fråga om sökande som är aktuella för antagning till polisutbildningen. Dessa testas av Totalförsvarets plikt- och prövningsverk, och Polismyndighetens personal genomför grundutredningen på plats i Totalförsvarets plikt- och prövningsverks lokaler.
+
+Om ansvaret för grundutredningen läggs på Försvarsmakten, innebär det att kostnaderna för grundutredningen ökar. Oavsett om Försvarsmakten genomför säkerhetsprövningen vid mönstringen eller vid annat tillfälle behöver Försvarsmaktens personal tas i anspråk för detta. Sker grundutredningen samtidigt som mönstringen behöver dessutom mönstringsprocessen ändras något för att ge utrymme för Försvarsmakten att genomföra grundutredningen. Därutöver innebär en ändring av ansvaret för grundutredningen att flera snarlika frågor kommer att behöva ställas till de totalförsvarspliktiga, först under psykologutredningen, sedan under grundutredningen. Regeringen delar dock utredningens bedömning att fördelarna med en ordning där Försvarsmakten har det samlade ansvaret för säkerhetsprövningen kompenserar för dessa nackdelar.
+
+Regeringens sammantagna bedömning
+
+Sammantaget anser regeringen att det är mest fördelaktigt såväl utifrån ett säkerhetsskyddsperspektiv som för skyddet för den personliga integriteten att Försvarsmakten ansvarar även för grundutredningen inom ramen för säkerhetsprövningen för värnpliktiga. Försvarsmakten kommer därmed att ansvara för säkerhetsprövningen i dess helhet. En ändring som medger detta bör göras i säkerhetsskyddslagen. Regeringen delar Försvarsmaktens synpunkt om att bestämmelsen bör utformas på så sätt att den är mer förenlig med lagen om totalförsvarsplikt. Samtidigt behöver säkerhetsskyddslagens systematik beaktas. Regeringen föreslår därför en något annorlunda utformning av bestämmelsen. Någon ändring i sak i förhållande till utredningens förslag är inte avsedd.
+
+Totalförsvarets plikt- och prövningsverk lyfter fram frågor om avsaknad av författningsstöd kopplat till genomförandet av grundutredningen om ansvaret för denna läggs på Försvarsmakten.
+
+Grundutredningen genomförs i dag i samband med att de totalförsvarspliktiga genomgår mönstring. Regeringen delar utredningens bedömning att det framstår som ändamålsenligt att den ordningen ska gälla även fortsättningsvis. De rättsliga förutsättningarna för detta ändras inte av att
+
+ansvaret för säkerhetsprövningen i den här delen läggs på Försvarsmakten. Prop. 2022/23:87 Vidare menar regeringen att det i skyldigheten att genomgå mönstring får
+
+anses ingå att genomföra sådan säkerhetsprövning som är en förutsättning för att kunna delta i säkerhetskänslig verksamhet. Enligt regeringens bedömning finns det i nuläget inte skäl att överväga ytterligare föreskrifter med anledning av förslaget om ändring av ansvaret för säkerhetsprövningen av värnpliktiga.
+
+Försvarsmaktens personuppgiftsbehandling
+
+Som redogjorts för i avsnitt 6.3.2 regleras Försvarsmaktens personuppgiftsbehandling i lagen (2021:1171) om behandling av personuppgifter vid Försvarsmakten. Regleringen gäller vid behandling av personuppgifter inom tillämpningsområdet om behandlingen är helt eller delvis automatiserad eller om uppgifterna ingår i eller är avsedda att ingå i en strukturerad samling av personuppgifter som är tillgängliga för sökning eller sammanställning enligt särskilda kriterier. Lagen syftar till att säkerställa att Försvarsmakten kan behandla personuppgifter på ett ändamålsenligt sätt och att skydda fysiska personers grundläggande fri- och rättigheter i samband med sådan behandling (1 kap. 1 och 3 §§). I lagen finns också bestämmelser bland annat om att tillgången till personuppgifter alltid ska begränsas till vad var och en behöver för att kunna fullgöra sina arbetsuppgifter, om rättelse och om skadestånd (4 kap. 2 §, 5 kap. 6 § samt 7 kap. 1 §). I lagen anges att Försvarsmaktens militära säkerhetstjänst får behandla personuppgifter för att upptäcka, förebygga och avvärja säkerhetshotande verksamhet som riktas mot Försvarsmakten och dess säkerhetsintresse, om det är nödvändigt för att klarlägga verksamhet som innefattar hot mot rikets säkerhet, eller vidta åtgärder som hindrar eller försvårar säkerhetshotande verksamhet (2 kap. 5 §). Uppgifter om en person får behandlas för dessa ändamål bland annat om uppgifterna är nödvändiga för att genomföra säkerhetsprövning enligt säkerhetsskyddslagen eller för att utföra en uppgift som rör säkerhetsskydd (2 kap. 6 § 5). Det finns därmed ett tydligt stöd för Försvarsmakten att behandla personuppgifter inom ramen för genomförandet av grundutredningen och i övriga delar av säkerhetsprövningen. Regeringen anser att bestämmelserna i övrigt i personuppgiftslagstiftningen ger tillräckligt skydd för enskildas personuppgifter på de områden som regeringens förslag berör.
+
+35
+
+Prop. 2022/23:87 
+
+9 
+
+Undantag från kravet på samtycke till 
+
+registerkontroll ska införas 
+
+Regeringens förslag: Kravet på samtycke till registerkontroll i 3 kap. 
+
+18 § säkerhetsskyddslagen ska inte gälla en totalförsvarspliktig som 
+
+skrivs in för värnplikt enligt lagen om totalförsvarsplikt eller en 
+
+totalförsvarspliktig som efter avslutad grundutbildning med värnplikt 
+
+har krigsplacerats enligt den lagen. 
+
+Undantaget ska gälla under den tid som deltagandet i den 
+
+säkerhetskänsliga verksamheten pågår. 
+
+Undantaget ska endast gälla för sådan registerkontroll som ska göras 
+
+för placering i säkerhetsklass 3. 
+
+Utredningens förslag överensstämmer i sak med regeringens. 
+
+Remissinstanserna: De flesta remissinstanser tillstyrker eller har inte 
+
+några invändningar mot förslaget. Riksdagens ombudsmän (JO), 
+
+Justitiekanslern och Integritetsskyddsmyndigheten konstaterar att 
+
+förslaget innebär en försämring av skyddet för den personliga integriteten 
+
+men också en godtagbar avvägning mellan försvarsintresset, närmare 
+
+bestämt intresset av att upprätthålla totalförsvarsplikten som en absolut 
+
+skyldighet, och den personliga integriteten. Försvarsmakten påpekar att ett 
+
+krav på samtycke till säkerhetsprövning för placering i säkerhetsklass 2 
+
+kan innebära ett problem för Försvarsmakten och att detta behöver 
+
+övervägas i fortsättningen. Totalförsvarets plikt- och prövningsverk anser 
+
+att ett avskaffande av samtyckeskravet för registerkontroll innebär en 
+
+oproportionerlig avvägning mellan det grundlagsskydd som gäller för den 
+
+personliga integriteten och behovet av säkerhetsskydd och anser att krav 
+
+på samtycke till registerkontroll ska gälla även i fortsättningen. 
+
+Skälen för regeringens bedömning 
+
+Behovet av en förändring av reglerna om samtycke 
+
+Försvarsmaktens huvuduppgift är att försvara Sverige mot ett väpnat 
+
+angrepp. Myndigheten ska främja Sveriges säkerhet och hävda Sveriges 
+
+territoriella integritet samt organisera krigsförband och vidta de 
+
+förberedelser i övrigt som behövs för att kunna lösa myndighetens 
+
+huvuduppgift (1, 2 och 2 a §§ förordningen [2007:1266] med instruktion 
+
+för Försvarsmakten). För lösandet av Försvarsmaktens uppgifter krävs 
+
+tillgång till värnpliktig personal. 
+
+Som redogjorts för i avsnitt 4.3 är lagen om totalförsvarsplikt 
+
+(1994:1809) en skyldighetslagstiftning. Totalförsvarspliktiga är skyldiga 
+
+att medverka vid utredning om sina personliga förhållanden och i viss 
+
+omfattning tjänstgöra inom totalförsvaret. Skyldigheten att tjänstgöra 
+
+inom totalförsvaret fullgörs genom värnplikt, civilplikt eller allmän 
+
+tjänsteplikt. De som kallas till mönstring är skyldiga att infinna sig och 
+
+fullgöra grundutbildning med värnplikt, om de skrivs in till sådan. 
+
+När en befattning som är placerad i säkerhetsklass ska tillsättas, måste 
+
+den som ska anställas eller på annat sätt delta i verksamheten i syftet att 
+
+inneha 
+
+befattningen säkerhetsprövas. För att en registerkontroll och 
+
+36 
+
+särskild personutredning ska få göras krävs att den som ska kontrolleras 
+
+samtycker till det (3 kap. 18 § säkerhetsskyddslagen [2018:585]). Detta gäller även totalförsvarspliktiga som skrivs in till befattningar som är placerade i säkerhetsklass. Om den totalförsvarspliktige inte lämnar samtycke får vare sig registerkontroll eller särskild personutredning göras. Den som nekat samtycke kan då inte heller delta i den säkerhetskänsliga verksamheten. Ett nekat samtycke innebär därmed att den totalförsvarspliktige inte kan skrivas in för sådan värnplikt som han eller hon har befunnits lämplig för och är skyldig att genomföra. Kravet på samtycke till säkerhetsprövningen urholkar därmed den skyldighet som totalförsvarsplikten utgör.
+
+Iproposition Totalförsvaret 
+2021–2025
+ (prop. 2020/21:30) framhöll regeringen, i likhet med Försvarsberedningen, att ett väpnat angrepp mot Sverige inte kan uteslutas samt att Sverige oundvikligen blir påverkat om en säkerhetspolitisk kris eller väpnad konflikt uppstår i Sveriges närområde, varför totalförsvarets förmåga måste stärkas. Efter överläggningar mellan regeringen och Försvarsberedningen enades samtliga politiska partier den 16 mars 2022 om att öka anslagen till det militära och det civila försvaret under 2022. Syftet med anslagsökningarna är att ytterligare stärka förmågan på kort sikt och åstadkomma en snabbare upprustning av totalförsvaret.
+
+I budgetpropositionen för 2023 (prop. 2022/23:1) anför regeringen att det försämrade säkerhetsläget i ljuset av den ryska aggressionen mot Ukraina kräver att upprustningstakten av totalförsvaret ökas utöver det som fastlagts i prop. 2020/21:30 och i överenskommelsen mellan samtliga riksdagspartier från den 16 mars 2022. Både det militära och civila försvaret behöver enligt regeringen utvecklas för att totalförsvaret ska kunna få full effekt.
+
+Värnpliktig personal utgör en förutsättning för en utökning av krigsorganisationen och för att kunna producera fullt bemannade, utbildade och övade krigsförband. Från och med 2025 kommer 8 000 totalförsvarspliktiga att grundutbildas årligen, enligt nuvarande inriktning.
+
+Redan det förhållandet att antalet värnpliktiga kommer att öka betydligt de närmaste åren medför att risken för urholkning av totalförsvarsplikten ökar om kravet på samtycke bibehålls. Även det faktum att ett samtycke när som helst kan återkallas ökar den risken.
+
+För den som ska ha en befattning som är placerad i säkerhetsklass 3 innebär säkerhetsprövningen en grundutredning, registerkontroll samt uppföljning och utbildning. Säkerhets- och integritetsskyddsnämnden beslutar vilka uppgifter från registerkontrollen som ska lämnas ut till verksamhetsutövaren, och lämnar enbart ut sådana uppgifter som är av betydelse för säkerhetsprövningen. Utredningens bedömning är att vid en avvägning mellan det intrång som säkerhetsprövningen innebär för den enskilde och intresset av att upprätthålla totalförsvarsplikten som en absolut skyldighet, bör kravet på samtycke ge vika. Till skillnad mot Totalförsvarets plikt- och prövningsverk, delar regeringen utredningens bedömning i det avseendet. Vid sin bedömning fäster regeringen vikt vid
+
+vad Riksdagens ombudsmän (JO), Justitiekanslern och Integritetsskyddsmyndigheten konstaterar i fråga om avvägningen mellan försvarsintresset och den personliga integriteten.
+
+Prop. 2022/23:87
+
+37
+
+Prop. 2022/23:87
+
+38
+
+Ett undantag från krav på samtycke är förenligt med grundlag
+
+I regeringsformen stadgas att var och en gentemot det allmänna är skyddad mot betydande intrång i den personliga integriteten, om det sker utan samtycke och innebär övervakning eller kartläggning av den enskildes personliga förhållanden (2 kap. 6 § andra stycket). Avgörande för om en åtgärd ska anses innebära övervakning eller kartläggning är inte dess huvudsakliga syfte utan vilken effekt åtgärden har (prop. 2009/10:80 s. 250). Säkerhetsprövningen syftar till att klarlägga om en person kan antas vara lojal med de intressen som ska skyddas och i övrigt pålitlig ur säkerhetssynpunkt. Prövningen syftar också till att utreda eventuella sårbarheter som skulle kunna göra att personen hamnar i en utsatt situation och blir sårbar för yttre påtryckningar. Säkerhetsprövningen av den som är aktuell för grundutbildning med värnplikt får, enligt regeringens mening, anses innebära sådan kartläggning och övervakning av enskilda som avses i regeringsformen.
+
+Under den inledande säkerhetsprövningen som sker inför anställning eller annat deltagande i säkerhetskänslig verksamhet måste grundutredningen och registerkontrollen anses utgöra en kartläggning av en enskilds personliga förhållanden. Den uppföljande säkerhetsprövningen och den löpande registerkontrollen som pågår under hela den tid som den enskilde är placerad i säkerhetsklass måste anses utgöra sådan övervakning av den enskildes personliga förhållanden som avses i 2 kap. 6 § andra stycket regeringsformen. Åtgärderna är sådana att de får anses innebära kontinuerlig övervakning av den enskilde från det allmännas sida (jfr prop. 2009/10:80 s. 181).
+
+För att grundlagsskyddet för den personliga integriteten ska aktualiseras krävs det också att registerkontrollen innebär ett betydande intrång. Vad som utgör ett betydande integritetsintrång måste bedömas utifrån de samhällsvärderingar som råder vid varje givet tillfälle. Dessa kan påverkas av en rad omständigheter, inte minst av den fortsatta tekniska utvecklingen men även av andra förhållanden i vår omvärld (prop. 2009/10:80 s. 184– 185). I likhet med utredningen bedömer regeringen att en registerkontroll utan krav på samtycke kan utgöra ett sådant betydande intrång i den personliga integriteten som avses i 2 kap. 6 § andra stycket regeringsformen.
+
+Ett undantag från kravet på samtycke för registerkontroll innebär därmed att regeringsformens skydd för den personliga integriteten skulle kunna aktualiseras. En begränsning av skyddet för den personliga integriteten måste i sådant fall uppfylla de krav som ställs upp i 2 kap. 21 § regeringsformen, dvs. begränsningen får göras endast för att tillgodose ändamål som är godtagbara i ett demokratiskt samhälle, begränsningen får inte gå utöver vad som är nödvändigt med hänsyn till det ändamål som har föranlett den och inte heller sträcka sig så långt att den utgör ett hot mot den fria åsiktsbildningen såsom en av folkstyrelsens grundvalar. Begränsningen får inte heller göras enbart på grund av politisk, religiös, kulturell eller annan sådan åskådning. Ett undantag för värnpliktiga från kravet på samtycke i säkerhetsskyddslagen skulle inte utgöra ett hot mot den fria åsiktsbildningen. Undantaget skulle inte heller göras enbart på grund av politisk, religiös, kulturell eller annan sådan åskådning. Ändamålet med att föreslå förändringar i reglerna om samtycke för
+
+registerkontroll är att ge totalförsvaret möjlighet att fortsätta stärkas och försvara Sverige mot väpnat angrepp samt värna landets säkerhet, frihet, självständighet och handlingsfrihet. När det särskilt gäller värnpliktiga handlar det om att ge Försvarsmakten goda förutsättningar att stärka Sveriges militära förmåga. Det handlar alltså om att stärka den nationella säkerheten och förmågan att försvara landet (jfr art. 8.2 i Europakonventionen). Det är av grundläggande betydelse i ett demokratiskt samhälle att kunna upprätthålla landets försvar och säkerhet. Försvarsmakten är en central myndighet i detta avseende. Ändamålet med begränsningen måste därmed anses vara godtagbart i ett demokratiskt samhälle.
+
+Ett undantag från reglerna om samtycke till registerkontroll förutsätter att det är nödvändigt med hänsyn till ändamålet. Det kan inte säkerställas att de som är bäst lämpade för tjänstgöring skrivs in för värnplikt om det är möjligt att undkomma plikten genom att vägra lämna samtycke till registerkontroll. För att möta Försvarsmaktens växande behov av personal planeras för en utökning av antalet värnpliktiga de kommande åren. Totalförsvarets plikt- och prövningsverk ska år 2025 skriva in ca 8 000 till grundutbildning med värnplikt. Nödvändigheten av en begränsning av kravet på samtycke för att totalförsvarspliktiga ska kunna säkerhetsprövas kan antas öka under de kommande åren. I likhet med utredningen anser regeringen att det utifrån dessa förutsättningar är nödvändigt med hänsyn till ändamålet att tillåta ett sådant intrång i den personliga integriteten som en registerkontroll utan samtycke från den enskilde innebär.
+
+Begränsningar för att minimera integritetsintrånget
+
+I dag pågår säkerhetsprövning under den tid som deltagande i den säkerhetskänsliga verksamheten pågår. Regeringens förslag innebär för totalförsvarspliktiga, som efter avslutad grundutbildning med värnplikt krigsplaceras i säkerhetsklassad befattning i Försvarsmaktens verksamhet, att säkerhetsprövningen pågår så länge beslutet om krigsplacering kvarstår. Säkerhetsprövningens omfattning eller innehåll kan inte begränsas utan bestäms av säkerhetsklassindelningen. Säkerhetsprövningen för placering i säkerhetsklass 3 är begränsad i jämförelse med övriga säkerhetsklasser. Vidare minskar antalet personer som får del av känsliga uppgifter om ansvaret för säkerhetsprövningen, och dess genomförande läggs helt på Försvarsmakten enligt regeringens förslag. Den kontrollfunktion som Säkerhets- och integritetsskyddsnämndens registerkontrolldelegation har innebär också i praktiken en begränsning av integritetsintrånget. Utredningen ser inga möjligheter att ytterligare begränsa integritetsintrånget. Regeringen gör ingen annan bedömning.
+
+Krigsplacerade som sedan tidigare inte har säkerhetsprövats
+
+Försvarsmakten bedömer att de som är krigsplacerade i Försvarsmakten men som inte har säkerhetsprövats inför värnplikten behöver genomgå säkerhetsprövning för att kunna delta i repetitionsutbildning eller annan tjänstgöring. Individerna i denna grupp är äldre än de som mönstras för värnplikt vilket kan påverka säkerhetsprövningen och benägenheten att samtycka till registerkontroll. Det kan också vara så att motivationen till
+
+Prop. 2022/23:87
+
+39
+
+Prop. 2022/23:87 att göra repetitionsutbildning och kvarstå i sin krigsplacering minskar med åren.
+
+Regeringen delar utredningens bedömning att det är sannolikt att en större andel av dem som kallas in till repetitionsutbildning och som inte tidigare är säkerhetsprövade skulle neka att lämna samtycke till registerkontroll. I denna grupp bedöms det därför finnas en särskild risk för att kravet på samtycke i säkerhetsskyddslagen urholkar totalförsvarsplikten. Regeringen instämmer i utredningens bedömning att det inte finns skäl att behålla kravet på samtycke i säkerhetsskyddslagen för denna grupp. Regeringen ser, i likhet med utredningen, inga möjligheter att begränsa integritetsintrånget. Undantaget från kravet på samtycke ska gälla enbart för placering i säkerhetsklass 3.
+
+Samtyckeskravet för placering i säkerhetsklass 2
+
+Försvarsmakten påpekar att ett krav på samtycke till säkerhetsprövning för placering i säkerhetsklass 2 kan innebära ett problem för Försvarsmakten. Som anförs i avsnitt 9 skulle en utvidgning av undantaget från kravet på samtycke till att även gälla för säkerhetsprövning i säkerhetsklass 2 innebära ett mer omfattande integritetsintrång för enskilda, dels eftersom säkerhetsprövningen i säkerhetsklass 2 innefattar särskild personutredning, dels eftersom registerkontrollen även får omfatta inhämtande av uppgifter om den kontrollerades make eller sambo. Mot den bakgrunden och då tillräckligt beredningsunderlag för ett sådant förslag saknas, finns det för närvarande inte förutsättningar för ett bredare undantag från samtyckeskravet än det som utredningen föreslår.
+
+Ingen förändring av reglerna om utlämnande av uppgifter
+
+En fråga som uppkommer om det görs undantag från kravet på samtycke till registerkontroll är om det är nödvändigt att på samma sätt som enligt gällande lagstiftning kommunicera de eventuella uppgifter som kommer fram under en registerkontroll med den som kontrolleras (se avsnitt 5.3.3). Syftet med den kommunicering som Säkerhetspolisen och Säkerhets- och integritetsskyddsnämnden handhar är bland annat att den som kontrolleras ska ges tillfälle att motivera varför uppgifterna inte ska lämnas ut till verksamhetsutövaren. Av integritetsskäl måste den som kontrolleras – trots förändrade regler om krav på samtycke – fortsatt ges samma möjlighet till kommunicering som finns i dagsläget.
+
+Försvarsmaktens personuppgiftsbehandling
+
+Förslaget bedöms inte påverka den rättsliga regleringen av behandlingen av personuppgifter, utan bedöms enbart beröra det grundslagreglerade skyddet för den personliga integriteten. Försvarsmaktens rätt att behandla personuppgifter som avser information som framkommit i samband med säkerhetsprövning redogörs för i avsnitt 8.
+
+40
+
+10 
+
+Tydligt lagstöd för den uppföljande 
+
+Prop. 2022/23:87 
+
+säkerhetsprövningen av krigsplacerade i Försvarsmakten
+
+Regeringens förslag: En totalförsvarspliktig som efter avslutad grundutbildning med värnplikt krigsplaceras enligt 3 kap. 12 § lagen om totalförsvarsplikt i en befattning placerad i säkerhetsklass i Försvarsmaktens verksamhet ska anses delta i säkerhetskänslig verksamhet under den tid som beslutet om krigsplacering kvarstår.
+
+Utredningens förslag överensstämmer delvis med regeringens. Utredningen förslag är begränsat till att endast gälla den uppföljande säkerhetsprövningen för totalförsvarspliktiga som har krigsplacerats i en befattning placerad i säkerhetsklass 3 i Försvarsmaktens verksamhet.
+
+Remissinstanserna: De flesta remissinstanser tillstyrker eller har inte några invändningar mot förslaget. Riksdagens ombudsmän (JO) och Justitiekanslern konstaterar att förslaget innebär en försämring av skyddet för den personliga integriteten men anser att förslaget innebär en godtagbar avvägning mellan försvarsintresset och den personliga integriteten. Försvarsmakten tillstyrker utredningens förslag om att en uppföljande säkerhetsprövning får göras under hela den tid som den totalförsvarspliktige är krigsplacerad med stöd av lagen om totalförsvarsplikt. Försvarsmakten anför dock att för att myndigheten ska kunna uppfylla kravet på operativ förmåga och snabbt få tillgång till personalresurser som har krigsplacerats i verksamheten krävs det att säkerhetsprövningen följs upp även för de totalförsvarspliktiga som har krigsplacerats i en befattning i säkerhetsklass 2. Totalförsvarets plikt- och prövningsverk invänder mot förslaget om att en individ som är krigsplacerad ska anses delta i Försvarsmaktens verksamhet och därmed blir föremål för uppföljande säkerhetsprövning. Totalförsvarets plikt- och prövningsverk anser också att det saknas rättslig grund för att kalla individer till uppföljande säkerhetsprövning. Pliktrådet motsätter sig utredningens förslag och anför att säkerhetsprövning endast bör genomföras i anslutning till respektive tjänstgöringstillfälle.
+
+Skälen för regeringens förslag
+
+Behovet av uppföljande säkerhetsprövning och en ändring i säkerhetsskyddslagen
+
+Som redogörs för i avsnitt 9 är Försvarsmaktens huvuduppgift att försvara Sverige mot ett väpnat angrepp. Myndigheten ska främja Sveriges säkerhet och hävda Sveriges territoriella integritet samt organisera krigsförband och vidta de förberedelser i övrigt som behövs för att kunna lösa myndighetens huvuduppgift (1, 2 och 2 a §§ förordningen [2007:1266] med instruktion för Försvarsmakten). Krigsförbanden består bland annat av värnpliktig personal. För att Försvarsmakten ska kunna utföra sina uppgifter och uppfylla de mål om operativ förmåga som myndigheten har, behöver myndigheten snabbt kunna kalla in dem som krigsplacerats i dess
+
+verksamhet. Att de totalförsvarspliktiga som har krigsplacerats i den
+
+41
+
+Prop. 2022/23:87 säkerhetskänsliga verksamheten har säkerhetsprövats är en förutsättning för tjänstgöring. För att Försvarsmakten tillräckligt snabbt ska kunna få tillgång till den personal som behövs för att kunna försvara Sverige krävs att de krigsplacerade kan säkerhetsprövas under hela den tid som krigsplaceringen består.
+
+I säkerhetsskyddslagen anges att säkerhetsprövningen ska följas upp under den tid deltagandet i den säkerhetskänsliga verksamheten pågår (3 kap. 3 §). Försvarsmakten har utifrån sin tolkning av säkerhetsskyddslagen (2018:585) bedömt att de som krigsplacerats deltar i myndighetens säkerhetskänsliga verksamhet under den tid som beslutet om krigsplacering kvarstår. Det innebär att säkerhetsprövningen följs upp under hela den tiden.
+
+Det kan, som utredningen konstaterar, diskuteras om krigsplacerade som inte genomför repetitionsutbildning eller annan värnpliktstjänstgöring deltar i Försvarsmaktens säkerhetskänsliga verksamhet på sådant sätt som avses i säkerhetsskyddslagen. Det finns därför ett behov av att förtydliga vad som i detta avseende ska gälla för de totalförsvarspliktiga som krigsplacerats i Försvarsmaktens verksamhet.
+
+En avvägning mellan behovet av den uppföljande säkerhetsprövningen och skyddet för den personliga integriteten
+
+En säkerhetsprövning av totalförsvarspliktiga som är krigsplacerade i Försvarsmaktens verksamhet som får pågå under så lång tid som det nu är fråga om, är integritetskränkande för dem som prövas. Behovet av skydd för den personliga integriteten i sammanhanget talar för att så långt möjligt begränsa den uppföljande säkerhetsprövningen. Å andra sidan gäller att ju mer den uppföljande säkerhetsprövningen begränsas, desto mindre nytta gör den.
+
+Det pågår en uppbyggnad av det militära försvaret, vilket bland annat är en konsekvens av det allvarliga säkerhetspolitiska läget. Detta innebär att fler totalförsvarspliktiga kan förväntas behöva tjänstgöra med stöd av lagen om totalförsvarsplikt och att tjänstgöringstillfällen kan förväntas ske med större regelbundenhet. Försvarsmakten är skyldig att följa säkerhetsskyddslagens regler om att inte låta någon delta i säkerhetskänslig verksamhet utan föregående säkerhetsprövning. Att genomföra en ny säkerhetsprövning av alla som ska tjänstgöra inför varje tjänstgöringstillfälle skulle kräva ett mycket omfattande arbete av såväl Försvarsmakten som Säkerhetspolisen och Säkerhets- och integritetsskyddsnämnden. En sådan ny prövning inför tjänstgöringen riskerar att allvarligt hindra eller omintetgöra förutsättningarna att med kort varsel kalla in krigsplacerade i händelse av höjd beredskap eller då det annars krävs för Sveriges försvarsberedskap. I avvägningen mellan att ha personal snabbt tillgänglig och det integritetsintrång som det innebär att underkastas uppföljande säkerhetsprövning anser regeringen, i likhet med utredningen, att möjligheten att försvara landet utan att riskera Sveriges säkerhet väger tyngre.
+
+Utredningen har övervägt möjligheten att begränsa den uppföljande säkerhetsprövningen på så sätt att säkerhetsprövningen inte ska få pågå längre än en viss tid, t.ex. fem år. I likhet med utredningen anser regeringen
+
+att en säkerhetsprövning som ges viss giltighetstid inte ligger i linje med
+
+42
+
+synsättet på säkerhetsprövningen i nya säkerhetsskyddslagen där vikten av en löpande säkerhetsprövning som en pågående process som kan fånga upp förändringar i livssituationen och beteende hos dem som prövas betonas. Ett förslag som skulle innebära ett avsteg från den ordningen står, som utredningen konstaterar, inte i tillräcklig överensstämmelse med tanken bakom säkerhetsprövningen. Regeringen delar därför utredningens bedömning att säkerhetsprövningen av de krigsplacerade inte bör begränsas i tid.
+
+Utredningen har begränsat sitt förslag till att omfatta värnpliktiga vilkas befattningar är placerade i säkerhetsklass 3. Försvarsmakten anför att även säkerhetsprövningen för dem som har krigsplacerats i en befattning i säkerhetsklass 2 behöver följas upp. Myndigheten behöver nämligen snabbt få tillgång till sådana personalresurser för att kunna uppfylla kravet på operativ förmåga. Regeringen konstaterar att ett lagstöd för den uppföljande säkerhetsprövningen som endast gäller för säkerhetsprövning av värnpliktiga i säkerhetsklass 3 innebär att Försvarsmakten inte kommer att kunna följa upp säkerhetsprövningen för värnpliktiga som krigsplaceras i högre säkerhetsklasser. Som Försvarsmakten pekar på kan en sådan ordning påverka myndighetens operativa förmåga, vilket i sin tur kan få konsekvenser för Sveriges säkerhet. Enligt regeringen saknas vidare skäl att låta bedömningen av vilka som deltar i verksamheten avgöras utifrån vilken säkerhetsklass befattningen är placerad i. Det vore nämligen en orimlig ordning att den som är placerad i säkerhetsklass 3 ska anses delta i verksamheten, medan den som är placerad i högre säkerhetsklass inte ska anses göra det. Det finns därför skäl att införa ett tydligt lagstöd för den uppföljande säkerhetsprövningen i linje med Försvarsmaktens förslag. Ett sådant förslag skulle visserligen innebära ett mer omfattande integritetsintrång för enskilda, dels eftersom säkerhetsprövningen i säkerhetsklass 2 innefattar särskild personutredning, dels eftersom registerkontrollen även får omfatta inhämtande av uppgifter om den kontrollerades make eller sambo. Det ska samtidigt framhållas att registerkontroll och särskild personutredning förutsätter att den enskilde lämnar sitt samtycke till åtgärderna. Regeringen föreslår ingen ändring av reglerna om samtyckeskrav när det gäller säkerhetsprövningen i de högre säkerhetsklasserna (se avsnitt 9). Den enskilde kommer därmed även i fortsättningen ha möjlighet att neka samtycke till registerkontroll och särskild personutredning, med konsekvensen att individen inte kan tjänstgöra i en befattning i säkerhetsklass 2. Den värnpliktige skulle i en sådan situation i stället kunna krigsplaceras i en befattning som är placerad i säkerhetsklass 3. Regeringen menar att det med en sådan ordning är godtagbart att den uppföljande säkerhetsprövningen även omfattar värnpliktiga som har krigsplacerats i en högre säkerhetsklass än säkerhetsklass 3.
+
+Sammanfattningsvis anser regeringen, till skillnad mot Totalförsvarets plikt- och prövningsverk och Pliktrådet, att det i säkerhetsskyddslagen bör införas en bestämmelse som tydliggör att en totalförsvarspliktig som efter avslutad grundutbildning med värnplikt krigsplaceras enligt 3 kap. 12 § lagen om totalförsvarsplikt i en befattning placerad i säkerhetsklass i Försvarsmaktens verksamhet ska anses delta i säkerhetskänslig verksamhet under den tid som beslutet om krigsplacering kvarstår. Bestämmelsen ska gälla oavsett vilken säkerhetsklass som befattningen är
+
+Prop. 2022/23:87
+
+43
+
+Prop. 2022/23:87 placerad i. En sådan reglering ger Försvarsmakten uttryckligt lagstöd för att genomföra en uppföljande säkerhetsprövning av de krigsplacerade.
+
+Hur den uppföljande säkerhetsprövningen närmare genomförs bör inte regleras i lag eller förordning
+
+Försvarsmakten ansvarar för myndighetens säkerhetsskydd och för säkerhetsprövningen, inklusive den uppföljande säkerhetsprövningen, av övrig personal som deltar i myndighetens verksamhet. Generellt måste det kunna förutsättas att verksamhetsansvariga i stor utsträckning själva har förmåga att bedöma hur säkerhetsprövningarna av den egna personalen bäst följs upp. Regeringen ser, i likhet med utredningen, därför inte behov av att i lag eller förordning närmare lägga fast hur den uppföljande säkerhetsprövningen ska genomföras. Detta är i stället en fråga för Försvarsmakten att avgöra utifrån gällande föreskrifter.
+
+När det gäller Totalförsvarets plikt- och prövningsverks invändning att det saknas rättslig grund för att kalla individer till en uppföljande säkerhetsprövning vill regeringen tydliggöra att Försvarsmakten ska tillämpa gällande rätt, inklusive säkerhetsskyddslagstiftningen, vid genomförandet av den uppföljande säkerhetsprövningen. Enligt regeringens bedömning finns det i nuläget inte skäl att överväga ytterligare föreskrifter för genomförandet av den uppföljande säkerhetsprövningen.
+
+Försvarsmaktens personuppgiftsbehandling
+
+Försvarsmaktens rätt att behandla personuppgifter som avser information som framkommit i samband med säkerhetsprövning redogörs för i avsnitt 8. Myndigheten behöver även stöd i lag för att få behandla de uppgifter som myndigheten får del av genom de uppföljande säkerhetsprövningarna. I lagen (2021:1171) om behandling av personuppgifter vid Försvarsmakten anges att Försvarsmakten får behandla personuppgifter för de ändamål som anges i 2 kap. 5 § endast om personuppgifterna är nödvändiga för att genomföra säkerhetsprövning enligt säkerhetsskyddslagen eller för att utföra en uppgift som rör säkerhetsskydd (2 kap. 6 § 5). Bestämmelserna ger Försvarsmakten rätt att behandla också uppgifter som kommer fram genom uppföljande säkerhetsprövning. Något behov av författningsändringar för att Försvarsmakten ska kunna behandla personuppgifter i samband med den uppföljande säkerhetsprövningen behövs därför inte.
+
+11Tillstånds- och tillsynsansvaret för Försvarets radioanstalts hantering av brandfarliga och explosiva varor
+
+11.1Försvarets radioanstalt
+
+Försvarets radioanstalt är en myndighet under Försvarsdepartementet som
+
+bedriver försvarsunderrättelseverksamhet. Försvarsunderrättelseverksam-
+
+44
+
+het bedrivs, förutom av Försvarets radioanstalt, av Försvarsmakten, Prop. 2022/23:87 Försvarets materielverk och Totalförsvarets forskningsinstitut (2 §
+
+förordningen [2000:131] om försvarsunderrättelseverksamhet). Försvarets radioanstalt bedriver – efter inriktning från regeringen,
+
+Regeringskansliet, Försvarsmakten, Säkerhetspolisen och Nationella operativa avdelningen i Polismyndigheten – försvarsunderrättelseverksamhet till stöd för svensk 
+utrikes-,
+ säkerhets- och försvarspolitik samt i övrigt för kartläggning av yttre hot mot landet. Verksamheten får endast avse utländska förhållanden. Verksamheten fullgörs genom inhämtning, bearbetning och analys av information samt delgivning av underrättelser till berörda myndigheter. För att kunna bedriva försvarsunderrättelseverksamhet bedriver Försvarets radioanstalt även utvecklingsverksamhet.
+
+Utöver försvarsunderrättelse- och utvecklingsverksamheten bedriver Försvarets radioanstalt även informationssäkerhetsverksamhet. Försvarets radioanstalt bedriver verksamhet på olika platser i Sverige.
+
+Uppgifter hos Försvarets radioanstalt om försvarsunderrättelseverksamhet samt utvecklings- och informationssäkerhetsverksamhet, som avser t.ex. inriktning, förmåga, metoder, resultat samt organisation, omfattas av försvarssekretess enligt 15 kap. 2 § offentlighets- och sekretesslagen (2009:400). Uppgifterna kan därutöver vara av synnerlig betydelse för rikets säkerhet. Det kan antas att det skadar landets försvar eller på annat sätt vållar fara för rikets säkerhet om sådana uppgifter röjs. Uppgifter hos Försvarets radioanstalt kan även omfattas av annan sekretess, t.ex. sekretess för bevakningsåtgärder (18 kap. 8 §) eller utrikessekretess (15 kap. 1 §).
+
+Exempel på brandfarliga och explosiva varor som kan förekomma vid Försvarets radioanstalt är eldningsolja, diesel, bensin, färg, lim, metanol, aerosoler, acetylen och gasol.
+
+11.2Regleringen om brandfarliga och explosiva varor
+
+Frågor om brandfarliga och explosiva varor regleras i lagen (2010:1011) om brandfarliga och explosiva varor och i förordningen (2010:1075) om brandfarliga och explosiva varor. Den som hanterar, överför, importerar eller exporterar explosiva varor och den som yrkesmässigt eller i större mängd hanterar brandfarliga varor ska ha tillstånd till det (16 § första stycket lagen om brandfarliga och explosiva varor).
+
+Frågor om tillstånd till hantering av brandfarliga varor inom Försvarsmakten, Försvarets materielverk, Totalförsvarets forskningsinstitut och Fortifikationsverket ska prövas av Myndigheten för samhällsskydd och beredskap (MSB). Frågor om tillstånd till hantering av brandfarliga varor i övriga fall ska prövas av den kommun där hanteringen ska bedrivas (17 §). MSB ska även pröva frågor om tillstånd till explosiva varor som avser bland annat sådan hantering som Försvarsmakten, Försvarets materielverk, Totalförsvarets forskningsinstitut och Fortifikationsverket behöver ha tillstånd till. Frågor om tillstånd till
+
+45
+
+Prop. 2022/23:87 hantering och överföring av explosiva varor i övriga fall ska prövas av den kommun där varorna ska hanteras (18 §).
+
+Den myndighet som prövar frågor om tillstånd enligt lagen om brandfarliga och explosiva varor, har inom sitt verksamhetsområde också tillsyn över att lagen och föreskrifter och beslut som har meddelats i anslutning till lagen följs. Försvarsmakten får, efter medgivande av MSB, i stället för MSB utöva viss tillsyn över Försvarsmaktens, Försvarets materielverks, Totalförsvarets forskningsinstituts och Fortifikationsverkets hantering och import av brandfarliga och explosiva varor (21 § första och andra styckena).
+
+11.3Tillstånds- och tillsynsansvaret för Försvarets radioanstalts hantering av brandfarliga och explosiva varor ska ändras
+
+Regeringens förslag: Frågor om tillstånd till Försvarets radioanstalts hantering av brandfarliga och explosiva varor ska behandlas av Myndigheten för samhällsskydd och beredskap i stället för av en kommun. Myndigheten för samhällsskydd och beredskap ska även kunna medge att Försvarsmakten ges tillsynsansvar för Försvarets radioanstalts hantering av brandfarliga och explosiva varor.
+
+Promemorians förslag stämmer överens med regeringens. Remissinstanserna: 
+Dals-Eds
+ kommun, Försvarets radioanstalt,
+
+Försvarsmakten, Järfälla kommun, Lindesbergs kommun, Myndighetens för samhällsskydd och beredskap (MSB) och Tierps kommun tillstyrker förslaget eller har inget att invända mot det.
+
+Skälen för regeringens förslag: Försvarets radioanstalts verksamhet rör Sveriges säkerhet. Med hänsyn till detta och till att MSB ska pröva frågor om tillstånd till hantering av brandfarliga och explosiva varor inom Försvarsmakten, Försvarets materielverk, Totalförsvarets forskningsinstitut och Fortifikationsverket, är det ändamålsenligt att även Försvarets radioanstalts frågor om tillstånd till hantering av brandfarliga och explosiva varor prövas av MSB. Av samma skäl är det lämpligt att Försvarsmakten, efter MSB:s medgivande, ges möjlighet att utöva viss tillsyn över Försvarets radioanstalts hantering av brandfarliga och explosiva varor.
+
+Även effektivitetsskäl talar för att Försvarets radioanstalts frågor om tillstånd till hantering av brandfarliga och explosiva varor prövas av MSB. Med nuvarande ordning måste Försvarets radioanstalt ansöka om tillstånd hos flera kommuner, eftersom Försvarets radioanstalt bedriver verksamhet på olika platser i landet och således också hanterar brandfarliga och explosiva varor på flera av dessa platser.
+
+Försvarets radioanstalt bör följaktligen behandlas på motsvarande sätt som Försvarsmakten, Försvarets materielverk, Totalförsvarets forskningsinstitut och Fortifikationsverket i lagen om brandfarliga och explosiva varor.
+
+46
+
+12 
+
+Ikraftträdande- och 
+
+Prop. 2022/23:87 
+
+övergångsbestämmelser
+
+12.1Ändringarna i säkerhetsskyddslagen
+
+Regeringens förslag: Lagändringarna ska träda i kraft den 1 oktober 2023.
+
+Regeringens bedömning: Det behövs inga särskilda övergångsbestämmelser.
+
+Utredningens förslag överensstämmer delvis med regeringens. Utredningen föreslår att författningsändringarna ska träda i kraft den 1 oktober 2022.
+
+Utredningens bedömning överensstämmer med regeringens. Remissinstanserna: De flesta remissinstanser yttrar sig inte särskilt
+
+över utredningens förslag och bedömning. Försvarsmakten anser att författningsändringarna bör träda i kraft den 1 oktober 2023 med hänsyn till att genomförandet av grundutredningen är en ny uppgift för myndigheten.
+
+Skälen för regeringens bedömning: Det är angeläget att författningsändringarna träder i kraft så snart som möjligt. Samtidigt kommer det före ikraftträdandet att finnas behov av visst förberedelsearbete hos såväl Totalförsvarets plikt- och prövningsverk som Försvarsmakten. Ändringarna i säkerhetsskyddslagen bör därför träda i kraft den 1 oktober 2023.
+
+Några särskilda övergångsbestämmelser behövs inte vad gäller förslaget om att Försvarsmakten ensam ska ansvara för säkerhetsprövningen av totalförsvarspliktiga som skrivs in för värnplikt eller som har krigsplacerats i myndighetens verksamhet. Inte heller i fråga om den uppföljande säkerhetsprövningen eller undantaget från krav på samtycke till registerkontroll bedöms det finnas behov av övergångsbestämmelser. När det gäller de som har lämnat samtycke till registerkontroll och därefter skrivits in för värnplikt och som därefter önskar återkalla samtycket anser regeringen, i likhet med utredningen, att en sådan återkallelse är verkningslös. Det kan inte anses behövas en övergångsbestämmelse i sådant fall.
+
+12.2Ändringarna i lagen om brandfarliga och explosiva varor
+
+Regeringens förslag: Lagändringarna ska träda i kraft den 1 juli 2023. Regeringens bedömning: Det behövs inga särskilda övergångs-
+
+bestämmelser.
+
+Promemorians förslag och bedömning överensstämmer delvis med regeringens.
+
+Remissinstanserna yttrar sig inte särskilt över promemorians förslag
+
+och bedömning.
+
+47
+
+Prop. 2022/23:87 Skälen för regeringens förslag och bedömning: Lagändringarna bör lämpligen träda i kraft den 1 juli 2023.
+
+Några särskilda övergångsbestämmelser behövs inte.
+
+13 
+
+Konsekvenser 
+
+13.1 
+
+Ändringarna i säkerhetsskyddslagen 
+
+Regeringens bedömning: Förslagen att Försvarsmakten ska ansvara 
+
+för grundutredningen kommer att medföra vissa ökade kostnader. 
+
+Kostnadsökningarna får hanteras inom befintliga beslutade ramar. 
+
+Förslagen bedöms sammantaget innebära vissa försämringar i 
+
+skyddet för den personliga integriteten. Försämringarna bedöms dock 
+
+vara godtagbara med hänsyn till det starka försvarsintresset bakom 
+
+förslaget. 
+
+Utredningens bedömning överensstämmer delvis med regeringens. 
+
+Remissinstanserna: De flesta remissinsatser har inga synpunkter på 
+
+bedömningen. Försvarsmakten delar inte bedömningen att förslagen inte 
+
+medför några ökade kostnader för staten och anför att det nya förfarandet 
+
+för grundutredningen kräver större tidsåtgång och att det krävs mer 
+
+resurser till myndigheten för att hantera förfarandet. Försvarsmakten 
+
+bedömer att antalet årsarbetskrafter för arbete kopplat till genomförandet 
+
+av grundutredningen och den uppföljande säkerhetsprövningen kommer 
+
+att uppgå till 20, och inte till 
+8–10
+ som myndigheten tidigare har angett, 
+
+och anför att antalet årsarbetskrafter kommer att behöva öka om antalet 
+
+säkerhetsprövningar ökar. Totalförsvarets plikt- och prövningsverk anför 
+
+att förslagen kommer att medföra ökade kostnader för verket. Kostnaderna 
+
+består i att Totalförsvarets plikt- och prövningsverks lokaler behöver 
+
+anpassas och plats beredas för anställda i Försvarsmakten som ska 
+
+genomföra säkerhetsprövningen, att Försvarsmaktens 
+it-nät
+ kan behöva 
+
+anslutas till verkets lokaler och att tiden för enskilda att mönstra och 
+
+genomföra säkerhetsprövning kommer att öka, vilket kan innebära ett 
+
+behov av fler logement. 
+
+Skälen för regeringens bedömning 
+
+Ekonomiska konsekvenser 
+
+Regeringen konstaterar inledningsvis att säkerhetsprövning av 
+
+totalförsvarspliktiga som skrivs in för värnplikt behöver göras oavsett 
+
+vilken myndighet som bär ansvaret för att genomföra den. Regeringens 
+
+förslag om att Försvarsmakten ska ansvara för grundutbildningen innebär 
+
+alltså inte att någon ny arbetsuppgift ska utföras, utan enbart att ansvaret 
+
+för en redan befintlig uppgift flyttas till Försvarsmakten. För 
+
+Försvarsmaktens del innebär det dock en tillkommande uppgift som 
+
+kommer att innebära vissa kostnadsökningar för myndigheten såsom 
+
+ökade personalkostnader. När Försvarsmakten övertar ansvaret för 
+
+48 
+
+grundutredningen finns det anledning att anta att Totalförsvarets plikt- och 
+
+prövningsverks personalkostnader kommer att minska något eftersom samtalet med inskrivningshandläggare då kan kortas. Samtidigt kan, som Totalförsvarets plikt- och prövningsverk anför, det nya förfarandet medföra ett behov av vissa anpassningar, bland annat av lokaler. Genom att Försvarsmakten får ansvaret för hela säkerhetsprövningskedjan får det antas att myndigheten förbättrar möjligheten att redan under grundutredningen upptäcka säkerhetsbrister som gör att en totalförsvarspliktig inte bör skrivas in för värnplikt. Färre kan antas behöva avsluta sin värnplikt i förtid till följd av att säkerhetsbrister, brister i lojalitet, pålitlighet eller sårbarheter uppdagas, efter det att värnplikten har inletts. Dessutom bör den uppföljande säkerhetsprövningen som Försvarsmakten ska göra ta kortare tid i anspråk eftersom myndigheten redan har alla uppgifter att tillgå från grundutredningen. Den uppföljande säkerhetsprövningen kan därför riktas mot vad som är relevant i det enskilda fallet, vilket måste vara tidsbesparande och därför bidra till minskade kostnader.
+
+En uppföljande säkerhetsprövning ska enligt gällande lagstiftning göras under hela den tid som deltagandet i den säkerhetskänsliga verksamheten pågår. Försvarsmakten har fortsatt ansvar att följa upp säkerhetsprövningen av de personer i verksamheten som har säkerhetsklassad befattning. Regeringens förslag innebär ingen ändring av Försvarsmaktens nuvarande tillämpning av regelverket. Regeringens förslag i den delen kan därför inte anses innebära några ökade kostnader för Försvarsmakten eller andra berörda myndigheter.
+
+Förslaget om undantag från kravet på samtycke bedöms få kostnadsmässiga konsekvenser av flera skäl. Ett av dessa är att förslaget innebär minskad administration för Totalförsvarets plikt- och prövningsverk vilket borde vara kostnadsbesparande för verket. Den som har samtyckt till registerkontroll och skrivits in för värnplikt i Försvarsmakten kan komma att återkalla sitt samtycke. Om det sker innebär det att alla de resurser Försvarsmakten investerat i att utbilda den värnpliktige går förlorade. Särskilt kostsamt blir det om en totalförsvarspliktig som har genomfört grundutbildning med värnplikt och därefter har krigsplacerats väljer att återkalla samtycket. Regeringens förslag om att göra undantag från kravet på samtycke till registerkontroll bedöms därför bidra till kostnadsbesparingar för myndigheterna. När det särskilt gäller de totalförsvarspliktiga som avslutat värnplikten och därefter krigsplacerats utan att ha säkerhetsprövats för sin befattning delar regeringen utredningens bedömning att förslaget om undantag från kravet på samtycke medför särskilda ekonomiska besparingar för framför allt Försvarsmakten, men också för Totalförsvarets plikt- och prövningsverk. Försvarsmakten avser att genomföra säkerhetsprövningen av dessa krigsplacerade i samband med repetitionsutbildning. Om dessa vägrar att lämna samtycke till registerkontroll riskerar det att medföra stora kostnader för Försvarsmakten som i så fall snabbt behöver utbilda och krigsplacera nya totalförsvarspliktiga för att täcka behoven i krigsorganisationen. Det innebär också kostnader för Totalförsvarets plikt- och prövningsverk som behöver mönstra fler totalförsvarspliktiga för att tillgodose Försvarsmaktens behov av nya värnpliktiga.
+
+Prop. 2022/23:87
+
+49
+
+Prop. 2022/23:87
+
+50
+
+Sammantaget bedömer regeringen att förslaget att Försvarsmakten ska ansvara för grundutredningen kommer att medföra vissa ökade kostnader. Kostnadsökningarna får hanteras inom befintliga beslutade ramar.
+
+Slutligen kan konstateras att beslutade ökade värnpliktsvolymer till 2025 kan förväntas medföra ökade kostnader kopplat till säkerhetsprövningen av dessa individer för berörda myndigheter, däribland Försvarsmakten och Säkerhetspolisen. Även dessa kostnadsökningar, som inte är en följd av de nu aktuella lagförslagen, får hanteras inom befintliga beslutade ramar.
+
+Konsekvenser för den personliga integriteten
+
+Regeringen bedömer att förslaget om att Försvarsmakten ensam ska ansvara för säkerhetsprövningen av totalförsvarspliktiga som skrivs in för värnplikt stärker skyddet för den personliga integriteten. De integritetsnära uppgifter som lämnas under grundutredningen kommer enbart att komma en myndighet till del.
+
+Förslaget att det genom lagstiftningen framgår att också krigsplacerade anses delta i Försvarsmaktens säkerhetskänsliga verksamhet innebär ett uttryckligt lagstöd för Försvarsmakten att genomföra uppföljande säkerhetsprövning av värnpliktiga. Även om bestämmelsen, i vart fall till viss del, kan anses utgöra en kodifiering av rådande praxis får förslaget anses innebära en försämring av skyddet för den personliga integriteten.
+
+När det gäller förslaget om undantag från krav på samtycke för totalförsvarspliktiga som skrivs in för värnplikt och som efter avslutad grundutbildning med värnplikt krigsplaceras i Försvarsmakten delar regeringen utredningens bedömning att förslaget innebär en påtaglig försämring av skyddet för den personliga integriteten. Den som kommer att beröras av förslaget har inte möjlighet att själv avgöra om han eller hon ska underkasta sig en säkerhetsprövning och inom ramen för den lämna känsliga och integritetsnära uppgifter till andra. Säkerhetsprövningen kan därutöver komma att pågå under lång tid och måste därför anses vara särskilt integritetskränkande.
+
+Sammantaget anser regeringen att förslagen innebär försämringar i skyddet av den personliga integriteten. Försämringarna bedöms dock vara godtagbara med hänsyn till det starka försvarsintresset bakom förslaget.
+
+Övriga konsekvenser
+
+Det är fler män än kvinnor som skrivs in för värnplikt och krigsplaceras i Försvarsmaktens verksamhet. Regeringens förslag kommer därför att påverka fler män än kvinnor. Förslagen i sig bedöms dock inte påverka de kvinnor och män som mönstras, skrivs in för värnplikt och krigsplaceras på olika sätt.
+
+Förslagen bedöms i övrigt inte ha betydelse för den kommunala självstyrelsen och inte heller för brottsligheten och det brottsförebyggande arbetet, för sysselsättning och offentlig service i olika delar av landet eller små företags arbetsförutsättningar, konkurrensförmåga eller villkor i övrigt i förhållande till större företags. Förslaget förväntas inte få några konsekvenser för jämställdheten mellan kvinnor och män och inte heller påverka möjligheterna att nå de integrationspolitiska målen. Förslaget bedöms inte ha några konsekvenser för miljön.
+
+Prop. 2022/23:87
+
+13.2Ändringarna i lagen om brandfarliga och explosiva varor
+
+Regeringens bedömning: Förslaget medför inga ökade kostnader för det allmänna eller för enskilda.
+
+Förslaget medför en minskad arbetsbelastning för berörda kommuner.
+
+Promemorians bedömning stämmer överens med regeringens. Remissinstanserna yttrar sig inte särskilt över promemorians
+
+bedömning.
+
+Skälen för regeringens bedömning: Förslaget innebär en effektivitetsvinst för Försvarets radioanstalt eftersom endast en myndighet, Myndigheten för samhällsskydd och beredskap (MSB), föreslås hantera Försvarets radioanstalts frågor om tillstånd. Med nuvarande ordning prövas Försvarets radioanstalts ansökningar om tillstånd av de kommuner där myndigheten har verksamhet.
+
+Förslaget medför inte några kostnadsökningar för berörda myndigheter, eller i övrigt för det allmänna. Den ökade arbetsbelastning som förslagen medför för MSB och Försvarsmakten bedöms vara av mindre omfattning. Förslaget medför en minskad arbetsbelastning för berörda kommuner. Förslaget medför inte några kostnadsökningar för enskilda.
+
+Förslaget bedöms inte ha betydelse för den kommunala självstyrelsen och inte heller för brottsligheten och det brottsförebyggande arbetet, för sysselsättning och offentlig service i olika delar av landet eller små företags arbetsförutsättningar, konkurrensförmåga eller villkor i övrigt i förhållande till större företags. Förslaget förväntas inte få några konsekvenser för jämställdheten mellan kvinnor och män och inte heller påverka möjligheterna att nå de integrationspolitiska målen. Förslaget bedöms inte ha några konsekvenser för miljön.
+
+14Författningskommentar
+
+14.1 Förslaget till lag om ändring i säkerhetsskyddslagen (2018:585)
+
+3 kap. Säkerhetsprövning
+
+3 a § En totalförsvarspliktig som efter avslutad grundutbildning med värnplikt har krigsplacerats enligt 3 kap. 12 § lagen (1994:1809) om totalförsvarsplikt i en befattning placerad i säkerhetsklass i Försvarsmaktens verksamhet ska anses delta i säkerhetskänslig verksamhet under den tid som beslutet om krigsplacering kvarstår.
+
+I paragrafen, som är ny, förtydligas att den som har krigsplacerats i en 
+
+säkerhetsklassad befattning i Försvarsmakten ska anses delta i den 
+
+säkerhetskänsliga verksamheten under hela den tid som beslutet om 
+
+krigsplacering kvarstår. Säkerhetsprövningen får pågå under hela denna 
+
+51 
+
+Prop. 2022/23:87 tid. Om beslutet om krigsplacering förlängs efter exempelvis en repetitionsutbildning innebär det att säkerhetsprövningen får fortsätta att pågå under den tid som förlängningen omfattar. Övervägandena finns i avsnitt 10.
+
+4 § Säkerhetsprövningen ska utgå från uppgifter som kommit fram när grundutredningen gjordes och den kännedom som i övrigt finns om den som ska prövas, uppgifter som har lämnats ut efter registerkontroll och särskild personutredning, arten av den verksamhet som prövningen gäller samt omständigheterna i övrigt.
+
+Bedömningen görs av den som beslutar om anställning eller annat deltagande i den säkerhetskänsliga verksamheten, om inte annat följer av tredje stycket, 4 a, 4 b, 4 c eller 4 d §.
+
+Om en myndighet har det bestämmande inflytandet över den prövades lämplighet att delta i säkerhetskänslig verksamhet hos en enskild verksamhetsutövare, är det i stället myndigheten som gör den slutliga bedömningen.
+
+Om det finns anledning till det, ska en tidigare gjord bedömning av en persons lämplighet att delta i den säkerhetskänsliga verksamheten omprövas.
+
+Paragrafen reglerar bedömningen vid ställningstagande till anställning eller deltagande i den säkerhetskänsliga verksamheten och vem som ansvarar för den. Övervägandena finns i avsnitt 8.
+
+I andra stycket, som innebär att det som där anges om ansvar för bedömningen inte gäller om något annat följer av tredje stycket, 4 a, 4 b eller 4 c, läggs 4 d § till i uppräkningen.
+
+4 d § 
+
+Bedömningen 
+
+enligt 4 § görs av 
+
+Försvarsmakten 
+
+när det 
+
+gäller 
+
+totalförsvarspliktiga inför inskrivning för värnplikt och totalförsvarspliktiga som 
+
+efter avslutad grundutbildning med värnplikt har krigsplacerats enligt 3 kap. 12 § 
+
+lagen (1994:1809) om totalförsvarsplikt i en befattning placerad i säkerhetsklass 
+
+i Försvarsmaktens verksamhet. 
+
+Paragrafen, som är ny, innehåller bestämmelser om att Försvarsmakten 
+
+ansvarar för bedömningen av säkerhetsprövningen när det gäller 
+
+totalförsvarspliktiga som skrivs in för värnplikt. Samma ordning gäller för 
+
+totalförsvarspliktiga som efter avslutad grundutbildning med värnplikt 
+
+krigsplaceras i Försvarsmaktens verksamhet. Försvarsmakten ska göra 
+
+bedömningen oavsett om den ska ske vid inskrivning för värnplikt, under 
+
+pågående värnplikt eller efter att beslut om krigsplacering i myndighetens 
+
+verksamhet har fattats. Övervägandena finns i avsnitt 8. 
+
+18 a § 
+
+Kravet på 
+
+samtycke 
+
+till registerkontroll i 18 § 
+
+gäller 
+
+inte en 
+
+totalförsvarspliktig som skrivs in för värnplikt enligt lagen (1994:1809) om 
+
+totalförsvarsplikt. Kravet gäller 
+
+inte heller 
+
+en totalförsvarspliktig 
+
+som 
+
+efter 
+
+avslutad grundutbildning med värnplikt har krigsplacerats enligt den lagen. Undantaget från kravet på samtycke gäller under den tid som deltagandet i den
+
+säkerhetskänsliga verksamheten pågår.
+
+Undantaget gäller endast för sådan registerkontroll som ska göras för placering
+
+i säkerhetsklass 3. 
+
+Paragrafen är ny. Övervägandena finns i avsnitt 9. 
+
+Första stycket innebär att undantag görs från kravet på samtycke till 
+
+52 
+
+registerkontroll för totalförsvarspliktiga som skrivs in för eller som har 
+
+krigsplacerats i Försvarsmaktens verksamhet efter avslutad Prop. 2022/23:87 grundutbildning med värnplikt. Undantaget innebär att Försvarsmakten får
+
+rätt att säkerhetspröva dessa totalförsvarspliktiga för befattningar placerade i säkerhetsklass 3 utan att inhämta samtycke till registerkontrollen. Samtycke krävs även fortsättningsvis för säkerhetsprövning för placering i säkerhetsklass 1 och 2.
+
+I andra stycket preciseras att undantaget från kravet på samtycke gäller under hela den tid som deltagandet i den säkerhetskänsliga verksamheten pågår. Bestämmelsen tar sikte på den nya bestämmelsen i 3 kap. 3 a §, dvs. att undantaget från kravet på samtycke gäller under den tid som beslutet om krigsplacering kvarstår.
+
+I tredje stycket anges att undantaget från kravet på samtycke till registerkontroll endast gäller för sådana registerkontroller som görs för placeringar i säkerhetsklass 3.
+
+14.2Förslaget till lag om ändring i lagen (2010:1011) om brandfarliga och explosiva varor
+
+17 § Frågor om tillstånd till hantering av brandfarliga varor inom Försvarsmakten, Försvarets materielverk, Försvarets radioanstalt, Totalförsvarets forskningsinstitut och Fortifikationsverket ska prövas av Myndigheten för samhällsskydd och beredskap.
+
+Frågor om tillstånd till hantering av brandfarliga varor i övriga fall ska prövas av den kommun där hanteringen ska bedrivas.
+
+Paragrafen behandlar frågor om tillståndsansvar för hantering av brandfarliga varor. Övervägandena finns i avsnitt 11.3.
+
+Första stycket ändras på så sätt att Försvarets radioanstalt anges som en av de myndigheter för vilka Myndigheten för samhällsskydd och beredskap (MSB) ska pröva frågor om tillstånd till hantering av brandfarliga varor.
+
+18 § Myndigheten för samhällsskydd och beredskap ska pröva frågor om tillstånd till explosiva varor som avser
+
+1.tillverkning, bearbetning, behandling, destruktion, underhåll och återvinning,
+
+2.annan hantering som sker i anslutning till sådan hantering som nämns i 1,
+
+3.gränsöverskridande överföring,
+
+4.import,
+
+5.export, och
+
+6.sådan hantering som Försvarsmakten, Försvarets materielverk, Försvarets radioanstalt, Totalförsvarets forskningsinstitut och Fortifikationsverket behöver ha tillstånd till.
+
+Frågor om tillstånd till hantering och överföring av explosiva varor i övriga fall ska prövas av den kommun där varorna ska hanteras. Om frågan gäller förvaring i ett flyttbart förråd och förvaringen ska ske i mer än en kommun, ska frågan prövas av den kommun där sökanden är bosatt eller där verksamheten huvudsakligen ska bedrivas.
+
+I paragrafen anges de frågor om tillstånd till explosiva varor som MSB ska 
+
+pröva. Övervägandena finns i avsnitt 11.3. 
+
+53 
+
+Prop. 2022/23:87 Första stycket 6 ändras genom att Försvarets radioanstalt förs till de myndigheter för vilka MSB ska pröva frågor om tillstånd till hantering av explosiva varor.
+
+I andra stycket görs språkliga ändringar.
+
+21 § Den myndighet som prövar frågor om tillstånd enligt denna lag har också, inom sitt verksamhetsområde, tillsyn över att lagen och föreskrifter och beslut som har meddelats i anslutning till lagen följs.
+
+Försvarsmakten får, efter medgivande av Myndigheten för samhällsskydd och beredskap, i stället för Myndigheten för samhällsskydd och beredskap utöva viss tillsyn över Försvarsmaktens, Försvarets materielverks, Försvarets radioanstalts, Totalförsvarets forskningsinstituts och Fortifikationsverkets hantering och import av brandfarliga och explosiva varor.
+
+Myndigheten för samhällsskydd och beredskap eller den myndighet som regeringen bestämmer har tillsyn över hanteringen av brandfarliga varor som transporteras i en sådan rörledning som det har meddelats koncession för enligt lagen (1978:160) om vissa rörledningar eller enligt naturgaslagen (2005:403).
+
+I paragrafen behandlas tillsynsansvaret för brandfarliga och explosiva varor. Övervägandena finns i avsnitt 11.3.
+
+I första och tredje styckena görs språkliga ändringar.
+
+Andra stycket ändras på så sätt att Försvarets radioanstalt anges som en av de myndigheter vars hantering och import av brandfarliga och explosiva varor MSB får medge att Försvarsmakten, i stället för MSB, utövar viss tillsyn över.
+
+54
+
+Sammanfattning av betänkandet Säkerhetsprövning av totalförsvarspliktiga (SOU 2021:82)
+
+Utredningens uppdrag
+
+Utredarens uppdrag kan delas in i tre huvudsakliga frågeställningar. Den första handlar om att se över vilken eller vilka myndigheter som ska ansvara för säkerhetsprövningen av totalförsvarspliktiga, den andra om att säkerställa att den uppföljande säkerhetsprövningen av totalförsvarspliktiga kan genomföras på ett ändamålsenligt och effektivt sätt, den tredje om att bedöma om det bör vara möjligt att göra undantag från kravet på samtycke till registerkontroll och särskild personutredning för totalförsvarspliktiga. Utredaren ska också analysera om totalförsvarspliktiga behöver kontrolleras i misstanke- och brottsregistret när en liknande slagning görs inom ramen för registerkontrollen.
+
+Prop. 2022/23:87 Bilaga 1
+
+Totalförsvarsplikt
+
+Totalförsvarsplikt gäller för varje svensk medborgare och i Sverige bosatta personer från början av det kalenderår när han eller hon fyller 16 år till slutet av det kalenderår när han eller hon fyller 70 år. Totalförsvarspliktiga är skyldiga att bland annat medverka vid utredning om deras personliga förhållanden och tjänstgöra inom totalförsvaret i den omfattning som hans eller hennes kroppskrafter och hälsotillstånd tillåter. Skyldigheten att tjänstgöra inom totalförsvaret fullgörs genom värnplikt, civilplikt eller allmän tjänsteplikt.
+
+Värnplikten och civilplikten omfattar grundutbildning, repetitionsutbildning, beredskapstjänstgöring och krigstjänstgöring. Även om intresse, motivation och vilja ska beaktas när det beslutas vem som ska skrivas in för tjänstgöring är lagen om totalförsvarsplikt en skyldighetslagstiftning.
+
+Från 2010 till 2017 var det ingen skyldighet för totalförsvarspliktiga att genomföra grundutbildning med värnplikt eller civilplikt. Under dessa år bedömdes Försvarsmaktens personalbehov kunna tillgodoses på frivillig väg. Från 2017 är dock totalförsvarspliktiga återigen skyldiga att genomgå mönstring och fullgöra grundutbildning med värnplikt. Civilplikten är inte återaktiverad.
+
+Om den värnpliktige efter avslutad grundutbildning har förvärvat tillräckliga kunskaper och färdigheter för en krigsuppgift ska denne krigsplaceras i en befattning eller i en viss verksamhet som han eller hon är lämplig för. Krigsplaceringen ska inte kvarstå längre än tio år efter det senaste tjänstgöringstillfället och längst till och med det år den pliktige fyller 47 år.
+
+Värnpliktiga som har genomgått grundutbildning och som är krigsplacerade kan bli kallade till repetitionsutbildning. Repetitionsutbildningen syftar till att bibehålla och utveckla skickligheten för krigsuppgiften.
+
+55
+
+Prop. 2022/23:87 Bilaga 1
+
+Säkerhetsprövning
+
+En säkerhetsprövning är en del av det säkerhetsskyddsarbete som bland annat myndigheter med säkerhetskänslig verksamhet behöver göra. Säkerhetsprövningen är en del av säkerhetsskyddsgärden personalsäkerhet, och görs innan en person genom anställning eller annat deltagande tar del av den säkerhetskänsliga verksamheten.
+
+Syftet med säkerhetsprövningen är att klarlägga om en person kan antas vara lojal mot de intressen som skyddas i säkerhetsskyddslagen och i övrigt pålitlig från säkerhetssynpunkt. Också sådana omständigheter som kan antas innebära sårbarheter ska beaktas vid säkerhetsprövningen. Befattningar i säkerhetskänslig verksamhet delas in i tre säkerhetsklasser och Försvarsmakten beslutar om placering i säkerhetsklass 2 och 3 i den egna verksamheten. Säkerhetsprövningen består av grundutredning (en utredning om personliga förhållanden av betydelse för säkerhetsprövningen, ofta en intervju), registerkontroll (slagning i olika register som Säkerhetspolisen gör) och för säkerhetsklass 1 och 2 också en särskild personutredning (en utredning om den som prövas ekonomiska förhållanden). Det krävs samtycke till registerkontroll och särskild personutredning från den som ska prövas. Säkerhetsprövningen ska följas upp under tiden deltagandet i den säkerhetskänsliga verksamheten pågår. Bedömningen av säkerhetsprövningen ska göras av den som beslutar om deltagande i den säkerhetskänsliga verksamheten. Kravet på uppföljning infördes i den nuvarande säkerhetsskyddslagen och i förarbetena till lagen uttalas att säkerhetsprövningen ska ses som en process som ska pågå under hela den tid som en person har sin anställning eller sitt uppdrag.
+
+Säkerhetsprövning av totalförsvarspliktiga i dag
+
+Eftersom civilplikten inte är aktiverad genomförs i dag bara säkerhetsprövning av värnpliktiga.
+
+Bland annat till följd av förändringar i den nya säkerhetsskyddslagen har Försvarsmakten bedömt att den verksamhet som värnpliktiga deltar i är säkerhetskänslig. Myndigheten har därför beslutat att alla som gör grundutbildning med värnplikt ska vara placerade i säkerhetsklass. Alla som mönstrat efter 2018 och uppfyllt kraven för att kunna skrivas in för grundutbildning med värnplikt har säkerhetsprövats för placering i säkerhetsklass 3 innan de har fått delta i Försvarsmaktens verksamhet.
+
+Enligt en överenskommelse mellan Försvarsmakten och Plikt- och prövningsverket genomförs grundutredningen av Plikt- och prövningsverket på uppdrag av Försvarsmakten och verket inhämtar också samtycke till registerkontrollen. Grundutredningen och inhämtandet av samtycke görs i slutet av mönstringsprocessen. När Försvarsmakten har fått besked av Plikt- och prövningsverket om vilka totalförsvarspliktiga som skrivits in för värnplikt begär Försvarsvarsmakten en registerkontroll av dessa. Om den som skrivs in för värnplikt inte samtycker till registerkontroll kan han eller hon inte påbörja grundutbildning med värnplikt, och undkommer då sina skyldigheter som totalförsvarspliktig.
+
+Försvarsmakten har bedömt att den som har fullgjort grundutbildning med värnplikt och krigsplacerats i en säkerhetsklassad befattning fortsatt
+
+56
+
+deltar i myndighetens säkerhetskänsliga verksamhet. Säkerhetsprövningen 
+
+Prop. 2022/23:87 
+
+följs därför upp även efter fullgjord värnplikt och krigsplacerade 
+
+Bilaga 1 
+
+totalförsvarspliktiga kvarstår i registerkontroll. Utöver den ständigt 
+
+pågående registerkontrollen görs i dag ingen annan uppföljande säkerhets- 
+
+prövning av dem som krigsplacerats i säkerhetsklassad befattning i 
+
+Försvarsmaktens verksamhet, med undantag för de totalförsvarspliktiga 
+
+som kommer att kallas in till repetitionsutbildning, beredskapstjänstgöring 
+
+eller krigstjänstgöring. 
+
+Utredningens förslag
+
+Ansvarig myndighet för säkerhetsprövningen av värnpliktiga
+
+Utredningen föreslår att säkerhetsprövningen ska göras av Försvarsmakten när det gäller totalförsvarspliktiga som skrivs in för värnplikt enligt lagen om totalförsvarsplikt. En ny bestämmelse som reglerar detta ska placeras i säkerhetsskyddslagen.
+
+Eftersom säkerhetsprövningen ska göras innan den som prövas deltar i 
+
+grundutbildning med värnplikt krävs att Försvarsmakten gör grund- 
+
+utredningen och begär registerkontroll under mönstringsprocessen. 
+
+Utredningen anser att grundutredningen bör göras sist under mönstrings- 
+
+processen. 
+
+Försvarsmakten ska fortsatt vara ensam ansvarig för den uppföljande 
+
+säkerhetsprövningen av dem som skrivs in för värnplikt enligt lagen om 
+
+totalförsvarsplikt och dem som därefter krigsplaceras i den myndighetens 
+
+verksamhet. Förslaget innebär ett ökat skydd för Sveriges säkerhet och en 
+
+renodling av myndigheternas arbetsuppgifter. 
+
+Utredningens förslag bedöms snarast innebära ett ökat skydd för den 
+
+personliga integriteten eftersom bara Försvarsmakten får del av de 
+
+integritetskänsliga uppgifter som kommer fram under en säkerhets- 
+
+prövning. 
+
+Utredningen föreslår också att Plikt- och prövningsverket ska fråntas 
+
+rätten att begära slagning i misstanke- och belastningsregistret i fråga om 
+
+totalförsvarspliktiga som ska skrivas in för värnplikt. Av de tusentals som 
+
+mönstras är det bara ett fåtal som faller bort efter myndighetens begärda 
+
+slagning i misstanke- och belastningsregistret. Slagningen kan inte anses 
+
+vara ett nödvändigt integritetsintrång, eftersom samma uppgifter (och fler 
+
+därtill) är en del av registerkontrollen. 
+
+En ändamålsenlig och effektiv uppföljande säkerhetsprövning av 
+
+värnpliktiga 
+
+Utredningen fäster stor vikt vid Försvarsmaktens möjlighet att snabbt 
+
+kunna mobilisera utan att göra avkall på säkerhetsskyddet. Därför föreslås 
+
+att säkerhetsprövningen av totalförsvarspliktiga, som efter avslutad 
+
+värnplikt krigsplaceras i en befattning placerad i säkerhetsklass 3, får pågå 
+
+så länge som beslutet om krigsplacering pågår. 
+
+Det finns inte skäl att i lag eller förordning reglera hur den uppföljande 
+
+säkerhetsprövningen av krigsplacerade i Försvarsmakten utformas. 
+
+Utredningen anser dock att den uppföljande säkerhetsprövningen av den 
+
+som är krigsplacerad i en befattning i säkerhetsklass 3 i Försvarsmaktens 
+
+verksamhet bör bestå i en löpande registerkontroll mellan 
+
+57 
+
+Prop. 2022/23:87 Bilaga 1
+
+tjänstgöringstillfällena. I samband med tjänstgöringstillfällen bör Försvarsmakten hålla uppföljande säkerhetsskyddssamtal med och utbilda den krigsplacerade. Försvarsmakten bör också utveckla möjligheten att digitalt följa upp säkerhetsprövningen och utbilda krigsplacerade i säkerhetsskyddsfrågor. För att åstadkomma en ändamålsenlig och effektiv säkerhetsprövning behöver den innehålla flera delmoment. Utan dessa blir säkerhetsprövningen utan önskad verkan för skyddet för Sveriges säkerhet.
+
+Reglerna om krav på samtycke till säkerhetsprövning av värnpliktiga behöver förändras
+
+Utredningen föreslår ett undantag från kravet på samtycke till registerkontroll för säkerhetsprövning i säkerhetsklass 3. Undantaget ska gälla både för den som är aktuell för inskrivning till grundutbildning med värnplikt och för den som redan genomfört grundutbildning med värnplikt och därefter krigsplacerats i Försvarsmaktens säkerhetskänsliga verksamhet utan föregående säkerhetsprövning. Undantaget ska gälla under den tid som deltagandet i den säkerhetskänsliga verksamheten pågår.
+
+Utredningens förslag innebär att det inte längre blir möjligt att undkomma värnplikt genom att vägra lämna samtycke till registerkontroll. Vid en avvägning mellan det intrång som säkerhetsprövningen innebär för den enskilde och intresset av att upprätthålla totalförsvarsplikten som en absolut skyldighet, anser utredningen att kravet på samtycke bör ge vika.
+
+Säkerhetsprövning av civilpliktiga
+
+Utredningen lägger inte fram några förslag för säkerhetsprövning av civilpliktiga. Utredningen bedömer att det saknas tillräckliga förutsättningar att lämna välgrundade förslag eftersom civilplikten sannolikt kommer att förändras innan den återaktiveras.
+
+Konsekvenser av utredningens förslag
+
+Sammantaget bedöms utredningens förslag inte medföra några ökade 
+
+kostnader för staten. 
+
+När det gäller konsekvenserna för den personliga integriteten gör 
+
+utredningen följande bedömning. 
+
+Förslaget om att Försvarsmakten ensam ska ansvara för säkerhets- 
+
+prövningen av totalförsvarspliktiga som skrivs in för värnplikt stärker 
+
+skyddet för den personliga integriteten. De integritetsnära uppgifter som 
+
+lämnas under grundutredningen kommer enbart att komma en myndighet 
+
+till del. Utredningens förslag som rör den uppföljande säkerhets- 
+
+prövningen förändrar inte huruvida säkerhetsprövningen ska pågå eller 
+
+inte, och inte heller hur många personer som kan få del av uppgifterna i 
+
+säkerhetsprövningen, och bedöms i den delen därför inte innebära någon 
+
+förändring för skyddet av den personliga integriteten. 
+
+När det sedan gäller utredningens förslag om undantag från krav på 
+
+samtycke för totalförsvarspliktiga som skrivs in för värnplikt och som efter 
+
+avslutad värnplikt krigsplaceras i Försvarsmakten innebär förslaget enligt 
+
+58 
+
+utredningens mening en påtaglig försämring av skyddet för den personliga 
+
+integriteten. Den som kommer beröras av förslaget har inte möjlighet att själv avgöra om han eller hon ska underkasta sig en säkerhetsprövning och inom ramen för den lämna känsliga och integritetsnära uppgifter till andra. Säkerhetsprövningen kan därutöver komma att pågå under lång tid och måste därför anses vara särskilt integritetskränkande. Sammantaget innebär förslagen försämringar i skyddet för den personliga integriteten. Försämringarna bedöms vara godtagbara med hänsyn till försvarsintresset.
+
+Utredningens förslag kommer att påverka fler män än kvinnor, men bedöms inte påverka män och kvinnor på olika sätt. Utredningens förslag bedöms i övrigt inte få några konsekvenser för den kommunala självstyrelsen, brottsligheten och det brottsförebyggande arbetet, sysselsättning och offentlig service i olika delar av landet, små företags arbetsförutsättningar, konkurrensförmåga eller villkor i övrigt i förhållande till större företags, eller möjligheterna att nå de integrationspolitiska målen.
+
+Prop. 2022/23:87 Bilaga 1
+
+59
+
+Prop. 2022/23:87 
+
+Betänkandets lagförslag 
+
+Bilaga 2 
+
+Förslag till lag om ändring i säkerhetsskyddslagen 
+
+(2018:585) 
+
+Härigenom föreskrivs i fråga om säkerhetsskyddslagen (2018:585) 
+
+dels att 3 kap. 3 och 4 §§ ska ha följande lydelse, 
+
+dels att det ska införas nya paragrafer, 3 kap. 4 b § och 3 kap. 18 a §, av 
+
+följande lydelse. 
+
+Nuvarande lydelse 
+
+Föreslagen lydelse 
+
+3 kap.
+
+3 §
+
+Säkerhetsprövningen ska göras innan deltagandet i den säkerhetskänsliga verksamheten påbörjas och ska innefatta en grundutredning samt registerkontroll och särskild personutredning i den omfattning som anges i 13, 14 och 17 §§. Om det finns särskilda skäl får säkerhetsprövningen göras mindre omfattande.
+
+Säkerhetsprövningen ska följas upp under den tid som deltagandet i den säkerhetskänsliga verksamheten pågår.
+
+En totalförsvarspliktig som efter avslutad grundutbildning med värnplikt krigsplaceras enligt 3 kap. 12§ lagen (1994:1809) om totalförsvarsplikt i en befattning placerad i säkerhetsklass 3 i Försvarsmaktens verksamhet ska anses delta i den säkerhetskänsliga verksamheten under den tid som beslutet om krigsplacering kvarstår.
+
+4 §
+
+Säkerhetsprövningen ska utgå från uppgifter som kommit fram när grundutredningen gjordes och den kännedom som i övrigt finns om den som ska prövas, uppgifter som har lämnats ut efter registerkontroll och särskild personutredning, arten av den verksamhet som prövningen gäller
+
+samt omständigheterna i övrigt. 
+
+Bedömningen görs av den som 
+
+Bedömningen görs av den som 
+
+beslutar om anställning eller annat 
+
+beslutar om anställning eller annat 
+
+deltagande i den säkerhetskänsliga 
+
+deltagande i den säkerhetskänsliga 
+
+verksamheten, om inte annat följer 
+
+verksamheten, om inte annat följer 
+
+av tredje stycket eller 4 a §. 
+
+av tredje stycket, 4 a eller 4 b §. 
+
+Om en myndighet har det bestämmande inflytandet över den prövades lämplighet att delta i säkerhetskänslig verksamhet hos en enskild verksamhetsutövare, är det i stället myndigheten som gör den slutliga bedömningen.
+
+60
+
+Om det finns anledning till det, ska en tidigare gjord bedömning av en persons lämplighet att delta i den säkerhetskänsliga verksamheten omprövas.
+
+4 b §
+
+Bedömningen enligt 4 § görs av Försvarsmakten när det gäller totalförsvarspliktiga som skrivs in för värnplikt och för totalförsvarspliktiga som efter avslutad värnplikt har krigsplacerats enligt lagen (1994:1809) om totalförsvarsplikt i Försvarsmaktens verksamhet.
+
+18 a §
+
+Kravet på samtycke till registerkontroll i 18 § gäller inte en totalförsvarspliktig som skrivs in för värnplikt enligt lagen (1994:1809) om totalförsvarsplikt. Kravet gäller inte heller en totalförsvarspliktig som efter avslutad värnplikt har krigsplacerats enligt den lagen.
+
+Undantaget från kravet på samtycke gäller under den tid som deltagandet i den säkerhetskänsliga verksamheten pågår.
+
+Denna lag träder i kraft den 1 oktober 2022.
+
+Prop. 2022/23:87 Bilaga 2
+
+61
+
+Prop. 2022/23:87 Bilaga 3
+
+62
+
+Förteckning över remissinstanserna (SOU 2021:82)
+
+Remissvar har lämnats av Diskrimineringsombudsmannen, Försvars-
+
+högskolan, Försvarsmakten, Göteborgs universitet (Juridiska
+
+institutionen), Integritetsskyddsmyndigheten, Justitiekanslern, Myndigheten för samhällsskydd och beredskap, Myndigheten för ungdoms- och civilsamhällesfrågor, Pliktrådet, Polismyndigheten, Riksdagens ombudsmän, Säkerhets- och integritetsskyddsnämnden, Säkerhetspolisen och Totalförsvarets plikt- och prövningsverk
+
+Civil Rights Defenders och Human Rights Watch Sverige har inte svarat på remissen.
+
+Sammanfattning av promemorian Tillstånds- och tillsynsansvaret för Försvarets radioanstalts hantering av brandfarliga och explosiva varor
+
+Prop. 2022/23:87 Bilaga 4
+
+I promemorian lämnas förslag om att Myndigheten för samhällsskydd och beredskap, i stället för en kommun, ska har tillstånds- och tillsynsansvaret för Försvarets radioanstalts hantering av brandfarliga och explosiva varor. Myndigheten för samhällsskydd och beredskap ska även kunna medge att Försvarsmakten utövar viss tillsyn över Försvarets radioanstalts hantering av brandfarliga och explosiva varor.
+
+63
+
+Prop. 2022/23:87 
+
+Promemorians lagförslag 
+
+Bilaga 5 
+
+Förslag till lag om ändring i lagen (2010:1011) om 
+
+brandfarliga och explosiva varor 
+
+Härigenom föreskrivs att 17, 18 och 21 §§ lagen (2010:1011) om 
+
+brandfarliga och explosiva varor ska ha följande lydelse. 
+
+Nuvarande lydelse 
+
+Föreslagen lydelse 
+
+17 § 
+
+Frågor om tillstånd till hantering 
+
+Frågor om tillstånd till hantering 
+
+av brandfarliga 
+
+varor inom 
+
+av brandfarliga 
+
+varor inom 
+
+Försvarsmakten, 
+
+Försvarets 
+
+Försvarsmakten, 
+
+Försvarets 
+
+materielverk, 
+
+Totalförsvarets 
+
+materielverk, 
+
+Försvarets 
+
+forskningsinstitut 
+
+och 
+
+radioanstalt, 
+
+Totalförsvarets 
+
+Fortifikationsverket ska prövas av 
+
+forskningsinstitut 
+
+och 
+
+Myndigheten för 
+
+samhällsskydd 
+
+Fortifikationsverket ska prövas av 
+
+och beredskap. 
+
+Myndigheten för 
+
+samhällsskydd 
+
+och beredskap. 
+
+Frågor om tillstånd till hantering av brandfarliga varor i övriga fall ska prövas av den kommun där hanteringen ska bedrivas.
+
+18 §
+
+Myndigheten för samhällsskydd och beredskap ska pröva frågor om tillstånd till explosiva varor som avser
+
+1.tillverkning, bearbetning, behandling, destruktion, underhåll och återvinning,
+
+2.annan hantering som sker i anslutning till sådan hantering som nämns
+
+i1,
+
+3.gränsöverskridande överföring,
+
+4.import,
+
+5.export, och
+
+6. sådan hantering som Försvars- 
+
+6. 
+
+sådan 
+
+hantering 
+
+som 
+
+makten, 
+
+Försvarets 
+
+materielverk, 
+
+Försvarsmakten, 
+
+Försvarets 
+
+Totalförsvarets forskningsinstitut 
+
+materielverk, 
+
+Försvarets 
+
+radio- 
+
+och Fortifikationsverket behöver ha 
+
+anstalt, Totalförsvarets forsknings- 
+
+tillstånd till. 
+
+institut 
+
+och 
+
+Fortifikationsverket 
+
+behöver ha tillstånd till. 
+
+Frågor om tillstånd till hantering och överföring av explosiva varor i 
+
+övriga fall ska prövas av den kommun där varorna ska hanteras. Gäller 
+
+frågan förvaring i flyttbart förråd och ska förvaringen ske i mer än en 
+
+kommun, ska frågan prövas av den kommun där sökanden är bosatt eller 
+
+där verksamheten huvudsakligen ska bedrivas 
+
+21 § 
+
+Den 
+
+myndighet 
+
+som prövar 
+
+Den 
+
+myndighet 
+
+som 
+
+prövar 
+
+frågor om tillstånd enligt denna lag 
+
+frågor om tillstånd enligt denna lag 
+
+har också, inom sitt verksamhets- 
+
+har också, inom sitt verksamhets- 
+
+64 
+
+område, tillsyn över efterlevnaden 
+
+område, tillsyn över att lagen och 
+
+av lagen och föreskrifter och beslut som meddelats i anslutning till lagen.
+
+Försvarsmakten får, efter medgivande av Myndigheten för samhällsskydd och beredskap, i stället för Myndigheten för samhällsskydd och beredskap utöva viss tillsyn över Försvarsmaktens, Försvarets materielverks, Totalförsvarets forskningsinstituts och Fortifikationsverkets hantering och import av brandfarliga och explosiva varor.
+
+Myndigheten för samhällsskydd och beredskap eller den myndighet som regeringen bestämmer har tillsyn över hanteringen av brandfarliga varor som transporteras i sådan rörledning för vilken koncession har meddelats enligt lagen (1978:160) om vissa rörledningar eller enligt naturgaslagen (2005:403).
+
+föreskrifter och beslut som har Prop. 2022/23:87 meddelats i anslutning till lagen Bilaga 5
+
+följs.
+
+Försvarsmakten får, efter medgivande av Myndigheten för samhällsskydd och beredskap, i stället för Myndigheten för samhällsskydd och beredskap utöva viss tillsyn över Försvarsmaktens, Försvarets materielverks, Försvarets radioanstalts, Totalförsvarets forskningsinstituts och Fortifikationsverkets hantering och import av brandfarliga och explosiva varor.
+
+Myndigheten för samhällsskydd och beredskap eller den myndighet som regeringen bestämmer har tillsyn över hanteringen av brandfarliga varor som transporteras i en sådan rörledning som det har meddelats koncession för enligt lagen (1978:160) om vissa rörledningar eller enligt naturgaslagen (2005:403).
+
+Denna lag träder i kraft den 1 januari 2023.
+
+65
+
+Prop. 2022/23:87 Bilaga 6
+
+Förteckning över remissinstanserna (promemorian)
+
+Remissvar har lämnats av 
+Dals-Eds
+ kommun, Försvarets radioanstalt, Försvarsmakten, Järfälla kommun, Lindesbergs kommun, Myndigheten för samhällsskydd och beredskap och Tierps kommun.
+
+Följande remissinstanser har inte svarat eller angett att de avstår från att yttra sig: Alingsås kommun, Arvika kommun, Bengtsfors kommun, Borgholms kommun, Ekerö kommun, Enköpings kommun, Falkenbergs kommun, Försvarets radioanstalt, Härjedalens kommun, Jokkmokks kommun, Jönköpings kommun, Kinda kommun, Kristianstads kommun, Laxå kommun, Luleå kommun, Munkfors kommun, Ockelbo kommun, Orsa kommun, Piteå kommun, Region Gotland, Skövde kommun, Stenungsunds kommun, Sveriges Kommuner och Regioner, Söderhamns kommun, Vellinge kommun, Örebro kommun, Örnsköldsviks kommun och Östersunds kommun
+
+66
+
+Lagrådsremissens lagförslag
+
+Regeringen har följande förslag till lagtext.
+
+Förslag till lag om ändring i säkerhetsskyddslagen (2018:585)
+
+Härigenom föreskrivs i fråga om säkerhetsskyddslagen (2018:585) dels att dels att 3 kap. 4 § ska ha följande lydelse,
+
+dels att det ska införas tre nya paragrafer, 3 kap. 3 a, 4 d och 18 a §§, av följande lydelse.
+
+Prop. 2022/23:87 Bilaga 7
+
+Nuvarande lydelse 
+
+Föreslagen lydelse 
+
+3kap. 3 a §
+
+En totalförsvarspliktig som efter avslutad grundutbildning med värnplikt har krigsplacerats enligt 3 kap. 12 § lagen (1994:1809) om totalförsvarsplikt i en befattning placerad i säkerhetsklass i Försvarsmaktens verksamhet ska anses delta i säkerhetskänslig verksamhet under den tid som
+
+beslutet om krigsplacering kvarstår.
+
+4 §3
+
+Säkerhetsprövningen ska utgå från uppgifter som kommit fram när grundutredningen gjordes och den kännedom som i övrigt finns om den som ska prövas, uppgifter som har lämnats ut efter registerkontroll och särskild personutredning, arten av den verksamhet som prövningen gäller samt omständigheterna i övrigt.
+
+Bedömningen görs av den som 
+
+Bedömningen görs av den som 
+
+beslutar om anställning eller annat 
+
+beslutar om anställning eller annat 
+
+deltagande i den säkerhetskänsliga 
+
+deltagande i den säkerhetskänsliga 
+
+verksamheten, om inte annat följer 
+
+verksamheten, om inte annat följer 
+
+av tredje stycket, 4 a, 4 b eller 
+
+av tredje stycket, 4 a, 4 b, 4 c eller 
+
+4 c §. 
+
+4 d §. 
+
+Om en myndighet har det bestämmande inflytandet över den prövades lämplighet att delta i säkerhetskänslig verksamhet hos en enskild verksamhetsutövare, är det i stället myndigheten som gör den slutliga bedömningen.
+
+3 Senaste lydelse 2022:443. 
+
+67 
+
+Prop. 2022/23:87 Bilaga 7
+
+68
+
+Om det finns anledning till det, ska en tidigare gjord bedömning av en persons lämplighet att delta i den säkerhetskänsliga verksamheten omprövas.
+
+4 d §
+
+Bedömningen enligt 4 § görs av Försvarsmakten när det gäller
+
+totalförsvarspliktigainför inskrivning för värnplikt och totalförsvarspliktiga som efter avslutad grundutbildning med värnplikt har krigsplacerats enligt 3 kap. 12 § lagen (1994:1809) om totalförsvarsplikt i en befattning placerad i säkerhetsklass i Försvarsmaktens verksamhet.
+
+18 a §
+
+Kravet på samtycke till registerkontroll i 18 § gäller inte en totalförsvarspliktig som skrivs in
+
+för värnplikt enligt lagen (1994:1809) om totalförsvarsplikt. Kravet gäller inte heller en totalförsvarspliktig som efter avslutad grundutbildning med värnplikt har krigsplacerats enligt den lagen.
+
+Undantaget från kravet på samtycke gäller under den tid som deltagandet i den säkerhetskänsliga verksamheten pågår.
+
+Undantaget gäller endast för sådan registerkontroll som ska göras för placering i säkerhetsklass 3.
+
+Denna lag träder i kraft den 1 oktober 2023.
+
+Prop. 2022/23:87
+
+Bilaga 7
+
+Förslag till lag om ändring i lagen (2010:1011) om brandfarliga och explosiva varor
+
+Härigenom föreskrivs att 17, 18 och 21 §§ lagen (2010:1011) om brandfarliga och explosiva varor ska ha följande lydelse.
+
+Nuvarande lydelse 
+
+Föreslagen lydelse 
+
+17 § 
+
+Frågor om tillstånd till hantering 
+
+Frågor om tillstånd till hantering 
+
+av brandfarliga 
+
+varor 
+
+inom 
+
+av brandfarliga 
+
+varor 
+
+inom 
+
+Försvarsmakten, 
+
+Försvarets 
+
+Försvarsmakten, 
+
+Försvarets 
+
+materielverk, 
+
+Totalförsvarets 
+
+materielverk, 
+
+Försvarets 
+
+radio- 
+
+forskningsinstitut 
+
+och Fortifika- 
+
+anstalt, Totalförsvarets forsknings- 
+
+tionsverket 
+
+ska 
+
+prövas 
+
+av 
+
+institut och Fortifikationsverket ska 
+
+Myndigheten 
+
+för 
+
+samhällsskydd 
+
+prövas av 
+
+Myndigheten 
+
+för 
+
+och beredskap. 
+
+samhällsskydd och beredskap. 
+
+Frågor om tillstånd till hantering av brandfarliga varor i övriga fall ska prövas av den kommun där hanteringen ska bedrivas.
+
+18 §4
+
+Myndigheten för samhällsskydd och beredskap ska pröva frågor om tillstånd till explosiva varor som avser
+
+1.tillverkning, bearbetning, behandling, destruktion, underhåll och återvinning,
+
+2.annan hantering som sker i anslutning till sådan hantering som nämns
+
+i1,
+
+3.gränsöverskridande överföring,
+
+4.import,
+
+5.export, och
+
+6. sådan hantering som Försvars- 
+
+sådan hantering som Försvars- 
+
+makten, 
+
+Försvarets materielverk, 
+
+makten, Försvarets 
+
+materielverk, 
+
+Totalförsvarets 
+
+forskningsinstitut 
+
+Försvarets 
+
+radioanstalt, Total- 
+
+och Fortifikationsverket behöver ha 
+
+försvarets 
+
+forskningsinstitut 
+
+och 
+
+tillstånd till. 
+
+Fortifikationsverket 
+
+behöver 
+
+ha 
+
+tillstånd till. 
+
+Frågor om tillstånd till hantering 
+
+Frågor om tillstånd till hantering 
+
+och överföring av explosiva varor i 
+
+och överföring av explosiva varor i 
+
+övriga fall ska prövas av den 
+
+övriga fall ska prövas av den 
+
+kommun där varorna ska hanteras. 
+
+kommun där varorna ska hanteras. 
+
+Gäller frågan förvaring i flyttbart 
+
+Om frågan gäller förvaring i ett 
+
+förråd och ska förvaringen ske i 
+
+flyttbart förråd och förvaringen ska 
+
+mer än en kommun, ska frågan 
+
+ske i mer än en kommun, ska frågan 
+
+prövas av den kommun där 
+
+prövas av den kommun där 
+
+sökanden 
+
+är 
+
+bosatt eller där 
+
+sökanden 
+
+är bosatt eller 
+
+där 
+
+4 Senaste lydelse 2016:379. 
+
+69 
+
+Prop. 2022/23:87 Bilaga 7
+
+70
+
+verksamheten huvudsakligen 
+
+ska 
+
+verksamheten 
+
+huvudsakligen 
+
+ska 
+
+bedrivas. 
+
+bedrivas. 
+
+21 § 
+
+Den 
+
+myndighet 
+
+som prövar 
+
+Den 
+
+myndighet 
+
+som 
+
+prövar 
+
+frågor om tillstånd enligt denna lag 
+
+frågor om tillstånd enligt denna lag 
+
+har också, inom sitt verksamhets- 
+
+har också, inom sitt verksamhets- 
+
+område, tillsyn över efterlevnaden 
+
+område, tillsyn över att lagen och 
+
+av lagen och föreskrifter och beslut 
+
+föreskrifter och beslut som har 
+
+som meddelats i anslutning till 
+
+meddelats i anslutning till lagen 
+
+lagen. 
+
+följs. 
+
+Försvarsmakten 
+
+får, 
+
+efter 
+
+Försvarsmakten får, efter med- 
+
+medgivande 
+
+av 
+
+Myndigheten 
+
+för 
+
+givande 
+
+av 
+
+Myndigheten 
+
+för 
+
+samhällsskydd 
+
+och 
+
+beredskap, i 
+
+samhällsskydd 
+
+och 
+
+beredskap, i 
+
+stället 
+
+för 
+
+Myndigheten 
+
+för 
+
+stället 
+
+för 
+
+Myndigheten 
+
+för 
+
+samhällsskydd 
+
+och 
+
+beredskap 
+
+samhällsskydd 
+
+och 
+
+beredskap 
+
+utöva viss tillsyn över Försvars- 
+
+utöva viss tillsyn över Försvars- 
+
+maktens, Försvarets materielverks, 
+
+maktens, Försvarets materielverks, 
+
+Totalförsvarets 
+
+forskningsinstituts 
+
+Försvarets radioanstalts, 
+
+Total- 
+
+och Fortifikationsverkets hantering 
+
+försvarets 
+
+forskningsinstituts 
+
+och 
+
+och import av brandfarliga och 
+
+Fortifikationsverkets hantering och 
+
+explosiva varor. 
+
+import 
+
+av 
+
+brandfarliga 
+
+och 
+
+explosiva varor. 
+
+Myndigheten för samhällsskydd 
+
+Myndigheten för samhällsskydd 
+
+och beredskap eller den myndighet 
+
+och beredskap eller den myndighet 
+
+som 
+
+regeringen bestämmer 
+
+har 
+
+som 
+
+regeringen bestämmer 
+
+har 
+
+tillsyn över hanteringen av brand- 
+
+tillsyn över hanteringen av brand- 
+
+farliga varor som transporteras i 
+
+farliga varor som transporteras i en 
+
+sådan 
+
+rörledning 
+
+för 
+
+vilken 
+
+sådan rörledning som det har 
+
+koncession 
+
+har 
+
+meddelats 
+
+enligt 
+
+meddelats 
+
+koncession för 
+
+enligt 
+
+lagen (1978:160) om vissa rör- 
+
+lagen (1978:160) om vissa rör- 
+
+ledningar eller enligt naturgaslagen 
+
+ledningar eller enligt naturgaslagen 
+
+(2005:403). 
+
+(2005:403). 
+
+Denna lag träder i kraft den 1 juli 2023.
+
+Lagrådets yttrande
+
+Utdrag ur protokoll vid sammanträde 
+2023-02-07
+
+Närvarande: Justitierådet Mahmut Baran, f.d. justitierådet Mari Andersson och justitierådet Stefan Reimer
+
+Säkerhetsprövning av totalförsvarspliktiga m.m.
+
+Enligt en lagrådsremiss den 2 februari 2023 har regeringen (Försvarsdepartementet) beslutat inhämta Lagrådets yttrande över förslag till
+
+1.lag om ändring i säkerhetsskyddslagen (2018:585),
+
+2.lag om ändring i lagen (2010:1011) om brandfarliga och explosiva varor.
+
+Förslagen har inför Lagrådet föredragits av kanslirådet
+
+Karin Byström.
+
+Lagrådet lämnar förslagen utan erinran.
+
+Prop. 2022/23:87 Bilaga 8
+
+71
+
+Prop. 2022/23:87
+
+Försvarsdepartementet
+
+Utdrag ur protokoll vid regeringssammanträde den 9 mars 2023
+
+Närvarande: statsminister Kristersson, ordförande, och statsråden Busch, Svantesson, Ankarberg Johansson, Edholm, J Pehrson, Jonson, Roswall, Forssmed, Tenje, Slottner, M Persson, Wykman, Kullgren, Liljestrand, Bohlin, Carlson, Pourmokhtari
+
+Föredragande: statsrådet Jonson
+
+Regeringen beslutar proposition Säkerhetsprövning av totalförsvarspliktiga m.m.
+
+72

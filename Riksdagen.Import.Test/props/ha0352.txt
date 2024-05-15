@@ -1,0 +1,1881 @@
+Regeringens proposition 2022/23:52
+
+Extra ändringsbudget för 2023 – Stöd till 
+
+Prop. 
+
+Ukraina samt åtgärder riktade till företag och 
+
+2022/23:52 
+
+hushåll till följd av höga energipriser 
+
+Regeringen överlämnar denna proposition till riksdagen.
+
+Stockholm den 26 januari 2023
+
+Ulf Kristersson
+
+Elisabeth Svantesson (Finansdepartementet)
+
+Propositionens huvudsakliga innehåll
+
+I denna proposition lämnar regeringen förslag till ändringar i statens budget för 2023. Förslagen är en följd av det försämrade säkerhetspolitiska läget i Sveriges närområde och de höga energipriserna, med anledning av Rysslands fullskaliga invasion av Ukraina.
+
+I propositionen föreslås vissa ändringar i lagen (2009:99) om anstånd med inbetalning av skatt i vissa fall. Det föreslås bl.a. att anstånd med inbetalning av dels avdragen preliminär skatt och arbetsgivaravgifter, dels mervärdesskatt vars redovisningsperiod är en kalendermånad får beviljas för högst tolv redovisningsperioder vardera. För mervärdesskatt vars redovisningsperiod är ett kalenderkvartal får anstånd beviljas för högst fyra redovisningsperioder. Vidare föreslås det att anstånd för dessa skatter och avgifter får beviljas även för redovisningsperioder som infallit april– juni 2022. Det föreslås slutligen att den bortre tidsgränsen för den ursprungliga anståndstiden för dessa skatter och avgifter senareläggs till den 12 september 2023. Lagändringarna föreslås träda i kraft den 13 februari 2023.
+
+I propositionen lämnas även förslag om ett bemyndigande för regeringen att skänka försvarsmateriel till Ukraina, som kan avvaras av Försvarsmakten under en begränsad tid, och om att tillföra medel för återanskaffning av materiel. Propositionen innehåller också förslag om att tillföra medel för ett tillfälligt ekonomiskt stöd till hushåll till följd av höga gaspriser.
+
+1
+
+Prop. 2022/23:52
+
+2
+
+Innehållsförteckning
+
+1 
+
+Förslag till riksdagsbeslut ................................................................. 
+
+3 
+
+2 
+
+Förslag till lag om ändring i lagen (2009:99) om anstånd med 
+
+inbetalning av skatt i vissa fall .......................................................... 
+
+5 
+
+3 
+
+Ärendet och dess beredning .............................................................. 
+
+7 
+
+3.1 
+
+Skäl för ändringar i statens budget och förkortad 
+
+motionstid........................................................................... 
+
+7 
+
+3.2Utökade möjligheter till tillfälliga anstånd med
+
+inbetalning av skatt............................................................. 
+
+7 
+
+4 
+
+Utökade möjligheter till tillfälliga anstånd med inbetalning av 
+
+skatt 
+
+................................................................................................... 
+
+8 
+
+4.1 
+
+Befintliga regler om tillfälliga anstånd............................... 
+
+8 
+
+4.2Anstånd ska kunna beviljas för fler
+
+redovisningsperioder .......................................................... 
+
+9 
+
+4.3 
+
+Ikraftträdande- och övergångsbestämmelser .................... 
+
+14 
+
+4.4 
+
+Konsekvensanalys ............................................................ 
+
+14 
+
+5 
+
+Författningskommentar................................................................... 
+
+24 
+
+5.1Förslaget till lag om ändring i lagen (2009:99) om
+
+anstånd med inbetalning av skatt i vissa fall .................... 
+
+24 
+
+6 Ändringar i statens budget för 2023................................................ 
+
+24 
+
+6.1 
+
+Ändrad beräkning av statens inkomster ........................... 
+
+24 
+
+6.2 
+
+Ändringar av statens utgifter ............................................ 
+
+25 
+
+6.3 
+
+Konsekvenser för statens budget ...................................... 
+
+28 
+
+Bilaga 1 
+
+Promemorians sammanfattning ........................................ 
+
+30 
+
+Bilaga 2 
+
+Promemorians lagförslag.................................................. 
+
+31 
+
+Bilaga 3 
+
+Förteckning över remissinstanserna ................................. 
+
+32 
+
+Utdrag ur protokoll vid regeringssammanträde den 26 januari 2023...... 
+
+33 
+
+1 
+
+Förslag till riksdagsbeslut 
+
+Prop. 2022/23:52 
+
+Regeringens förslag:
+
+1.Riksdagen antar regeringens förslag till lag om ändring i lagen (2009:99) om anstånd med inbetalning av skatt i vissa fall (avsnitt 2 och 4).
+
+2.Riksdagen godkänner ändrad beräkning av inkomster i statens budget för 2023 (avsnitt 6.1 tabell 6.1).
+
+3.Riksdagen bemyndigar regeringen att under 2023 för anslaget 1:3 Anskaffning av materiel och anläggningar inom utgiftsområde 6 Försvar och samhällets krisberedskap besluta att till Ukraina skänka försvarsmateriel i form av granatgevär med ammunition, pansarskott, pansarvärnsrobot 57, automatgevär, minröjningsutrustning och stridsfordon 90 med ammunition, som kan avvaras av Försvarsmakten under begränsad tid, till ett värde om högst 4 349 000 000 kronor (avsnitt 6.2).
+
+4.Riksdagen godkänner ändrade ramar för utgiftsområden och anvisar ändrade och nya anslag enligt tabell 1.1.
+
+5.Riksdagen bemyndigar regeringen att under 2023 ingå ekonomiska åtaganden som inklusive tidigare åtaganden medför behov av framtida anslag på högst de belopp och inom de tidsperioder som anges i tabell 1.2.
+
+Riksdagen beslutar att förkorta motionstiden till fem dagar.
+
+3
+
+Prop. 2022/23:52 
+
+Tabell 1.1 
+
+Ändrade ramar för utgiftsområden och ändrade och nya 
+
+anslag 2023 
+
+Tusental kronor 
+
+Beslutad 
+
+Förändring 
+
+Utg. 
+
+ram/anvisat 
+
+av ram/ 
+
+Ny ram/Ny 
+
+omr. Anslag 
+
+anslag 
+
+anslag anslagsnivå 
+
+6 
+
+Försvar och samhällets 
+
+krisberedskap 
+
+93 952 930 
+
+1 687 100 
+
+95 640 030 
+
+1:1 
+
+Förbandsverksamhet och 
+
+beredskap 
+
+51 453 048 
+
+349 500 
+
+51 802 548 
+
+1:3 
+
+Anskaffning av materiel och 
+
+anläggningar 
+
+27 949 405 
+
+1 337 600 
+
+29 287 005 
+
+21 
+
+Energi 
+
+4 944 849 
+
+150 000 
+
+5 094 849 
+
+1:12 
+
+Gasprisstöd 
+
+0 
+
+150 000 
+
+150 000 
+
+24 
+
+Näringsliv 
+
+11 407 773 
+
+-50
+ 000 11 357 773 
+
+1:2 
+
+Verket för innovationssystem: 
+
+Forskning och utveckling 
+
+3 439 755 
+
+-50
+ 000 
+
+3 389 755 
+
+Summa anslagsförändring på 
+
+ändringsbudget 
+
+1 787 100 
+
+Tabell 1.2 
+
+Ändrade beställningsbemyndiganden 2023 
+
+Tusental kronor 
+
+Föränd- 
+
+Beslutat 
+
+ring av 
+
+beställ- 
+
+beställ- 
+
+Nytt 
+
+nings- 
+
+nings- 
+
+beställnings 
+
+Utg. 
+
+bemyndi- 
+
+bemyndi- 
+
+bemyndi- 
+
+omr. Anslag 
+
+gande 
+
+gande 
+
+gande 
+
+Tidsperiod 
+
+61:1 Förbandsverksamhet och
+
+beredskap 
+
+24 700 000 
+
+160 000 
+
+24 860 000 
+
+2024–2028
+
+6 
+
+1:3 
+
+Anskaffning av 
+
+materiel och 
+
+anläggningar 
+
+144 100 000 
+
+5 584 700 
+
+149 684 700 
+
+2024–2031
+
+Summa för- 
+
+ändring av 
+
+beställnings- 
+
+bemyndigande 
+
+på ändrings- 
+
+budget 
+
+5 744 700 
+
+Anm.: De ekonomiska åtagandena medför utgifter fr.om. 2024 t.o.m. angivet slutår.
+
+4
+
+2 
+
+Förslag till lag om ändring i lagen 
+
+Prop. 2022/23:52 
+
+(2009:99) om anstånd med inbetalning av skatt i vissa fall
+
+Härigenom föreskrivs att 1 § lagen (2009:99) om anstånd med inbetalning av skatt i vissa fall ska ha följande lydelse.
+
+Nuvarande lydelse 
+
+Föreslagen lydelse 
+
+1 §1 
+
+Skatteverket får efter ansökan i 
+
+Skatteverket får efter ansökan i 
+
+andra fall än som avses i 63 kap. 
+
+andra fall än som avses i 63 kap. 
+
+3–5,
+ 7, 7 a, 
+11–15
+ och 23 §§ skatte- 
+
+3–5,
+ 7, 7 a, 
+11–15
+ och 23 §§ skatte- 
+
+förfarandelagen (2011:1244) be- 
+
+förfarandelagen 
+
+(2011:1244) 
+
+be- 
+
+vilja anstånd för redovisningsperi- 
+
+vilja anstånd för redovisningsperi- 
+
+oder som infaller 
+
+under 
+
+janu- 
+
+oder som infaller under 
+
+janu- 
+
+ari 
+2020–januari
+ 2021 
+
+och 
+
+okto- 
+
+ari 
+2020–januari
+
+2021, oktober– 
+
+ber–december
+ 2021 med inbetal- 
+
+december 2021 och 
+april–juni
+ 2022 
+
+ning av 
+
+med inbetalning av 
+
+1.avdragen skatt och arbetsgivaravgifter som ska redovisas i en arbetsgivardeklaration enligt 26 kap. 19 § 1 skatteförfarandelagen, och
+
+2.mervärdesskatt som ska redovisas i en sådan deklaration som avses i 26 kap. 5 § skatteförfarandelagen, och vars redovisningsperiod är en kalendermånad eller ett kalenderkvartal enligt 26 kap. 10 och 11 §§ samma lag.
+
+Anstånd enligt första stycket 1 
+
+Anstånd enligt första stycket 1 får 
+
+får beviljas för högst nio redovis- 
+
+beviljas för högst tolv redovis- 
+
+ningsperioder. 
+
+Anstånd 
+
+enligt 
+
+ningsperioder. 
+
+Anstånd 
+
+enligt 
+
+första stycket 2 får beviljas för 
+
+första stycket 2 får beviljas för 
+
+högst nio redovisningsperioder om 
+
+högst tolv redovisningsperioder om 
+
+redovisningsperioden är en kalen- 
+
+redovisningsperioden är en kalen- 
+
+dermånad, och för högst tre redo- 
+
+dermånad, och för högst fyra redo- 
+
+visningsperioder om redovisnings- 
+
+visningsperioder om redovisnings- 
+
+perioden är ett kalenderkvartal. 
+
+perioden är ett kalenderkvartal. 
+
+Anståndstiden får bestämmas till 
+
+Anståndstiden får bestämmas till 
+
+längst ett år, dock längst till och 
+
+längst ett år, dock längst till och 
+
+med den 12 februari 2023. An- 
+
+med den 12 september 2023. An- 
+
+ståndstiden får efter ansökan för- 
+
+ståndstiden får efter ansökan för- 
+
+längas med som längst ett år. 
+
+längas med som längst ett år. 
+
+Anståndsbeloppet 
+
+ska 
+
+betalas 
+
+Anståndsbeloppet 
+
+ska 
+
+betalas 
+
+senast 
+
+den 
+
+förfallodag 
+
+enligt 
+
+senast 
+
+den 
+
+förfallodag 
+
+enligt 
+
+62 kap. 
+
+9 § första 
+
+stycket 
+
+skatte- 
+
+62 kap. 
+
+9 § första 
+
+stycket 
+
+skatte- 
+
+förfarandelagen som infaller när- 
+
+förfarandelagen som infaller när- 
+
+mast efter det att anståndstiden 
+
+mast efter det att anståndstiden 
+
+upphör. 
+
+upphör. 
+
+1 Senaste lydelse 2022:72. 
+
+5 
+
+Prop. 2022/23:52
+
+Denna lag träder i kraft den 13 februari 2023.
+
+6
+
+3 
+
+Ärendet och dess beredning 
+
+Prop. 2022/23:52 
+
+3.1Skäl för ändringar i statens budget och förkortad motionstid
+
+Enligt riksdagsordningen får regeringen vid högst två tillfällen lämna en proposition med förslag till ändringar i statens budget för det löpande budgetåret (9 kap. 6 § första stycket). En sådan proposition lämnas i anslutning till budgetpropositionen eller den ekonomiska vårpropositionen (tilläggsbestämmelse 9.6.1). Förslag till ändringar i budgeten får dock lämnas vid andra tillfällen om regeringen anser att det finns särskilda skäl (9 kap. 6 § andra stycket).
+
+Rysslands fullskaliga invasion av Ukraina har kraftigt ändrat förutsättningarna för den europeiska energimarknaden. I syfte att dämpa de likviditetsproblem som kan uppkomma för svenska företag på grund av höga energipriser, och osäkerheten på energimarknaden i övrigt, föreslås utökade möjligheter att få tillfälliga anstånd med betalning av skatter och avgifter.
+
+Ukraina har efterfrågat stöd i form av försvarsmateriel. Försvarsmakten bedöms under en begränsad tid kunna avvara viss sådan materiel. Sverige har ett utrikes- och säkerhetspolitiskt intresse av att skyndsamt tillhandahålla den efterfrågade materielen till Ukraina.
+
+Sedan hösten 2021 har priserna på gas snabbt ökat till mycket höga nivåer. Det har medfört att många svenska hushåll fått kraftigt höjda kostnader. Regeringen har tidigare presenterat ett elstöd för hushåll som förväntas att kunna betalas ut i februari 2023. För att även mildra konsekvenserna för hushåll i södra Sverige med gas som energikälla bör så snart som möjligt ett tillfälligt ekonomiskt stöd även införas för dessa hushåll.
+
+Regeringen anser mot denna bakgrund att det finns särskilda skäl för att lämna förslag till ändringar i statens budget för 2023.
+
+Regeringen anser vidare mot bakgrund av vad som ovan anförts att det finns synnerliga skäl för riksdagen att besluta om förkortad motionstid. Regeringen föreslår att motionstiden förkortas till fem dagar.
+
+3.2Utökade möjligheter till tillfälliga anstånd med inbetalning av skatt
+
+I Finansdepartementet har promemorian Utökade möjligheter till tillfälliga anstånd med inbetalning av skatt tagits fram. En sammanfattning av promemorian finns i bilaga 1. Promemorians lagförslag finns i bilaga 2. Promemorian har remissbehandlats. En förteckning över remissinstanserna finns i bilaga 3. Remissvaren finns tillgängliga i Finansdepartementet (Fi2022/03553).
+
+7
+
+Prop. 2022/23:52 
+
+Lagrådet 
+
+Förslaget till lag om ändring i lagen (2009:99) om anstånd med inbetalning 
+
+av skatt i vissa fall är författningstekniskt och även i övrigt av sådan 
+
+beskaffenhet att Lagrådets hörande skulle sakna betydelse. Regeringen har 
+
+därför inte inhämtat Lagrådets yttrande över förslaget. 
+
+8
+
+4Utökade möjligheter till tillfälliga anstånd med inbetalning av skatt
+
+4.1Befintliga regler om tillfälliga anstånd
+
+Under finanskrisen 
+2008–2009
+ infördes tillfälliga anståndsbestämmelser genom lagen (2009:99) om anstånd med inbetalning av skatt i vissa fall (prop. 2008/09:113, bet. 2008/09:SkU27, rskr. 2008/09:175). Möjligheten att bevilja anstånd enligt den lagen var tidsbegränsad men lagen som sådan var inte tillfällig.
+
+Med anledning av spridningen av sjukdomen 
+covid-19
+ och dess konsekvenser har det föreslagits ändringar i lagen om anstånd med inbetalning av skatt i vissa fall i tre extra propositioner med förslag till ändringar i statens budget för 2020, i två extra propositioner med förslag till ändringar i statens budget för 2021 och i två extra propositioner med förslag till ändringar i statens budget för 2022.
+
+Nedan beskrivs relevanta delar i lagen om anstånd med inbetalning av skatt i vissa fall, med beaktande av de ändringar som trädde i kraft den
+
+30 mars 
+
+2020 
+
+(prop. 2019/20:132, 
+
+bet. 2019/20:FiU53, 
+
+rskr. 2019/20:194), 
+
+den 
+
+6 april 
+
+2020 
+
+(prop. 2019/20:151, 
+
+bet. 2019/20:FiU55, 
+
+rskr. 2019/20:204), 
+
+den 
+
+1 juni 
+
+2020 
+
+(prop. 2019/20:166, 
+
+bet. 2019/20:FiU59, 
+
+rskr. 2019/20:276), 
+
+den 
+
+5 februari 
+
+2021 
+
+(prop. 2020/21:77, 
+
+bet. 2020/21:FiU40, 
+
+rskr. 2020/21:175), 
+
+den 
+
+26 april 
+
+2021 
+
+(prop. 2020/21:166, 
+
+bet. 2020/21:FiU49, 
+
+rskr. 2020/21:248), 
+
+den 
+
+8 februari 
+
+2022 
+
+(prop. 2021/22:89, bet. 2021/22:FiU16, rskr. 2021/22:137) och 
+
+den 
+
+7 mars 2022 (prop. 2021/22:113, bet. 2021/22:FiU44, rskr. 2021/22:169). Av 1 § framgår bl.a. att Skatteverket efter ansökan får bevilja anstånd med inbetalning av dels avdragen preliminär skatt och arbetsgivaravgifter, dels mervärdesskatt som redovisas månadsvis eller kvartalsvis, och som gäller för redovisningsperioder som infaller under januari 
+2020–januari
+ 2021 och 
+oktober–december
+ 2021. Anstånd får beviljas för högst nio redovisningsperioder för avdragen preliminär skatt och arbetsgivaravgifter och för högst nio redovisningsperioder för mervärdesskatt som redovisas månadsvis. För mervärdesskatt som redovisas kvartalsvis får anstånd beviljas för högst tre redovisningsperioder. Anståndstiden får bestämmas till längst ett år, dock längst t.o.m. den 12 februari 2023. Anståndstiden får efter ansökan förlängas med som längst ett år. Anståndsbeloppet ska betalas senast den förfallodag enligt en viss bestämmelse i skatteförfarandelagen (2011:1244), förkortad SFL, som infaller närmast efter
+
+det att anståndstiden upphör.
+
+Av 1 c § lagen om anstånd med inbetalning av skatt i vissa fall framgår Prop. 2022/23:52 bl.a. att Skatteverket efter ansökan får förlänga anståndstiden med som
+
+längst 36 månader efter att den maximala anståndstiden enligt 1 § tredje stycket har upphört. En sådan förlängning förutsätter dock att Skatteverket samtidigt beviljar en avbetalningsplan, enligt vilken anståndsbeloppet ska vara avbetalt senast den förfallodag enligt en viss bestämmelse i SFL som infaller närmast efter att anståndstiden upphör.
+
+Enligt 2 § ska anstånd beviljas om inte särskilda skäl talar emot det. Detsamma gäller förlängning av anståndstiden.
+
+Av 3 § framgår att Skatteverket ska återkalla anståndet helt eller delvis om den skattskyldige begär det. Om de skatter och avgifter som anståndet avser har satts ned, får Skatteverket återkalla anståndet i motsvarande mån. Skatteverket får även återkalla anståndet helt eller delvis om den skattskyldige har näringsförbud eller är försatt i konkurs, om beslutet om anstånd är felaktigt och felaktigheten beror på att den skattskyldige har lämnat oriktiga eller vilseledande uppgifter, om ett underskott på skattekontot har lämnats till Kronofogdemyndigheten för indrivning efter att en förlängd anståndstid enligt 1 c § har beslutats eller om det finns synnerliga skäl. Om anståndet har återkallats ska anståndsbeloppet betalas senast den förfallodag enligt en viss bestämmelse i SFL som infaller närmast efter det att 30 dagar har gått från den dag då beslutet om återkallelse fattades.
+
+Enligt 4 § ska den som har beviljats anstånd betala den kostnadsränta som enligt 65 kap. 7 § första stycket första meningen och tredje stycket SFL gäller vid anstånd. Detta innebär att kostnadsränta beräknas fr.o.m. dagen efter beloppets ursprungliga förfallodag t.o.m. den dag då anståndsbeloppet senast ska vara inbetalt.
+
+Av 5 § följer vidare bl.a. att den som har beviljats anstånd även ska betala en anståndsavgift, utöver kostnadsränta. Anståndsavgiften tas ut med 0,1 procent på beviljat anståndsbelopp per kalendermånad fr.o.m. månaden efter att anstånd beviljats t.o.m. den månad då anståndsbeloppet ska betalas. Om anståndet har återkallats enligt 3 §, ska anståndsavgiften sättas ned i motsvarande mån. Anståndsavgiften ska betalas senast den dag då anståndsbeloppet ska vara inbetalt.
+
+I 9 § anges slutligen att Skatteverkets beslut omprövas och överklagas enligt bestämmelserna i 66 och 67 kap. SFL. Av detta följer bl.a. att Skatteverkets beslut om anstånd får överklagas till förvaltningsrätten.
+
+4.2 
+
+Anstånd ska kunna beviljas för fler 
+
+redovisningsperioder 
+
+Regeringens förslag: Anstånd med inbetalning av dels avdragen 
+
+preliminär skatt och arbetsgivaravgifter, dels mervärdesskatt vars 
+
+redovisningsperiod är en kalendermånad får beviljas för högst tolv 
+
+redovisningsperioder vardera. Anstånd med inbetalning av mervärdes- 
+
+skatt vars redovisningsperiod är ett kalenderkvartal får beviljas för 
+
+högst fyra redovisningsperioder. 
+
+Anstånd med inbetalning av avdragen preliminär skatt, arbetsgivar- 
+
+avgifter och mervärdesskatt vars redovisningsperiod är en kalender- 
+
+månad 
+
+eller ett kalenderkvartal får beviljas även för redovisnings- 
+
+9 
+
+Prop. 2022/23:52 perioder som infaller under 
+april–juni
+ 2022. Den bortre tidsgränsen för den ursprungliga anståndstiden för sådana skatter och avgifter senareläggs till den 12 september 2023.
+
+10
+
+Promemorians förslag överensstämmer med regeringens. Remissinstanserna: Flertalet remissinstanser, däribland Bolagsverket,
+
+Ekonomistyrningsverket, FAR, Kammarrätten i Stockholm, Kronofogdemyndigheten, Lunds universitet (juridiska fakulteten) och Srf konsulterna, tillstyrker förslagen. Almega, Företagarna, Småföretagarnas riksförbund och Näringslivets Skattedelegation, till vilka även Föreningen Svenskt Näringsliv ansluter sig (förkortat NSD m.fl.), tillstyrker förslagen men påpekar att det är av vikt att även andra aviserade stödåtgärder skyndsamt genomförs.
+
+Skatteverket tillstyrker förslagen men menar samtidigt att dessa medför en uppenbar risk för fortsatt och utökat missbruk av möjligheten till tillfälligt anstånd. Skatteverket anser därför att det är angeläget att företag som inte tidigare ansökt om och beviljats tillfälligt anstånd bör få en begränsad möjlighet att ansöka om tillfälligt anstånd, i syfte att begränsa missbruk av reglerna.
+
+Visita tillstyrker förslagen men anser att perioden för avbetalning av befintliga och nya anstånd ska utökas till fem år.
+
+Flera remissinstanser, däribland Förvaltningsrätten i Malmö, Justitiekanslern, Sveriges advokatsamfund och Åklagarmyndigheten, har inga invändningar mot förslagen. Ekobrottsmyndigheten har inget att erinra men påpekar att det på kort sikt finns behov även av andra former av stöd till livskraftiga företag och olika branscher.
+
+Konjunkturinstitutet (KI) avstyrker förslagen eftersom träffsäkerheten i dessa kan ifrågasättas och nödvändig strukturomvandling riskerar att förskjutas, vilket kan påverka den långsiktiga tillväxten negativt. KI efterfrågar vidare en tydligare motivering till och konsekvenserna av att staten i viss mån konkurrerar med privata aktörer på lånemarknaden. Slutligen anser KI att det är problematiskt att reglerna om tillfälliga anstånd ändras så ofta som skett de senaste åren.
+
+Skälen för regeringens förslag
+
+Möjligheten att bevilja anstånd enligt lagen om anstånd med inbetalning av skatt i vissa fall återinfördes den 30 mars 2020. Från och med detta datum har det således varit möjligt för Skatteverket att bevilja tillfälliga anstånd. Syftet med denna åtgärd har varit att dämpa tillfälliga likviditetsproblem som kan uppstå för i grunden sunda och livskraftiga företag med anledning av spridningen av 
+covid-19
+ och åtgärderna för att begränsa smittspridningen.
+
+Rysslands invasion av Ukraina och agerande på energimarknaden har kraftigt ändrat förutsättningarna för den europeiska energimarknaden. Svenska företag står nu inför mycket högre energipriser än tidigare vilket ger ökade produktionskostnader av en omfattning som är svår för många företag att hantera. Det finns ett behov av åtgärder för att dämpa de likviditetsproblem som kan uppkomma för företagen på grund av de höga energipriserna och osäkerheten på energimarknaden i övrigt. En åtgärd som skulle kunna vara ett komplement till andra, mer riktade åtgärder är
+
+att utöka möjligheten för Skatteverket att bevilja tillfälliga anstånd med betalning av skatter och avgifter.
+
+KI, som avstyrker förslagen, anser att träffsäkerheten i förslagen kan ifrågasättas. Regeringen gör bedömningen att tillfälliga anstånd kan bidra till att företag som i grunden är sunda och livskraftiga kan överbrygga en period av likviditetsbrist. Förslagen ger därmed en möjlighet för bolag att undvika konkurs eller avveckling genom likvidation. Det finns behov av snabba och effektiva åtgärder i rådande situation för att dämpa företags likviditetsproblem. Tillfälliga anstånd med betalning av skatter och avgifter är en åtgärd som är både effektiv och möjlig att införa med kort varsel. Det är regeringens bedömning att de företag som förslagen avser att stötta också kommer att omfattas i mycket hög grad. De tillfälliga anstånden har varit en effektiv likviditetsstärkande åtgärd under pandemin och anstånden ger även möjlighet att stötta företag som får tillfälliga likviditetsproblem som en följd av de kraftigt ökade energipriserna. Det bör lyftas fram att det likviditetsstöd som de tillfälliga anstånden innebär har utnyttjats i mycket hög utsträckning efter att reglerna återinfördes den 30 mars 2020. Den 19 december 2022 uppgick det totala antalet anståndsbeslut till ca 550 000 och gällde ca 58 500 företag. Vid samma tidpunkt uppgick det sammanlagda anståndsbeloppet till ca 70,7 miljarder kronor och det sammanlagda nettoanståndsbeloppet till ca 33,8 miljarder kronor. Detta kan ställas i relation till att det sammanlagda anståndsbeloppet uppgick till ca 6,8 miljarder kronor när en motsvarande anståndsmöjlighet fanns från mars 2009 till januari 2011 i samband med finanskrisen.
+
+Anståndsutrymmet ska utökas
+
+Ett effektivt och ändamålsenligt sätt att dämpa de likviditetsproblem som kan uppstå för företag i den rådande situationen bedöms vara att utöka det högsta antalet redovisningsperioder som anstånd kan beviljas för. En sådan åtgärd skulle innebära att företag som i grunden är sunda och livskraftiga får hjälp att hantera de höga energikostnaderna genom nya möjligheter till anstånd med inbetalning av skatter och avgifter.
+
+Som redan nämnts får anstånd enligt gällande regelverk beviljas för högst nio redovisningsperioder för avdragen preliminär skatt och arbetsgivaravgifter. Anstånd med inbetalning av mervärdesskatt som redovisas månadsvis får beviljas för högst nio redovisningsperioder, medan anstånd för mervärdesskatt som redovisas kvartalsvis får beviljas för högst tre redovisningsperioder. Det föreslås att dessa bestämmelser ska ändras på så sätt att anstånd ska kunna beviljas för högst tolv redovisningsperioder vardera för dels avdragen preliminär skatt och arbetsgivaravgifter, dels mervärdesskatt som redovisas månadsvis. När det gäller mervärdesskatt som redovisas kvartalsvis ska anstånd kunna beviljas för högst fyra redovisningsperioder. Förslaget innebär bl.a. att ett företag som redan har beviljats anstånd med inbetalning av t.ex. mervärdesskatt som redovisas månadsvis med nio redovisningsperioder, kan beviljas anstånd med inbetalning av samma typ av skatt avseende ytterligare tre redovisningsperioder. Förslaget innebär också att systemet för tillfälliga anstånd förblir enhetligt, på så sätt att taket för hur många månader anstånd kan beviljas blir tolv månader, oavsett om det rör sig om avdragen preliminär skatt och
+
+Prop. 2022/23:52
+
+11
+
+Prop. 2022/23:52 arbetsgivaravgifter eller mervärdesskatt som redovisas månadsvis eller kvartalsvis.
+
+12
+
+Med anledning av vad Skatteverket anför om att möjligheten att beviljas anstånd bör begränsas för företag som inte tidigare ansökt om och beviljats tillfälliga anstånd, anför regeringen följande. Det är naturligtvis angeläget att risken för missbruk av tillfälliga anstånd begränsas. Det kan dock ifrågasättas om Skatteverkets förslag, som innebär en relativt långtgående inskränkning av ett företags möjlighet att begära anstånd, utgör en välavvägd åtgärd för att komma åt missbruk. Dessutom innebär det en svårmotiverad skillnad mellan företag som har utnyttjat möjligheterna till anstånd och sådana som inte tidigare har gjort det. Här kan framhållas att det befintliga regelverket innehåller verktyg för att motverka att reglerna missbrukas. Syftet med reglerna är att hjälpa företag som i grunden är sunda och livskraftiga över en tillfällig, svår period med likviditetsbrist. Avsikten är inte att företag som missköter sin ekonomi eller är oseriösa på annat sätt ska gynnas. Vid införandet av lagen om anstånd med inbetalning av skatt i vissa fall framhölls därför att beviljandet av anstånd inte är helt villkorslöst (prop. 2008/09:113 s. 9), och anstånd ska enligt 2 § lagen om anstånd med inbetalning av skatt i vissa fall beviljas endast om inte särskilda skäl talar emot det. Att det i samband med ansökan finns indikationer på missbruk utgör naturligtvis skäl för att neka ansökan. En sådan indikation kan vara att det strax före ansökan genomförts styrelseändringar i företaget. En annan relevant omständighet är om F- skatten kan komma att återkallas på grund av omständigheter hänförliga till företagsledaren. Skatteverket har vidare enligt 3 § andra stycket samma lag möjlighet att i vissa situationer återkalla ett beviljat anstånd. Att den skattskyldige har lämnat felaktiga uppgifter eller undanhållit relevanta fakta eller att ett företag som har beviljats anstånd har använts som ett verktyg för att begå ekonomisk brottslighet, är omständigheter som kan utgöra grund för återkallelse (prop. 2019/20:166 s. 142). Regeringen anser mot denna bakgrund att det inte bör införas en skillnad mellan företags möjligheter att söka anstånd på det sätt som Skatteverket föreslår.
+
+Fler valbara redovisningsperioder ska införas
+
+Enligt befintliga bestämmelser får anstånd med inbetalning av avdragen preliminär skatt, arbetsgivaravgifter och mervärdesskatt som redovisas månadsvis eller kvartalsvis beviljas för redovisningsperioder som infaller under januari 
+2020–januari
+ 2021 och 
+oktober–december
+ 2021. I syfte att öka företagens valmöjligheter föreslås det att anstånd med inbetalning av nu aktuella skatter och avgifter även ska kunna beviljas för redovisningsperioder som infaller under 
+april–juni
+ 2022. Förslaget innebär att företag kan välja att ansöka om anstånd med inbetalning av aktuella skatter och avgifter avseende de redovisningsperioder under januari 2020– januari 2021, 
+oktober–december
+ 2021 och 
+april–juni
+ 2022 som ger de största lättnaderna. Antalet redovisningsperioder som anstånd kan beviljas för är dock begränsat enligt vad som föreslås ovan om en utökning av anståndsutrymmet.
+
+Av 1 § tredje stycket lagen om anstånd med inbetalning av skatt i vissa fall framgår att anståndstiden får bestämmas till längst ett år, dock längst t.o.m. den 12 februari 2023. Det finns alltså en bortre gräns för den
+
+ursprungliga anståndstiden för anstånd enligt 1 §. Det föreslås att denna bortre tidsgräns ska senareläggas till den 12 september 2023. Detta innebär i praktiken att ansökan om nya anstånd kan göras t.o.m. den 11 september 2023.
+
+Avbetalningsplan under förlängd anståndstid
+
+Som ovan nämnts framgår det av 1 c § lagen om anstånd med inbetalning av skatt i vissa fall att Skatteverket efter ansökan får förlänga anståndstiden med som längst 36 månader efter att den maximala anståndstiden enligt 1 § tredje stycket har upphört. En sådan förlängning förutsätter att Skatteverket samtidigt beviljar en avbetalningsplan, enligt vilken anståndsbeloppet ska vara avbetalt i samband med att denna ytterligare förlängda anståndstid upphör.
+
+Även sådana anstånd som beviljas med stöd av de bestämmelser som nu föreslås kommer att kunna förlängas med ytterligare som längst 36 månader och förenas med en avbetalningsplan, när den maximala anståndstiden för dessa anstånd har upphört. Mot bakgrund av vad Visita framför avseende längden på förlängningsperioderna konstaterar regeringen att, även om syftet med de tillfälliga anstånden är att underlätta för företagen, måste det samtidigt beaktas, vilket också påpekas av Ekonomistyrningsverket, att uppbördsförlusterna och kostnaderna för skattebetalarna bedöms bli större ju längre anstånd som ges. Det bör även nämnas att förslaget innebär att den sammanlagda anståndstiden kommer att kunna sträcka sig fram till september 2027. Regeringen bedömer att nu gällande regler angående längden på förlängningsperioden är väl avvägda.
+
+I detta sammanhang kan det nämnas att en avbetalningsplan av ovan nämnt slag innebär att anståndsbeloppet för ett visst anstånd ska betalas i delposter under avbetalningsperioden. Om en sådan delpost inte har betalats i rätt tid enligt avbetalningsplanen, kan en sådan skatteskuld uppstå som enligt 2 § lagen om anstånd med inbetalning av skatt i vissa fall utgör ett särskilt skäl för att avslå en ansökan om t.ex. anstånd för nya redovisningsperioder. Med särskilda skäl för avslag avses nämligen bl.a. fall där den skattskyldige har icke försumbara skatteskulder (prop. 2008/09:113 s. 9).
+
+Övriga tillämpliga bestämmelser och retroaktiva anstånd
+
+Övriga bestämmelser i lagen om anstånd med inbetalning av skatt i vissa fall kommer att vara tillämpliga på de anståndsbeslut för nya redovisningsperioder som fattas enligt nu aktuella förslag. Detta innebär bl.a., utöver det som redan har nämnts, att anstånd får beviljas efter ansökan (1 § första stycket) och att anståndstiden efter ansökan får förlängas med som längst ett år (1 § tredje stycket). Skatteverket får vidare återkalla anstånd helt eller delvis, bl.a. om ett underskott på skattekontot har lämnats till Kronofogdemyndigheten för indrivning efter att en förlängd anståndstid enligt 1 c § har beslutats eller om det finns synnerliga skäl (3 §). Av 4 och 5 §§ följer att kostnadsränta respektive anståndsavgift ska betalas under anståndstiden.
+
+Samtliga valbara redovisningsperioder som nu föreslås införas, dvs. 
+april–juni
+ 2022, har passerat. Det befintliga regelverket möjliggör dock retroaktiva anstånd, när skatt eller avgift som är hänförlig till en viss
+
+Prop. 2022/23:52
+
+13
+
+Prop. 2022/23:52 redovisningsperiod redan är inbetald när anståndet beviljas. Ett beslut om anstånd innebär i sådana fall att ett belopp motsvarande skatten eller avgiften krediteras på den skattskyldiges skattekonto. Det är därför möjligt att bevilja anstånd trots att de redovisningsperioder som omfattas av förslaget har passerat.
+
+NSD m.fl och Visita framför att det är av vikt att företrädaransvar fortsatt inte tillämpas på tillfälliga anstånd och Sveriges advokatsamfund anför att det av rättssäkerhetsskäl bör införas en reglering i SFL beträffande de tillfälliga anstånden och företrädaransvar. Dessa frågor faller utanför ramen för detta lagstiftningsärende.
+
+Lagförslag
+
+Förslagen medför ändringar i 1 § lagen om anstånd med inbetalning av skatt i vissa fall.
+
+4.3Ikraftträdande- och övergångsbestämmelser
+
+Regeringens förslag: Lagen ska träda i kraft den 13 februari 2023.
+
+Regeringens bedömning: Det behövs inga övergångsbestämmelser.
+
+Promemorians förslag och bedömning överensstämmer med regeringens.
+
+Remissinstanserna: Almega instämmer i bedömningen att reglerna bör införas så skyndsamt som möjligt. Övriga remissinstanser yttrar sig inte särskilt i denna del.
+
+Skälen för regeringens förslag och bedömning: Ändringarna bör träda i kraft så snart som möjligt. Ett tidigt ikraftträdande är viktigt bl.a. för att företag så snart som möjligt ska kunna ta del av det utökade likviditetsstöd som förslaget innebär. Det föreslås därför att lagen ska träda i kraft den 13 februari 2023.
+
+Ändringarna är inte av sådant slag att några övergångsbestämmelser behövs.
+
+4.4Konsekvensanalys
+
+I detta avsnitt redogörs för förslagens effekter i den omfattning som bedöms lämpligt i det aktuella lagstiftningsärendet och med beaktande av förordningen (2007:1244) om konsekvensutredning vid regelgivning.
+
+Regelrådet anser att konsekvensutredningen uppfyller kraven i 6 och
+
+7 §§ förordningen (2007:1244) om konsekvensutredning vid regelgivning.
+
+Befintliga regler samt förslag
+
+Möjligheten att bevilja anstånd enligt lagen om anstånd med inbetalning av skatt i vissa fall återinfördes den 30 mars 2020. Ett antal anpassningar av regelverket har därefter genomförts (se avsnitt 4.1).
+
+I denna proposition föreslås bl.a. att anstånd med inbetalning av avdragen preliminär skatt och arbetsgivaravgifter respektive mervärdesskatt
+
+14
+
+vars redovisningsperiod är en kalendermånad får beviljas för högst tolv redovisningsperioder, i stället för dagens nio redovisningsperioder. Det föreslås också att anstånd med inbetalning av mervärdesskatt vars redovisningsperiod är ett kalenderkvartal får beviljas för högst fyra redovisningsperioder, i stället för dagens tre redovisningsperioder. Vidare föreslås det att anstånd med inbetalning av nu nämnda skatter och avgifter får beviljas även för redovisningsperioder som infaller under 
+april–juni
+ 2022.
+
+Syfte och alternativa lösningar
+
+Syftet med utökningen av anståndsutrymmet är att skapa ett flexibelt stöd för företag som påverkas av den rådande osäkerheten om framtida energipriser. Anstånden bedöms vara ett effektivt komplement till andra planerade stödåtgärder till företag som riskerar att drabbas av likviditetsproblem som en följd av de höga och osäkra energipriserna.
+
+Någon alternativ lösning som uppfyller företagens behov inom samma tidsmässiga och offentligfinansiella ramar bedöms inte finnas. Skulle förslagen inte komma till stånd kan belastningen på företagens likviditet bli så stor att annars sunda och livskraftiga företag inte får en rimlig möjlighet att anpassa sin verksamhet till de nya förutsättningar som kommer att gälla med t.ex. en ökad osäkerhet om framtida energipriser.
+
+KI avstyrker förslagen. Skälen är att träffsäkerheten kan ifrågasättas och att strukturomvandlingen riskerar att förskjutas, vilket kan påverka den långsiktiga tillväxten negativt. Vidare efterlyser KI en tydligare motivering till och redovisning av konsekvenser av att staten i viss mån konkurrerar med privata aktörer på en lånemarknad. När det gäller träffsäkerheten är regeringens bedömning att de företag som förslagen avser att stötta också kommer att omfattas i mycket hög grad. Avsikten med förslagen är att företag som drabbas av likviditetsproblem på grund av höga elkostnader ska få en möjlighet till tillfälliga lättnader till dess att andra stödåtgärder har hunnit införas. Regeringen delar dock KI:s bedömning att det även finns företag som inte är drabbade av höga elkostnader som kommer att omfattas av förslagen. Detta är dock oundvikligt eftersom det inte finns någon annan möjlighet än att utforma reglerna efter generella principer, bl.a. på grund av EU:s statsstödsregler. När det gäller frågan om anståndens funktion i förhållande till existerande kreditmarknad gör regeringen följande bedömning. Det är troligt att många företag skulle kunna få motsvarande likviditetstillskott till liknande villkor även på kommersiella grunder. Det är också troligt att andra företag skulle bedömas ha en sådan kreditvärdighet att kommersiella krediter skulle vara förenade med betydligt strängare villkor eller medföra betydligt högre kostnader än vad som gäller för anstånden. Att så är fallet beror på att anståndsreglerna är mer generella än kommersiella lån, där kreditprövningen görs och villkoren bestäms efter mer individuella bedömningar. Oavsett om anstånden ersätter eller utgör ett komplement till kommersiella lån anser dock regeringen att de är motiverade. Ett viktigt skäl till detta är behovet av snabba och effektiva åtgärder i en akut situation. Den energikris som har uppstått har skapat en exceptionellt svår situation för många företag. Anstånd med betalning av skatter och avgifter är en åtgärd som är både effektiv och möjlig att införa snabbt. Den negativa sidan av anstånden är att det kan förekomma att mindre kreditvärdiga företag får skattekrediter
+
+Prop. 2022/23:52
+
+15
+
+Prop. 2022/23:52
+
+16
+
+till villkor som innebär att företagsavvecklingar som på sikt är oundvikliga fördröjs. En samlad avvägning mellan å ena sidan värdet av att på ett effektivt sätt stödja livskraftiga företag och å andra sidan i någon grad fördröja den pågående strukturomvandlingen resulterar dock i bedömningen att den föreslagna utökningen av anstånden medför ett långsiktigt värde som är större än de negativa aspekterna.
+
+Offentligfinansiell effekt
+
+En offentligfinansiell effekt av förslagen kan uppstå dels genom möjligheten att ansöka om anstånd för andra perioder än tidigare, dels genom utökningen av antalet perioder som anstånd kan beviljas för. Beräkningen av den offentligfinansiella effekten som redovisas nedan avser dock enbart utökningen av antalet redovisningsperioder. Anledningen till detta är att möjligheten att söka anstånd för andra perioder än tidigare bedöms medföra en marginell effekt jämfört med effekten av utökningen av antalet redovisningsperioder. Det beror på att effekten av att kunna ansöka om anstånd för de nya perioderna främst förväntas uppstå för företag som inte har redovisat några anståndsgrundande skatter eller avgifter avseende de perioder som tidigare var möjliga att ansöka om anstånd för.
+
+Utökningen av anståndsutrymmet påverkar de offentliga finanserna genom tre komponenter: kapitalkostnad, kreditrisk samt intäkter från räntor och avgifter. Statens kapitalkostnad uppstår genom att den förskjutning av skattebetalningen som följer av anstånden måste täckas genom ökad upplåning. Statens kreditrisk uppstår genom en ökad risk för uppbördsförluster. Till sist får staten en kompensation för den ökade kreditrisken genom den kostnadsränta och den anståndsavgift som företagen får betala för anstånden.
+
+Anståndsbeloppet
+
+Beräkningen av den offentligfinansiella effekten görs utifrån en uppskattning av dels ökningen av det totala anståndsbeloppet som följer av det ökade anståndsutrymmet, dels den takt med vilken det samlade anståndsbeloppet kommer att återbetalas. Dessa uppskattningar är svåra att göra och innefattar en del antaganden som medför att de innehåller osäkerheter som inte är helt obetydliga.
+
+Som underlag för beräkningen används Skatteverkets statistik över utvecklingen av det totala beviljade anståndsbeloppet och den del av detta anståndsbelopp som upphört. Efter att ett anstånd upphört har skatten eller avgiften antingen återbetalats till Skatteverket eller restförts hos Kronofogdemyndigheten på grund av utebliven betalning. KI bedömer att beräkningen av den offentligfinansiella effekten är rimlig. Samtidigt påpekar KI att under den period som används för att uppskatta anståndsbeloppet har kostnadsräntan för anstånd varit högre än eller lika hög som Riksbankens styrränta, medan kostnadsräntan under den period som reglerna kommer att gälla bedöms vara lägre eller lika hög som styrräntan. KI anser därför att det är sannolikt att företagens upplåning på den privata marknaden blir dyrare i förhållande till kostnaden under perioden utökningen gäller, jämfört med perioden som använts för att uppskatta beloppet. Därmed anser KI att det finns en risk att ökningen av anståndsbeloppet och den offentligfinansiella effekten underskattas. Regeringens bedöm-
+
+ning är att även om företagens kostnader för anstånd kommer att vara relativt sett lägre under den kommande perioden finns det ytterligare omständigheter som bidrar till att osäkerheten totalt sett är så stor att det inte är motiverat att justera beräkningarna enbart med anledning av relativkostnaderna för anstånd. Ett exempel är att de omständigheter som motiverar anstånden har förändrats sedan anstånden infördes. Anstånden infördes för att lindra de problem som uppstod för företagen med anledning av pandemin medan utökningen av anstånden främst görs med anledning av företagens höga elkostnader. En rimlig bedömning är att de problem som uppstod i samband med pandemin drabbade företagen mer generellt medan de höga elkostnaderna medför allvarliga konsekvenser för en mer begränsad del av alla företag. Det finns således omständigheter som talar för att anståndsbehovet är något mer begränsat jämfört med tidigare. Mot bakgrund av att det finns flera omständigheter som i vissa fall kan antas öka benägenheten att ansöka om anstånd och i andra fall verka i den andra riktningen anser regeringen att en proportionell uppräkning utifrån tidigare medgivna anstånd på ett rimligt sätt omfattar den samlade osäkerheten.
+
+Enligt Skatteverket uppgick det totala beviljade anståndsbeloppet den 19 december 2022 till 70,7 miljarder kronor. Vid samma tidpunkt hade anstånd om totalt 36,8 miljarder kronor upphört. Det utestående anståndsbeloppet uppgick således till 33,9 miljarder kronor. För att uppskatta den ökning av det samlade anståndsbeloppet som följer av förslaget om det ökade anståndsutrymmet används en jämförelse med hur anståndsbeloppet utvecklades efter att anståndsutrymmet utökades i februari 2022 (prop. 2021/22:113, bet. 2021/22:FiU44, rskr. 2021/22:169). Anståndsutrymmet utökades vid det tillfället med två månader för arbetsgivaravgifter och anställdas avdragna skatt samt med tre månader för mervärdesskatt. Mellan den 7 februari 2022 och den 19 december 2022 har det samlade anståndsbeloppet ökat med 13,7 miljarder kronor. Hela denna ökning är dock troligen inte hänförlig till det anståndsutrymme som tillkom i februari 2022. En mindre del av ökningen kan bero på att det fortfarande har funnits företag som ansökt om anstånd för andra perioder. Samtidigt kan det fortfarande komma att beviljas anstånd för det utrymme som tillkom i februari 2022. Ett inte orimligt antagande är dock att de anstånd som tillkommit efter februari, som avser de ursprungliga perioderna, beloppsmässigt motsvarar de anstånd som kommer att tillkomma efter den 19 december 2022. Med detta antagande kan det tillkommande anståndsbeloppet som blir följden av att anståndsutrymmet utökades med ytterligare fem perioder uppskattas till 13,7 miljarder kronor. Med antagandet att förändringen av anståndsbeloppet enligt detta förslag står i proportion till den tidigare förändringen av anståndsutrymmet kan ökningen av det samlade anståndsbeloppet uppskattas till 16,4 miljarder kronor (13,7 ‧ 6/5 = 16,4).
+
+Beräkningen av den offentligfinansiella effekten görs utifrån det genomsnittliga anståndsbeloppet för respektive år under den tid som de tillkommande anstånden löper. För att beräkna det genomsnittliga anståndsbeloppet måste dels en uppskattning göras av när i tiden som anstånden beviljas, dels av återbetalningstakten. Den del av anståndsbeloppet som tillkommer som en följd av det utökade anståndsutrymmet kommer att beviljas under perioden den 13 februari t.o.m. den 11 septem-
+
+Prop. 2022/23:52
+
+17
+
+Prop. 2022/23:52 ber 2023. Den första anståndsperioden kommer att uppgå till maximalt sju månader. När denna period har löpt ut kommer det att finnas möjlighet till förlängning i ytterligare ett år. Därefter kan företagen ansöka om förlängning genom avbetalningsplan i tre år till. Det innebär att det samlade anståndsbeloppet kommer att byggas upp successivt t.o.m. den 12 september 2023. Därefter kommer beloppet att gradvis minska i storlek tills de sista anstånden löper ut i slutet av år 2027. I beräkningen av det genomsnittliga anståndsbeloppet år 2023 antas att uppbygganden av beloppet sker i en takt motsvarande den när anståndsutrymmet utökades i februari 2022. Då hade efter 25 procent av tiden 50 procent av anståndsbeloppet beviljats. Efter ytterligare 25 procent av tiden hade 75 procent av anståndsbeloppet beviljats. Resterande 25 procent av anståndsbeloppet byggdes upp under den återstående tiden, som motsvarade 50 procent av den totala tiden. Det genomsnittliga anståndsbeloppet för 2023 kan med antagandet om motsvarande uppbyggnadstakt under sjumånadersperioden 13 februari t.o.m. den 11 september beräknas till 12,3 miljarder kronor
+
+((((0 + (16,4 ‧ 50 %)) / 2 ‧ (7 ‧ 25 %) / 12) + (((16,4 ‧ 50 %) + (16,4 ‧ 75 %)) / 2 ‧ (7 ‧ 25 %) / 12) + (((16,4 ‧ 75 %) + 16,4) /2 ‧ (7 ‧ 50 %) / 12) + 16,4 ‧ 4 / 12) = 12,3). När det gäller efterföljande år antas att avbetalningstakten uppgår till 50 procent av beloppet vid årets ingång. Denna avbetalningstakt bedöms motsvara den som uppvisats historiskt. Det genomsnittliga beloppet för 2024 kan därmed beräknas till 12,3 miljarder kronor ((16,4 + (16,4 ‧ 50 %)) / 2 = 12,3). För år 2025 beräknas det genomsnittliga beloppet till 6,2 miljarder kronor (((16,4 ‧ 50 %) + (16,4 ‧ 50 % ‧ 50 %)) / 2 = 6,2), för 2026 till 3,1 miljarder kronor
+
+(((16,4 ‧ 50 % ‧ 50 %) + (16,4 ‧ 50 % ‧ 50 % ‧ 50 %)) / 2 = 3,1 och för 2027 till 1,0 miljarder kronor (((16,4 ‧ 50 % ‧ 50 % ‧ 50 %) + 0) / 2 = 1,0).
+
+Kapitalkostnad, kostnadsränta och anståndsavgift
+
+Anstånd med betalning av skatt innebär att företagen ges en skattekredit. Denna skattekredit måste staten täcka genom en utökad upplåning, som i sin tur medför en räntekostnad. Statens upplåningskostnad antas motsvara den femåriga statslåneräntan, som för år 2023 prognostiseras till 2,35 procent. Med ett genomsnittligt anståndsbelopp om 12,3 miljarder kronor beräknas den offentligfinansiella kostnaden för statens upplåning därmed till 0,29 miljarder kronor (12,3 ⋅ 0,0235 = 0,29) för 2023. För 2024 beräknas kostnaden för statens upplåning till 0,29 miljarder kronor (12,3 ⋅ 0,0235 = 0,29). För 2025 beräknas kostnaden till 0,15 miljarder kronor (6,2 ‧ 0,0235 = 0,15), för 2026 beräknas den till 0,07 miljarder kronor (3,1 ‧ 0,0235 = 0,07) och för 2027 uppskattas kostnaden till 0,02 miljarder kronor (1,0 ‧ 0,0235 = 0,02).
+
+Kostnadsräntan som företagen betalar för anstånden uppgår till 2,5 procent per år och anståndsavgiften uppgår till 0,1 procent per påbörjad anståndsmånad. Den samlade kostnadsräntan och anståndsavgiften beräknas därmed till 0,46 miljarder kronor (12,3 ⋅ (0,025 + (12⋅0,001)) = 0,46) för 2023, 0,46 miljarder kronor (12,3 ⋅ (0,025 + (12 ⋅ 0,001)) = 0,46) för 2024, 0,23 miljarder kronor (6,2 ⋅ (0,025 + (12 ⋅ 0,001)) = 0,23) för 2025, 0,11 miljarder kronor (3,1 ⋅ (0,025 + (12⋅0,001)) = 0,11) för 2026 och till 0,04 miljarder kronor för 2027.
+
+18
+
+Uppbördsförluster
+
+Det är svårt att uppskatta den samlade nettoeffekten på kreditrisken av utökningen av antalet anståndsperioder. Med anstånd förlängs tiden mellan den skattepliktiga händelsen och betalningen av skatten, vilket typiskt sett ökar risken för uppbördsförluster. Samtidigt medför anstånden att företag som har tillfälliga likviditetsproblem, men som i grunden är livskraftiga, får hjälp att överbrygga denna svårighet, vilket minskar risken för uppbördsförluster. Sammantaget innebär alltså möjligheten till anstånd med inbetalning av skatter och avgifter att risken för uppbördsförluster ökar för vissa företag, samtidigt som risken minskar för andra företag.
+
+Mot denna bakgrund beräknas effekten på uppbördsförlusterna av en ökning av det samlade anståndsbeloppet på samma sätt som då reglerna för tillfälliga anstånd infördes (prop. 2019/20:132). Vid införandet antogs att statens ökade kreditrisk i form av uppbördsförluster speglades av den kostnadsränta och anståndsavgift som då gällde. Kostnadsräntan uppgick till 1,25 procent och anståndsavgiften till 0,3 procent per påbörjad anståndsmånad. I november 2022 höjde Skatteverket kostnadsräntan till 2,5 procent som en följd av att räntan på sexmånaders statsskuldsväxlar har stigit. Denna höjning påverkar dock inte uppskattningen av uppbördsförlusterna. Anledningen är att kreditrisken antas vara opåverkad av höjd ränta på statspapper. Den höjda basräntan ses i detta sammanhang som en kompensation för statens ökade upplåningskostnader. Detta innebär att ökningen av uppbördsförlusterna kan beräknas till 0,60 (12,3 ⋅ (0,0125 + (12 ⋅ 0,003)) = 0,60) miljarder kronor, där det genomsnittliga anståndsbeloppet år 2023 utgör underlag.
+
+Effekten på uppbördsförlusterna av möjligheten att förlänga anståndstiden med ett år bedömdes enligt resonemanget i samband med dessa reglers införande vara mindre (prop. 2020/21:77). Bedömningen var att uppbördsförlusterna i stället motsvarade kostnadsräntan och den då gällande anståndsavgiften om 1,25 procent per år respektive 0,2 procent per påbörjad anståndsmånad, eftersom kreditrisken bedömdes vara mindre för den grupp som förlängde anståndstiden. I brist på annat underlag görs här samma bedömning. Samma bedömning görs också avseende förslagen om ytterligare förlängning av anståndstiden för att möjliggöra avbetalning (prop. 2021/22:65). Uppbördsförlusten beräknas under detta antagande till ca 0,45 miljarder kronor på det genomsnittliga anståndsbeloppet år 2024 (12,3 ⋅ (0,0125 + (12 ⋅ 0,002)) = 0,45). På motsvarande sätt beräknas uppbördsförlusterna på det genomsnittliga anståndsbeloppet 2025 till 0,23 miljarder kronor (6,2 ⋅ (0,0125 + (12 ⋅ 0,002)) = 0,23), år 2026 till 0,11 miljarder kronor (3,1 ⋅ (0,0125 + (12⋅0,002)) = 0,11) och 2027 till 0,04 miljarder kronor (1 ‧ (0,0125 + (12,002)) = 0,04).
+
+När det gäller uppbördsförlusterna görs en annan periodisering än vid beräkningen av statens kapitalkostnad, kostnadsränta och anståndsavgift. Till skillnad mot kapitalkostnader, kostnadsräntor och anståndsavgifter, som redovisas på de år på vilka de belöper, påverkar uppbördsförlusterna det finansiella sparandet det år som ett anstånd restförs hos Kronofogdemyndigheten på grund av att det inte betalats på förfallodagen. Eftersom anstånden i sig kan medföra att företag som har svag lönsamhet kan drivas längre än som annars vore möjligt måste uppbördsförlusternas fördelning i tiden justeras. Eftersom det saknas underlag för att bedöma hur de
+
+Prop. 2022/23:52
+
+19
+
+Prop. 2022/23:52 tillfälliga anstånden påverkar restföringarna får fördelningen i stället göras utifrån det grova antagandet att 50 procent av de uppbördsförluster som beräknas på årsgenomsnittet ett visst år förskjuts till året därpå. Detta innebär att uppbördsförlusterna för år 2023 beräknas till 0,30 miljarder kronor (0,60 ‧ 50 % = 0,30). För 2024 beräknas de till 0,53 miljarder kronor ((0,60 ‧ 50 %) + 0,45 ‧ 50 %) = 0,53). Beräknat på samma sätt blir uppbördsförlusterna för 2025, 2026 och 2027 0,34 miljarder kronor, 0,17 miljarder kronor respektive 0,09 miljarder kronor ((0,45 ‧ 50%) + (0,23 ‧ 50 %) = 0,34), ((0,23 ‧ 50 %) + (0,11 ‧ 50 %) = 0,17) respektive ((0,11 ‧ 50 %) + (0,04 ‧ 50 %) = 0,09).
+
+Samlad offentligfinansiell effekt
+
+Den sammantagna offentligfinansiella effekten av att utöka antalet perioder som anstånd kan beviljas för sammanfattas i tabell 4.1. Den beräknas för 2023 till 
+-0,13
+ miljarder kronor (0,46 - 0,29 - 0,30 = 
+-0,13),
+ för 2024 till 
+-0,36
+ miljarder kronor (0,46 - 0,29 - 0,53 = 
+-0,36),
+ för 2025 till 
+-0,26
+ miljarder kronor (0,23 - 0,15 - 0,34 = 
+-0,13),
+ för 2026 till 
+-0,13
+ miljarder kronor (0,11 - 0,07 - 0,17 = 
+-0,13)
+ och för 2027 till 
+-0,07
+ miljarder kronor (0,04 - 0,02 - 0,09 = 
+-0,07).
+
+Tabell 4.1 
+
+Offentligfinansiell effekt 
+
+Miljarder kronor 
+
+Effekt från 
+
+Brutto 
+
+Periodiserad nettoeffekt 
+
+Varaktig 
+
+effekt 
+
+effekt 
+
+2023 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+2027 
+
+Ränteeffekt 
+
+2023-02-13
+
+-0,29
+
+-0,29
+
+-0,29
+
+-0,15
+
+-0,07
+
+-0,02
+
+-0,00
+
+senarelagd 
+
+skatte- 
+
+betalning 
+
+Kostnads- 
+
+2023-02-13
+
++0,46 
+
++0,46 
+
++0,46 
+
++0,23 
+
++0,11 
+
++0,04 
+
++0,00 
+
+ränta och 
+
+anstånds- 
+
+avgift 
+
+Effekt på 
+
+2023-02-13
+
+-0,30
+
+-0,30
+
+-0,53
+
+-0,34
+
+-0,17
+
+-0,09
+
+-0,00
+
+uppbörds- 
+
+förlust 
+
+Summa 
+
+2023-02-13
+
+-0,13
+
+-0,13
+
+-0,36
+
+-0,26
+
+-0,13
+
+-0,07
+
+-0,00
+
+offentligfinansiell effekt
+
+Källa: Skatteverkets anståndsstatistik och egna beräkningar.
+
+Budgetsaldo 
+
+Anstånden avser skatter som är fastställda, men inte betalda. De fastställda 
+
+skatterna, och därmed det finansiella sparandet, påverkas inte av den för- 
+
+skjutna betalningen. Däremot påverkas statens lånebehov och därmed 
+
+även budgetsaldot. 
+
+Förslaget om att öka utrymmet för tillfälliga anstånd medför att betal- 
+
+20 
+
+ningar om totalt ca 16,4 miljarder kronor kommer att förskjutas från 2023 
+
+till efterföljande år. Med de antaganden som gjorts ovan av uppbyggnads- Prop. 2022/23:52 och avbetalningstakt beräknas 8,2 miljarder kronor förskjutas till 2024
+
+(16,4 ‧ 0,5 = 8,2), 4,1 miljarder kronor förskjuts till 2025 (16,4 ‧ 0,52 = 4,1), 2,1 miljarder kronor förskjuts till 2026 (16,4 ‧ 0,53 = 2,1) och resterande belopp 2,0 miljarder kronor förskjuts till 2027. Den samlade effekten på budgetsaldot visas i tabellen nedan.
+
+Tabell 4.2 
+
+Effekt på budgetsaldot 
+
+Miljarder kronor 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+2027 
+
+Förskjutning av betalning 
+
+-16,4
+
++8,2 
+
++4,1 
+
++2,1 
+
++2,0 
+
+Effekter för företag
+
+Eftersträvade effekter
+
+Förslagen syftar till att hjälpa företag som drabbats av en tillfällig likviditetsbrist. Även företag som inte ansöker om anstånd kan gynnas eftersom åtgärden minskar tänkbara likviditetsproblem hos kunder och leverantörer. Företagen kommer visserligen att betala en ränta för anståndskrediten, men räntekostnaden har en mycket mer begränsad effekt på företagens likviditet. Kostnadsräntan och anståndsavgiften motsvarar tillsammans en avdragsgill årsränta i ett aktiebolag om 4,7 procent per år.
+
+Anstånden förbättrar förutsättningarna för företag att bedriva verksamhet under en period av ekonomisk osäkerhet, vilket i sin tur bidrar till att stabilisera den makroekonomiska utvecklingen. Detta måste dock vägas mot de risker som följer av att företagen tillåts att utan kreditprövning öka sin skuldsättning genom de tillfälliga anstånden.
+
+Berörda företag
+
+Enligt uppgifter från Skatteverket hade den 19 december 2022 totalt ca
+
+58 000 företag beviljats anstånd. Av dessa företag tillkom ca 6 000 efter att anståndsutrymmet utökades i februari 2022. Det saknas underlag för att göra en uppskattning av i vilken grad det utökade anståndsutrymmet kommer att utnyttjas av företag som redan beviljats anstånd respektive företag som inte tidigare beviljats anstånd. Det är dock troligt att den ekonomiska osäkerhet som råder just nu, med bl.a. kraftigt ökade energipriser, i inte obetydlig grad påverkar andra grupper av företag än de som tidigare var i behov av anstånd. Ett mycket grovt antagande är att det tillkommer lika många företag med anledning av det nu aktuella förslaget och att lika många företag som redan har beviljats anstånd kommer att ansöka. Med detta antagande kommer det utökade anståndsutrymmet att utnyttjas av ca 12 000 företag.
+
+De flesta företag som hittills beviljats anstånd finns inom handel, restaurang och hotell samt inom byggbranschen. Av alla företag som beviljats anstånd finns 18 procent inom handel, 16 procent har en restaurang- eller hotellverksamhet och 12 procent finns inom byggbranschen. Cirka 95 procent av alla företag som beviljats anstånd tillhör kategorierna mikroföretag eller små företag. Resterande 5 procent är
+
+medelstora eller stora företag. Av det samlade anståndsbeloppet har
+
+21
+
+Prop. 2022/23:52 35 procent beviljats mikroföretag eller små företag. Resterande 65 procent har beviljats medelstora eller stora företag.
+
+Administrativa kostnader
+
+För att beviljas anstånd måste en ansökan lämnas till Skatteverket. Mängden tillkommande information som behöver lämnas i ansökan bedöms vara begränsad, bl.a. mot bakgrund av att anstånden avser skatter och avgifter som det redan finns en skyldighet att sammanställa och redovisa för Skatteverket. Tidsåtgången för att samla in nödvändig information, sammanställa och överföra den bedöms endast undantagsvis överstiga 50 minuter. Bedömningen är att tiden för de allra flesta företag bör uppgå till mellan 10 minuter och 50 minuter, och att den genomsnittliga tiden inte bör överstiga 30 minuter.
+
+Med antagandena att den genomsnittliga tidsåtgången uppgår till 30 minuter och att ansökan sammanställs och lämnas av en kvalificerad ekonom eller jurist kan den genomsnittliga kostnaden för att ansöka om anstånd beräknas enligt följande. Enligt Statistiska centralbyråns lönestatistik för yrkesgrupper (standard för svensk yrkesklassificering, SSYK) uppgick den genomsnittliga månadslönen för revisorer och personer med liknande arbetsuppgifter till 43 900 kronor år 2020. Enligt Tillväxtverket ska den genomsnittliga månadslönen multipliceras med schablonvärdet 1,84 som inkluderar semesterersättning, arbetsgivaravgifter och olika indirekta kostnader (Tillväxtverket, Ekonomiska effekter av nya regler – Så beräknar du företagets kostnader). Med en årsarbetstid om 2 080 timmar resulterar detta i en genomsnittlig kostnad om ca 230 kronor per företag (43 900 ‧ 12 / 2 080 ⋅ 30 / 60 ⋅ 1,84 = 230).
+
+Ovan uppskattas att 12 000 företag kommer att ansöka om anstånd. Det innebär att den totala administrativa kostnaden kan uppskattas till 2,8 miljoner kronor (12 000 ‧ 230 = 2 760 000).
+
+Särskild hänsyn till mindre företag vid reglernas utformning bedöms inte vara nödvändig. Mindre företag bedöms inte ha sämre förutsättningar att hantera ansökningsförfarandet än större företag. Regelverket är vidare helt neutralt med avseende på företagens storlek.
+
+Konkurrensförhållanden
+
+Regelrådet efterlyser information om konkurrensförhållanden för berörda företag. Regelrådet gör bedömningen att den möjlighet som anstånden medför att företag utan kreditprövning kan öka sin skuldsättning innebär en risk att konkurser för mindre konkurrenskraftiga företag i vissa fall senareläggs. Regeringen delar uppfattningen att det finns en viss risk att konkurser som är oundvikliga kan fördröjas i vissa fall. Regeringens bedömning är dock att anstånden har en liten påverkan på företagens konkurrensförhållanden. Den viktigaste anledningen till denna bedömning är att anstånden endast är en temporär åtgärd som på längre sikt inte bör ha någon märkbar betydelse för strukturomvandlingen i näringslivet. Till detta ska läggas att anståndsförfarandet innefattar en viss grundläggande kreditprövning, dels genom att det finns ett krav på betalning av skatter och avgifter historiskt, dels genom att de företag som är berättigade till anstånd per automatik är begränsade till dem som har sådan livskraft att
+
+22
+
+de historiskt har kunnat betala löner, arbetsgivaravgifter och mervärdes- Prop. 2022/23:52 skatt.
+
+Effekter för myndigheter och allmänna förvaltningsdomstolar
+
+Förslagen medför tillkommande kostnader för Skatteverket för en ökad ärendehantering som Skatteverket preliminärt beräknar till 31 miljoner kronor.
+
+Det bedöms inte finnas något behov av särskilda informationsinsatser 
+
+förutom Skatteverkets information om möjligheten att ansöka om ytter- 
+
+ligare anstånd. Det är av vikt att företag får information om denna möj- 
+
+lighet i tid för att kunna planera sin verksamhet. 
+
+Tillkommande kostnader för Skatteverket kan hanteras inom befintliga 
+
+ekonomiska ramar. 
+
+När det gäller effekter för de allmänna förvaltningsdomstolarna görs 
+
+bedömningen att det främst är de bestämmelser som innebär att anstånd 
+
+kan beviljas för fler redovisningsperioder som skulle kunna leda till att 
+
+vissa beslut överklagas till de allmänna förvaltningsdomstolarna. Enligt 
+
+uppgifter från Skatteverket hade totalt 104 avslagsbeslut efter ansökan om 
+
+tillfälliga anstånd överklagats per den 15 december 2021. Mot den bak- 
+
+grunden finns det inte anledning att räkna med att den nu föreslagna 
+
+utökningen av möjligheterna till tillfälliga anstånd kommer att medföra 
+
+annat än en marginell ökning av antalet mål. Därmed ryms tillkommande 
+
+kostnader för de allmänna förvaltningsdomstolarna inom befintliga ekono- 
+
+miska ramar. 
+
+Effekter för den ekonomiska jämställdheten 
+
+Genom att företagen får utökade möjligheter till skattekrediter gynnas 
+
+indirekt även företagsägare. Eftersom män är överrepresenterade som 
+
+företagare indikerar det att förslaget kan komma att gynna män i högre 
+
+utsträckning än kvinnor. Eftersom förslaget är tillfälligt bedöms dock inte 
+
+effekterna för den ekonomiska jämställdheten mellan kvinnor och män 
+
+som långtgående. 
+
+Det kan även vara så att gruppen kvinnor påverkas i förhållande till grup- 
+
+pen män i egenskap av anställda, om det är så att könssammansättningen 
+
+av anställda bland företag som beviljats anstånd skiljer sig från arbets- 
+
+givare som inte har beviljats anstånd. Det saknas dock information om hur 
+
+sammansättningen av anställda ser ut i de företag som beviljats anstånd. 
+
+Förslagens förenlighet med 
+EU-rätten
+
+Förslagen bedöms vara förenliga med 
+EU-rätten.
+
+Övriga effekter 
+
+Åtgärden är tidsbegränsad och förväntas därför inte ha några nämnvärda 
+
+effekter när det gäller miljön. Direkta effekter för enskilda och offentlig 
+
+sektor och fördelningseffekter kan också anses vara kortfristiga. Åtgärdens 
+
+kortfristiga effekt är samtidigt betydelsefull för anställda och andra 
+
+intressenter i de företag som har problem med likviditeten och som 
+
+utnyttjar möjligheten till anstånd för fler redovisningsperioder. 
+
+23 
+
+Prop. 2022/23:52 
+
+5 
+
+Författningskommentar 
+
+5.1Förslaget till lag om ändring i lagen (2009:99) om anstånd med inbetalning av skatt i vissa fall
+
+1 §
+
+I paragrafen finns bestämmelser om anstånd med inbetalning av skatt i vissa fall.
+
+Ändringen i första stycket innebär att Skatteverket efter ansökan i andra fall än som avses i 63 kap. 
+3–5,
+ 7, 7 a, 
+11–15
+ och 23 §§ skatteförfarandelagen (2011:1244), utöver för redovisningsperioder som infaller under januari 
+2020–januari
+ 2021 och 
+oktober–december
+ 2021, även får bevilja anstånd för sådana redovisningsperioder som infallit under 
+april–juni
+ 2022.
+
+Ändringen i andra stycket innebär att anstånd med inbetalning av avdragen preliminär skatt och arbetsgivaravgifter får beviljas för högst tolv redovisningsperioder. Anstånd med inbetalning av mervärdesskatt får beviljas för högst tolv redovisningsperioder om redovisningsperioden är en kalendermånad, och för högst fyra redovisningsperioder om redovisningsperioden är ett kalenderkvartal. Detta innebär att anstånd för mervärdesskatt kan beviljas för sammanlagt tolv månader, oavsett om redovisningsperioden är en kalendermånad eller ett kalenderkvartal.
+
+Ändringen i tredje stycket innebär att anståndstiden för anstånd enligt denna paragraf som längst får bestämmas till ett år, dock längst t.o.m. den
+
+12september 2023. Eftersom de ändringar som nu föreslås ska träda i kraft den 13 februari 2023 kommer denna s.k. ursprungliga anståndstid i praktiken som längst kunna bestämmas till sju månader. Enligt nuvarande bestämmelser får den ursprungliga anståndstiden efter ansökan förlängas med som längst ett år. Ändringen innebär att en sådan förlängningsperiod som längst kan sträcka sig fram t.o.m. den 12 september 2024.
+
+Övervägandena finns i avsnitt 4.
+
+6Ändringar i statens budget för 2023
+
+6.1Ändrad beräkning av statens inkomster
+
+Regeringens förslag: Den ändrade beräkningen av inkomster i statens budget för 2023 som redovisas i tabell 6.1 godkänns.
+
+Skälen för regeringens förslag: I detta avsnitt lämnas förslag till en ny inkomstberäkning för de inkomsttitlar som påverkas av de förslag som lämnas i denna proposition (avsnitt 4). Den ändrade inkomstberäkningen redovisas i tabell 6.1. Av tabellen framgår bruttoeffekten av förslagen på respektive inkomsttitel.
+
+24
+
+Tabell 6.1 
+
+Ändrad beräkning av statens inkomster för 2023 
+
+Prop. 2022/23:52 
+
+Tusental kronor 
+
+Bruttoeffekt 
+
+Godkänd 
+
+av åtgärd på 
+
+Inkomsttitel 
+
+beräkning 
+
+Ny beräkning 
+
+inkomstsidan 
+
+1612 
+
+Restförda skatter, 
+
+-6
+ 523 773 
+
+-6
+ 823 773 
+
+-300
+ 000 
+
+företag 
+
+1931 
+
+Anstånd 
+
+10 600 000 
+
+-5
+ 800 000 
+
+-16
+ 400 000 
+
+2811 
+
+Övriga inkomster av 
+
+4 820 462 
+
+5 280 462 
+
+460 000 
+
+statens verksamhet 
+
+Förslaget om utökade möjligheter till tillfälliga anstånd med inbetalning av skatt påverkar inkomsttitel 1612 Restförda skatter, företag under inkomsthuvudgrupp 1600 Restförda och övriga skatter. Enligt den av riksdagen godkända beräkningen för 2023 uppgår inkomsttitel 1612 Restförda skatter, företag till 
+-6
+ 524 miljoner kronor (prop. 2022/23:1 Förslag till statens budget, finansplan och skattefrågor, bet. 2022/23:FiU1, rskr. 2022/23:51). Prognosen har reviderats ned med 300 miljoner kronor till följd av förslaget om utökade möjligheter till tillfälliga anstånd med inbetalning av skatt.
+
+Förslaget om utökade möjligheter till tillfälliga anstånd med inbetalning av skatt påverkar även inkomsttitel 1931 Anstånd under inkomsthuvudgrupp 1900 Periodiseringar. Enligt den av riksdagen godkända beräkningen för 2023 uppgår inkomsttitel 1931 Anstånd till 10 600 miljoner kronor (samma beslut som ovan). Prognosen har reviderats ned med 16 400 miljoner kronor till följd av förslaget om utökade möjligheter till tillfälliga anstånd med inbetalning av skatt.
+
+Förslaget om utökade möjligheter till tillfälliga anstånd med inbetalning av skatt påverkar dessutom inkomsttitel 2811 Övriga inkomster av statens verksamhet under inkomsthuvudgrupp 2800 Övriga inkomster av statens verksamhet. Enligt den av riksdagen godkända beräkningen för 2023 uppgår inkomsttitel 2811 Övriga inkomster av statens verksamhet till 4 820 miljoner kronor (samma beslut som ovan). Prognosen har reviderats upp med 460 miljoner kronor till följd av förslaget om utökade möjligheter till tillfälliga anstånd med inbetalning av skatt.
+
+Mot denna bakgrund föreslår regeringen att den ändrade beräkningen av inkomster i statens budget för 2023 som redovisas i tabell 6.1 godkänns.
+
+6.2Ändringar av statens utgifter
+
+Utgiftsområde 6 Försvar och samhällets krisberedskap
+
+1:1 Förbandsverksamhet och beredskap
+
+I statens budget för innevarande år finns för detta ändamål uppfört ett anslag på 51 453 048 000 kronor.
+
+Vidare har regeringen ett bemyndigande att under innevarande år besluta om beställningar av materiel och anläggningar som inklusive tidigare
+
+25
+
+Prop. 2022/23:52 
+
+åtaganden medför behov av 
+
+framtida 
+
+anslag 
+
+på 
+
+högst 
+
+24 700 000 000 kronor 
+2024–2028.
+
+Regeringens förslag: Anslaget 1:1 Förbandsverksamhet och bered- 
+
+skap ökas med 349 500 000 kronor. 
+
+Regeringen bemyndigas att under 2023 för anslaget 1:1 För- 
+
+bandsverksamhet och beredskap besluta om beställningar av materiel 
+
+och anläggningar som inklusive tidigare åtaganden medför behov av 
+
+framtida anslag på högst 24 860 000 000 kronor 
+2024–2028.
+
+Skälen för regeringens förslag: Anslaget används bl.a. för att bibehålla 
+
+materielens eller anläggningens tekniska förmåga eller prestanda. 
+
+Riksdagen har bemyndigat regeringen att besluta om att skänka försvars- 
+
+materiel till Ukraina (bet. 2022/23:FiU27, rskr. 2022/23:14). I denna pro- 
+
+position föreslås regeringen bemyndigas att skänka ytterligare materiel till 
+
+Ukraina (se anslaget 1:3 Anskaffning av materiel och anläggningar). 
+
+Överföringen av materiel till Ukraina medför bl.a. kostnader för transport 
+
+av materielen och säkerhetsskyddsåtgärder. Anslaget bör därför ökas med 
+
+349 500 000 kronor. 
+
+För att kunna återanskaffa materiel motsvarande det som tidigare har 
+
+skänkts till Ukraina behöver även beställningar göras som medför 
+
+ekonomiska åtaganden kommande år. Dessa beställningar bedöms inte 
+
+rymmas inom det befintliga bemyndigandet. Bemyndigandet bör därför 
+
+ökas med 160 000 000 kronor. 
+
+1:3 Anskaffning av materiel och anläggningar 
+
+I statens budget för innevarande år finns för detta ändamål uppfört ett 
+
+anslag på 27 949 405 000 kronor. 
+
+Vidare har regeringen ett bemyndigande att under innevarande år besluta 
+
+om beställningar och avveckling av materiel och anläggningar som 
+
+inklusive tidigare åtaganden medför behov av framtida anslag på högst 
+
+144 100 000 000 kronor 
+2024–2031.
+
+Regeringens förslag: Regeringen bemyndigas att under 2023 för 
+
+anslaget 1:3 Anskaffning av materiel och anläggningar besluta att till 
+
+Ukraina skänka försvarsmateriel i form av granatgevär med ammuni- 
+
+tion, pansarskott, pansarvärnsrobot 57, automatgevär, minröjnings- 
+
+utrustning och stridsfordon 90 med ammunition, som kan avvaras av 
+
+Försvarsmakten under en begränsad 
+
+tid, till 
+
+ett värde 
+
+om 
+
+högst 
+
+4 349 000 000 kronor. 
+
+Anslaget 1:3 Anskaffning av materiel och anläggningar ökas med 
+
+1 337 600 000 kronor. 
+
+Regeringen bemyndigas att under 2023 för anslaget 1:3 Anskaffning 
+
+av materiel och anläggningar besluta om beställningar och avveckling 
+
+av materiel och anläggningar som inklusive tidigare åtaganden medför 
+
+behov av framtida anslag på högst 149 684 700 000 kronor 
+2024–2031.
+
+Skälen för regeringens förslag: Anslaget används bl.a. för att finan- 
+
+siera utveckling, anskaffning, återanskaffning och avveckling av anslags- 
+
+26 
+
+finansierad materiel och anläggningar. 
+
+Ukraina har efterfrågat stöd i form av försvarsmateriel. Landet bedöms Prop. 2022/23:52 vara i behov av bl.a. pansarvärnsvapen och bepansrade fordon. Denna
+
+materiel behövs även fortsättningsvis för Försvarsmaktens verksamhet, men bedöms under en begränsad tid kunna avvaras som stöd till Ukraina. Sverige har ett utrikes- och säkerhetspolitiskt intresse av att tillhandahålla den efterfrågade materielen till Ukraina.
+
+Enligt 8 kap. 6 § budgetlagen (2011:203) får regeringen besluta om överlåtelse av lös egendom, om egendomen inte längre behövs för statens verksamhet eller blivit obrukbar eller om den inte anskaffats med statens medel. För att regeringen ska kunna skänka den ovan nämnda materielen till Ukraina krävs därför riksdagens bemyndigande.
+
+Regeringen bör mot denna bakgrund bemyndigas att besluta att till Ukraina skänka försvarsmateriel i form av granatgevär med ammunition, pansarskott, pansarvärnsrobot 57, automatgevär, minröjningsutrustning och stridsfordon 90 med ammunition, som kan avvaras av Försvarsmakten under en begränsad tid, till ett värde om högst 4 349 000 000 kronor.
+
+Med hänsyn till Försvarsmaktens behov och det säkerhetspolitiska läget är det av stor betydelse att återanskaffning av materiel, motsvarande det som nu föreslås skänkas och det som tidigare har skänkts till Ukraina, kan ske skyndsamt. Anslaget bör därför ökas med 1 337 600 000 kronor.
+
+För att kunna återanskaffa materiel motsvarande det som nu föreslås skänkas och det som tidigare har skänkts till Ukraina, behöver även beställningar som medför ekonomiska åtaganden kommande år göras. Bemyndigandet bör därför ökas med 5 584 700 000 kronor.
+
+Utförsel av försvarsmateriel som utgör krigsmateriel enligt lagen (1992:1300) om krigsmateriel kräver tillstånd enligt samma lag.
+
+Utgiftsområde 21 Energi
+
+1:12 Gasprisstöd
+
+Något anslag för detta ändamål finns inte uppfört på statens budget för innevarande år.
+
+Regeringens förslag: Ett nytt anslag 1:12 Gasprisstöd förs upp på statens budget med 150 000 000 kronor. Anslaget får användas för stöd till hushåll till följd av höga gaspriser under perioden oktober 2021– september 2022. Anslaget får även användas för ersättning till gasnätföretagen för administrativa kostnader för att överföra stödet till hushållen och för Statens energimyndighets administration av stödet.
+
+Skälen för regeringens förslag: Sedan hösten 2021 har priserna på gas 
+
+snabbt ökat till mycket höga nivåer, vilket har medfört att många hushåll 
+
+som använder gas fått kraftigt höjda kostnader. Det gäller i synnerhet 
+
+kunder längs det västsvenska naturgassystemet, som är en del av det sam- 
+
+manlänkade europeiska gasnätet. Regeringen har tidigare presenterat ett 
+
+elstöd för hushåll som förväntas kunna betalas ut fr.o.m. februari 2023. Ett 
+
+tillfälligt ekonomiskt stöd bör också införas för hushåll i södra Sverige 
+
+med gas som energikälla. 
+
+Stödet kommer att betalas ut i efterhand under 2023, och innebär att 
+
+hushållen får en ersättning på högst 79 öre per uppmätt kilowattimme. För 
+
+27 
+
+Prop. 2022/23:52 hushåll som inte har förbrukningsmätning kommer stödet att beräknas utifrån den genomsnittliga förbrukningen för dessa hushåll.
+
+Gasprisstödet avses handläggas av Statens energimyndighet. Myndigheten kommer att betala ut stödet till gasnätföretagen, för vidarebefordran till hushållen. Myndigheten kommer att behöva upprätta nya rutiner och vidta andra åtgärder för en snabb handläggning.
+
+Mot denna bakgrund bör ett nytt anslag 1:12 Gasprisstöd föras upp på statens budget med 150 000 000 kronor. Anslaget bör få användas för stöd till hushåll till följd av höga gaspriser under perioden oktober 2021– september 2022. Anslaget bör även få användas för ersättning till gasnätföretagen för administrativa kostnader för att överföra stödet till hushållen och för Statens energimyndighets administration av stödet
+
+Finansiering sker delvis genom att anslaget 1:2 Verket för innovationssystem: Forskning och utveckling inom utgiftsområde 24 Näringsliv minskas med 50 000 000 kronor.
+
+Utgiftsområde 24 Näringsliv
+
+1:2 Verket för innovationssystem: Forskning och utveckling
+
+I statens budget för innevarande år finns för detta ändamål uppfört ett anslag på 3 439 755 000 kronor.
+
+Regeringens förslag: Anslaget 1:2 Verket för innovationssystem:
+
+Forskning och utveckling minskas med 50 000 000 kronor.
+
+Skälen för regeringens förslag: Anslaget används bl.a. för utgifter för behovsmotiverad forsknings- och utvecklingsverksamhet samt utveckling av innovationssystem.
+
+För att bidra till finansieringen av anslaget 1:12 Gasprisstöd inom utgiftsområde 21 Energi minskas anslaget med 50 000 000 kronor. Minskningen bedöms påverka verksamheten som finansieras från anslaget genom att vissa insatser inte kan genomföras i samma utsträckning som tidigare planerats.
+
+6.3 Konsekvenser för statens budget
+
+De förslag som lämnas i denna proposition innebär att anvisade medel 
+
+sammantaget ökar med 1,8 miljarder kronor 2023. De ökade utgifterna 
+
+beräknas försämra statens finansiella sparande med 1,8 miljarder kronor 
+
+och öka statens lånebehov med motsvarande belopp. 
+
+De föreslagna förändringarna av beställningsbemyndigandena på för- 
+
+svarsområdet medför ökade utgifter om totalt 5,7 miljarder kronor 2024– 
+
+2027. De ökade utgifterna beräknas försämra statens finansiella sparande 
+
+med 2,6 miljarder kronor 2024, 1,8 miljarder kronor 2025, 0,7 miljarder 
+
+kronor 2026 och 0,7 miljarder kronor 2027. Statens lånebehov beräknas 
+
+öka med motsvarande belopp. 
+
+På inkomstsidan av statens budget lämnas förslag om tillfälliga anstånd 
+
+med inbetalning av skatt som beräknas minska statens inkomster med 
+
+28 
+
+16,4 miljarder kronor 2023. Inkomsterna beräknas i stället öka med 
+
+8,2 miljarder kronor 2024, 4,1 miljarder kronor 2025, 2,1 miljarder kronor 2026 och 2,0 miljarder kronor 2027. Statens lånebehov beräknas öka 2023 och minska 
+2024–2027
+ med motsvarande belopp. Statens finansiella sparande förstärks med 0,2 miljarder kronor 2023 och försämras med 0,1 miljarder kronor per år 
+2024–2027.
+ I redovisningen av det finansiella sparandet hänförs skatter till året för den underliggande ekonomiska aktiviteten, medan lånebehovet mäter inbetalningarna av skatt. Förslaget om anstånd med betalning av skatt får därför en annan effekt på lånebehovet än på det finansiella sparandet.
+
+Sammantaget beräknas statens finansiella sparande försämras med 1,6 miljarder kronor 2023, 2,7 miljarder kronor 2024, 1,9 miljarder kronor 2025, 0,8 miljarder kronor 2026 och 0,7 miljarder kronor 2027. Statens sammanlagda lånebehov beräknas öka med 18,2 miljarder kronor 2023, samt minska med 5,6 miljarder kronor 2024, 2,3 miljarder kronor 2025, 1,4 miljarder kronor 2026 och 1,3 miljarder kronor 2027.
+
+Prop. 2022/23:52
+
+29
+
+Prop. 2022/23:52 Bilaga 1
+
+30
+
+Promemorians sammanfattning
+
+I promemorian föreslås vissa ändringar i lagen (2009:99) om anstånd med inbetalning av skatt i vissa fall.
+
+Det föreslås bl.a. att anstånd med inbetalning av dels avdragen preliminär skatt och arbetsgivaravgifter, dels mervärdesskatt vars redovisningsperiod är en kalendermånad får beviljas för högst tolv redovisningsperioder vardera. För mervärdesskatt vars redovisningsperiod är ett kalenderkvartal får anstånd beviljas för högst fyra redovisningsperioder. Vidare föreslås det att anstånd för nu nämnda skatter och avgifter får beviljas även för redovisningsperioder som infaller under 
+april–juni
+ 2022. Det föreslås slutligen att den bortre tidsgränsen för den ursprungliga anståndstiden för nämnda skatter och avgifter senareläggs till den 12 september 2023.
+
+Lagändringarna föreslås träda i kraft den 13 februari 2023.
+
+Promemorians lagförslag
+
+Prop. 2022/23:52 Bilaga 2
+
+Härigenom föreskrivs att 1 § lagen (2009:99) om anstånd med inbetalning av skatt i vissa fall ska ha följande lydelse.
+
+Nuvarande lydelse 
+
+Föreslagen lydelse 
+
+1 §1 
+
+Skatteverket får efter ansökan i 
+
+Skatteverket får efter ansökan i 
+
+andra fall än som avses i 63 kap. 
+
+andra fall än som avses i 63 kap. 
+
+3–5,
+ 7, 7 a, 
+11–15
+ och 23 §§ skatte- 
+
+3–5,
+ 7, 7 a, 
+11–15
+ och 23 §§ skatte- 
+
+förfarandelagen 
+
+(2011:1244) 
+
+förfarandelagen 
+
+(2011:1244) 
+
+bevilja anstånd för redovisnings- 
+
+bevilja anstånd för redovisnings- 
+
+perioder som 
+
+infaller 
+
+under 
+
+perioder som infaller 
+
+under 
+
+januari 
+2020–januari
+ 2021 
+
+och 
+
+januari 
+2020–januari
+
+2021, 
+
+okto- 
+
+oktober–december
+ 2021 med 
+
+ber–december
+ 2021 och 
+april–juni
+
+inbetalning av 
+
+2022 med inbetalning av 
+
+1.avdragen skatt och arbetsgivaravgifter som ska redovisas i en arbetsgivardeklaration enligt 26 kap. 19 § 1 skatteförfarandelagen, och
+
+2.mervärdesskatt som ska redovisas i en sådan deklaration som avses i 26 kap. 5 § skatteförfarandelagen, och vars redovisningsperiod är en kalendermånad eller ett kalenderkvartal enligt 26 kap. 10 och 11 §§ samma lag.
+
+Anstånd enligt första stycket 1 
+
+Anstånd enligt första stycket 1 får 
+
+får beviljas för högst nio redovis- 
+
+beviljas för högst tolv redovis- 
+
+ningsperioder. 
+
+Anstånd 
+
+enligt 
+
+ningsperioder. 
+
+Anstånd 
+
+enligt 
+
+första stycket 2 får beviljas för 
+
+första stycket 2 får beviljas för 
+
+högst nio redovisningsperioder om 
+
+högst tolv redovisningsperioder om 
+
+redovisningsperioden är en kalen- 
+
+redovisningsperioden är en kalen- 
+
+dermånad, och för högst tre redo- 
+
+dermånad, och för högst fyra redo- 
+
+visningsperioder om redovisnings- 
+
+visningsperioder om redovisnings- 
+
+perioden är ett kalenderkvartal. 
+
+perioden är ett kalenderkvartal. 
+
+Anståndstiden får bestämmas till 
+
+Anståndstiden får bestämmas till 
+
+längst ett år, dock längst till och 
+
+längst ett år, dock längst till och 
+
+med den 12 februari 2023. 
+
+med den 12 september 2023. 
+
+Anståndstiden 
+
+får 
+
+efter ansökan 
+
+Anståndstiden 
+
+får 
+
+efter ansökan 
+
+förlängas med som längst ett år. 
+
+förlängas med som längst ett år. 
+
+Anståndsbeloppet 
+
+ska 
+
+betalas 
+
+Anståndsbeloppet 
+
+ska 
+
+betalas 
+
+senast 
+
+den 
+
+förfallodag 
+
+enligt 
+
+senast 
+
+den 
+
+förfallodag 
+
+enligt 
+
+62 kap. 
+
+9 § första 
+
+stycket 
+
+skatte- 
+
+62 kap. 
+
+9 § första 
+
+stycket 
+
+skatte- 
+
+förfarandelagen som infaller när- 
+
+förfarandelagen som infaller när- 
+
+mast efter det att anståndstiden 
+
+mast efter det att anståndstiden 
+
+upphör. 
+
+upphör. 
+
+Denna lag träder i kraft den 13 februari 2023.
+
+1 Senaste lydelse 2021:297. 
+
+31 
+
+Prop. 2022/23:52 Bilaga 3
+
+32
+
+Förteckning över remissinstanserna
+
+Efter remiss har yttranden över promemorian Utökade möjligheter till tillfälliga anstånd med inbetalning av skatt kommit in från Almega, Bolagsverket, Domstolsverket, Ekobrottsmyndigheten, Ekonomistyrningsverket, FAR, Föreningen Svensk Handel, Föreningen Svenskt Näringsliv, Företagarna, Förvaltningsrätten i Malmö, Förvaltningsrätten i Uppsala, Justitiekanslern, Kammarrätten i Stockholm, Konjunkturinstitutet, Kronofogdemyndigheten, Lunds universitet (juridiska fakulteten), Näringslivets Skattedelegation, Regelrådet, Riksgäldskontoret, Småföretagarnas Riksförbund, Srf konsulterna, Sveriges advokatsamfund, Visita och Åklagarmyndigheten.
+
+Följande remissinstanser har angett att de avstår från att yttra sig: Riksdagens ombudsmän (JO), Riksrevisionen och Tillväxtverket. Följande remissinstanser har inte svarat: Lantbrukarnas Riksförbund (LRF), Svenska resebyrå- och arrangörsföreningen (SRF) och Teknikföretagen.
+
+Finansdepartementet
+
+Utdrag ur protokoll vid regeringssammanträde den 26 januari 2023
+
+Närvarande: statsminister Kristersson, ordförande, och statsråden Busch, Billström, Svantesson, Ankarberg Johansson, Edholm, J Pehrson, Jonson, Roswall, Forssmed, Tenje, Forssell, Slottner, M Persson, Wykman, Kullgren, Liljestrand, Brandberg, Bohlin, Carlson, Pourmokhtari
+
+Föredragande: statsråden Busch, Svantesson, Jonson
+
+Regeringen beslutar proposition 2022/23:52 Extra ändringsbudget för 2023 – Stöd till Ukraina samt åtgärder riktade till företag och hushåll till följd av höga energipriser
+
+Prop. 2022/23:52
+
+33
