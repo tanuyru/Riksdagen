@@ -15,7 +15,7 @@ namespace Riksdagen
             bool removeSourceOnSuccess = false)
         {
 
-            if (!string.IsNullOrEmpty(emptyDir) && Directory.Exists(emptyDir))
+            if (!string.IsNullOrEmpty(emptyDir) && !Directory.Exists(emptyDir))
             {
                 Directory.CreateDirectory(emptyDir);
             }
@@ -39,9 +39,9 @@ namespace Riksdagen
                     try
                     {
                         var lines = File.ReadAllLines(file);
-                        if (lines.Any(l => !l.Contains("Förslag till riksdagsbeslut")))
+                        if (!lines.Any(l => l.Contains("Förslag till riksdagsbeslut")))
                         {
-                            continue;
+                           // continue;
                         }
                         fileCounter++;
 
@@ -87,7 +87,13 @@ namespace Riksdagen
                     {
                         Console.WriteLine("Error while processingfile " + file);
                         Console.WriteLine(ex.ToString());
-                        File.Copy(file, failDir + Path.GetFileName(file), true);
+                        try
+                        {
+                            File.Copy(file, failDir + Path.GetFileName(file), true);
+                        }catch(Exception ex2)
+                        {
+                            Console.WriteLine("Some bafoon has some file open!?");
+                        }
                     }
                 }
             }

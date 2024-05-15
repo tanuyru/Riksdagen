@@ -32,12 +32,17 @@ namespace Riksdagen.Import
             currentRows = rows.ToList();
         }
 
+        List<string> summaryTitles = new List<string>()
+        {
+            "ropositionens liuvudsakliga innehåll",
+            "propositionens huvudsakliga innehåll",
+        };
         public string GetSummary()
         {
             for(int i = 0; i < currentRows.Count; i++)
             {
                 var row = currentRows[i].ToLower().Trim();
-                if (row.Contains("propositionens huvudsakliga innehåll"))
+                if (summaryTitles.Any(row.Contains))
                 {
                     return ReadSummary(currentRows, i);
                 }
@@ -46,7 +51,7 @@ namespace Riksdagen.Import
                     if (currentRows.Count > i + 1)
                     {
                         var nextRow = currentRows[i + 1].ToLower();
-                        if (nextRow.StartsWith("huvudsakliga innehåll"))
+                        if (nextRow.StartsWith("huvudsakliga innehåll") || nextRow.StartsWith("liuvudsakliga innehåll"))
                         {
                             return ReadSummary(currentRows, i + 1);
                         }
