@@ -15,4 +15,7 @@ var outputDir = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionert
 var emptyDir = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\empty\";
 var failDir = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\failed\";
 
-new Parser().ParseAndSave(inputDirs.ToArray(), outputDir, failDir, emptyDir, false);
+var copyInput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\parsed\";
+var copyOutput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\parsed\summary\";
+
+new FileSelector().CopyFiles<HtmlParsedResult>(copyInput, copyOutput, (r) => !string.IsNullOrEmpty(r.Summary));
