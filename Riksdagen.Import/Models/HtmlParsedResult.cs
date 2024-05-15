@@ -8,7 +8,7 @@ namespace Riksdagen.Import.Models
 {
     public class HtmlParsedResult
     {
-        public List<DocSection> Sections { get; set; } = new List<DocSection>();
+        public List<DocSection>? Sections { get; set; } = null;
         public string? Summary { get; set; }
     }
 

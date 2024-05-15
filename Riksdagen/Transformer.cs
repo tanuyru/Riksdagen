@@ -24,10 +24,6 @@ namespace Riksdagen
                 Title = dok.dokument.titel,
                 Status = dok.dokument.status,
                 DokumentTyp = dok.dokument.doktyp,
-                Beteckning = dok.dokument.beteckning,
-                Rm = dok.dokument.rm,
-                HtmlFormat = dok.dokument.htmlformat,
-                UnformattedHtml = dok.dokument.html,
 
             };
 

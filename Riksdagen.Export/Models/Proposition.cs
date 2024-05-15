@@ -22,19 +22,15 @@ namespace Riksdagen.Export.Models
 
         public string Title { get; set; } = default!;
 
-        public string HtmlFormat { get; set; } = default!;
-
-
-        public string UnformattedHtml { get; set; } = default!;
-
         public string Status { get; set; } = default!;
         public DateTime? DokDate { get; set; } = default!;
 
+        public string PropName { get; set; } = default!;
 
-        // These two together seems to create another unique id: [Rm]:[Beteckning].
-        // Can probably be used to link to voting on this so saving...
-        public string Rm { get; set; } = default!;  
-        public string Beteckning { get; set; } = default!;
+        public string? Summary { get; set; }
+
+
+        public List<RiksdagsForslag> Suggestions { get; set; } = new List<RiksdagsForslag>();
 
     }
 }
