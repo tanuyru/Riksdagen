@@ -36,23 +36,41 @@ namespace Riksdagen.Import
         {
             for(int i = 0; i < currentRows.Count; i++)
             {
-                var row = currentRows[i];
-                if (row.Contains("Propositionens huvudsakliga innehåll"))
+                var row = currentRows[i].ToLower().Trim();
+                if (row.Contains("propositionens huvudsakliga innehåll"))
                 {
-                    StringBuilder sb = new StringBuilder();
-                    for (int j = i+1; j < currentRows.Count; j++)
+                    return ReadSummary(currentRows, i);
+                }
+                else if (row.StartsWith("propositionens"))
+                {
+                    if (currentRows.Count > i + 1)
                     {
-                        var sumRow = currentRows[j];
-                        if (sumRow.Trim() == "1")
+                        var nextRow = currentRows[i + 1].ToLower();
+                        if (nextRow.StartsWith("huvudsakliga innehåll"))
                         {
-                            return sb.ToString();
+                            return ReadSummary(currentRows, i + 1);
                         }
-                        sb.AppendLine(sumRow);
                     }
-                    return sb.ToString();
                 }
             }
             return null;
+        }
+        string ReadSummary(List<string> rows, int startIdx)
+        {
+            // Failsafe to not read whole document if we dont find pagenumber correctly
+            const int MaxRowsForSummary = 100;
+            StringBuilder sb = new StringBuilder();
+            for (int j = startIdx; j < rows.Count && j < startIdx+MaxRowsForSummary; j++)
+            {
+                var sumRow = currentRows[j];
+                // Assume we reahed end of page and only one page for summary.
+                if (sumRow.Trim() == "1" || sumRow.Trim() == "2")
+                {
+                    return sb.ToString();
+                }
+                sb.AppendLine(sumRow);
+            }
+            return sb.ToString();
         }
         public List<DocSection> ParseSections()
         {
@@ -181,7 +199,6 @@ namespace Riksdagen.Import
             {
                 currSection.Text = sb.ToString();
             }
-            Console.WriteLine("Done parsing rows");
             return index;
         }
         bool TryReadSection(List<DocSection> sections, string row, string nextRow, out string id, out string rest)
