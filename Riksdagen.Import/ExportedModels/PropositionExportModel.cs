@@ -52,6 +52,21 @@ namespace Riksdagen.Import.ExportedModels
 
         public string UnformattedHtml { get; set; } = default!;
         public HtmlParsedResult? ParsedResult { get; set; } = default!;
+        public bool IsRight()
+        {
+            return HasTag(TagHelper.leftRightCenter, "left");
+        }
+        public bool HasTag(string tagType, string tagValue)
+        {
+            if (Tags == null)
+                return false;
+            if (Tags.TryGetValue(tagType, out var foundVal))
+            {
+                if (foundVal == tagValue)
+                    return true;
+            }
+            return false;
+        }
         public string Status { get; set; } = default!;
         public DateTime? DokDate { get; set; } = default!;
 

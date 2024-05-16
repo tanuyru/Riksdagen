@@ -24,8 +24,8 @@ var csvInput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propscsv\";
 var doneOutput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\pipeline\pipelineoutput\";
 var outputFile = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\pipeline\output.tsv";
 
-var testFile = doneOutput + "\\test.tsv";
-var trainFile = doneOutput + "\\train.tsv";
+var testFile = doneOutput + "\\..\\test.tsv";
+var trainFile = doneOutput + "\\..\\train.tsv";
 Exporter.ExportTrainAndTestData(doneOutput, new DateTime(1990, 10, 4), new DateTime(2010, 10, 8), testFile, trainFile);
 
 return;

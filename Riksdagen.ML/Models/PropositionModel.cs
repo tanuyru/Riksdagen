@@ -11,11 +11,12 @@ namespace Riksdagen.ML.Models
     {
         public const int IdCol = 0;
         public const int DateCol = 1;
-        public const int SummaryCol = 6;
+        public const int SummaryCol = 7;
         public const int OrganCol = 4;
         public const int GuessedOrganCol = 5;
         public const int RegeringCol = 2;
         public const int LeftRightCol = 3;
+        public const int IsRightCol = 6;
         [LoadColumn(IdCol)]
         public string Id { get; set; }
         [LoadColumn(DateCol)]
@@ -31,5 +32,18 @@ namespace Riksdagen.ML.Models
         public string Regering { get; set; }
         [LoadColumn(LeftRightCol)]
         public string LeftRight { get; set; }
+        [LoadColumn(IsRightCol), ColumnName("Label")]
+        public bool IsRight { get; set; }
+
+        
+    }
+
+    public class PropositionPrediction : PropositionModel
+    {
+
+        [ColumnName("PredictedLabel")]
+        public bool Prediction { get; set; }
+
+        public float Score { get; set; }
     }
 }

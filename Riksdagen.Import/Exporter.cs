@@ -26,6 +26,9 @@ namespace Riksdagen.Import
                    .Append("Organ")
                    .Append(seperator)
                    .Append("GuessedOrgan")
+
+                   .Append(seperator)
+                   .Append("IsRight")
                    .Append(seperator)
                    .Append("Summary")
                    .AppendLine();
@@ -42,8 +45,11 @@ namespace Riksdagen.Import
                     .Append(m.Organ)
                     .Append(seperator)
                     .Append(m.GuessedOrgan)
+                         .Append(seperator)
+                    .Append(m.IsRight().ToString())
                     .Append(seperator)
-                    .Append(m.ParsedResult.Summary)
+                    .Append(m.ParsedResult.GetCleanSummary())
+               
                     .AppendLine();
             }
             var csvData = sb.ToString();

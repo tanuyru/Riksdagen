@@ -12,6 +12,12 @@ namespace Riksdagen.Import.Models
         public string? Summary { get; set; }
         public string? Footer { get; set; }
         public string DokumentId { get; set; }
+        public string? GetCleanSummary()
+        {
+            if (Summary == null)
+                return null;
+            return Summary.Replace(System.Environment.NewLine, " ");
+        }
     }
 
     
