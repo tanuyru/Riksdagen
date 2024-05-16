@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Riksdagen.Import.ExportedModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -38,7 +39,6 @@ namespace Riksdagen.Import
 
             // Saves HtmlParsedResult (Summary and possible sections-info if parsed successfully)
             parser.ParseAndSave(inputDirs, tempDir, failDir, emptyDir, removeSourceOnSuccess);
-
             // Load data dictionary for meta data from csv-files
             var csvImporter = new CsvImporter();
             var propJsonData = csvImporter.ImportBaseFromCsv(csvInputDir);
@@ -50,6 +50,26 @@ namespace Riksdagen.Import
             // Match HtmlParsedResults with data from the CSV-file to create final model
             var fileSelector = new FileSelector();
             fileSelector.CopyAndCreate(tempDir, outputDir, dictionary, m => !string.IsNullOrEmpty(m?.ParsedResult?.Summary));
+
+            ClearDir(tempDir);
+
+            var allData = FileSelector.LoadFromDir<PropositionExportModel>(outputDir); // Read finished models
+            FileSelector.FixOrgan(allData); // Sets the GuessOrgan by guessing which department it would be in today
+            TagHelper.TagByRegering(allData); // Tag data by regering and left right center;
+
+            ClearDir(outputDir);
+
+            Exporter.ExporCsvtModels(outputDir, allData);
+
+
+            // Save to output
+        }
+        static void ClearDir(string inputDir)
+        {
+            foreach(var f in Directory.GetFiles(inputDir))
+            {
+                File.Delete(f);
+            }
         }
     }
 }

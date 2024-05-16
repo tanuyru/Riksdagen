@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Riksdagen.Import
 {
-    internal class FileSelector
+    public class FileSelector
     {
         public void CopyFiles<T>(string inputDir, string outputDir, Func<T, bool> filterFunc, Func<string,T> creatorFunc = null)
         {
@@ -89,7 +89,7 @@ namespace Riksdagen.Import
                         var transformedJson = JsonSerializer.Serialize(res);
                         File.WriteAllText(outputName, transformedJson);
                         numCopied++;
-                        Console.WriteLine("Found file, "+numTotal+" and copied " + outputName);
+                       // Console.WriteLine("Found file, "+numTotal+" and copied " + outputName);
                     }
                 }
                 catch (Exception ex)

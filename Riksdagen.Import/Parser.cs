@@ -35,7 +35,6 @@ namespace Riksdagen.Import
 
                 foreach (var file in Directory.GetFiles(dir))
                 {
-                    Console.WriteLine("Processing " + file);
                     try
                     {
                         var lines = File.ReadAllLines(file);
@@ -72,7 +71,6 @@ namespace Riksdagen.Import
                         else
                         {
                             File.WriteAllText(outputFilename, JsonSerializer.Serialize(res));
-                            Console.WriteLine("Successfully wrote file " + outputFilename + " to disk");
                             successCounter++;
                             if (removeSourceOnSuccess)
                             {

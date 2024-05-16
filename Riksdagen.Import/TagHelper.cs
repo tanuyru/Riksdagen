@@ -4,11 +4,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace Riksdagen.Import
 {
     public class TagHelper
     {
+        public const string regeringsName = "regeringsnamn";
+        public const string leftRightCenter = "leftrightcenter";
         public static void TagByRegering<T>(IEnumerable<T> models)
                where T : ITaggable, IDatable
         {
@@ -38,7 +41,7 @@ namespace Riksdagen.Import
                 "Carlsson",
                 "Persson",
                 "Andersson",
-
+                "Löfven",
             };
 
             List<string> centerNames = new List<string>
@@ -53,8 +56,6 @@ namespace Riksdagen.Import
                 "Reinfeldt",
                 "Kristersson",
             };
-            const string regeringsName = "regeringsnamn";
-            const string leftRightCenter = "leftrightcenter";
             TagByDate(models, regeringsName, endDates);
             Action<T> tagFunc = (t) =>
             {
@@ -72,7 +73,7 @@ namespace Riksdagen.Import
                 }
                 else
                 {
-                    throw new Exception("Should have tagged all models with known names");
+                    throw new Exception("Should have tagged all models with known names "+ t.GetTag(regeringsName));
                 }
             };
             ApplyActionFunc(models, tagFunc);

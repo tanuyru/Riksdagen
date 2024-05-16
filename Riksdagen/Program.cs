@@ -21,6 +21,10 @@ var copyInput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionert
 var copyOutput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\parsed\summary\organ\";
 
 var csvInput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propscsv\";
+var doneOutput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\pipeline\pipelineoutput\";
+var outputFile = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\pipeline\output.tsv";
+//Exporter.ExportFromTo(doneOutput, doneOutput);
+
 
 Console.WriteLine("Starting complete pipeline...");
 Pipeline.RunSummaryPipeline(inputDirs.ToArray(),
