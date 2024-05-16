@@ -9,6 +9,24 @@ namespace Riksdagen.Import
 {
     public class Pipeline
     {
+        // Easier use
+        public static void RunSummaryPipeline(
+            string inputDir,
+            string outputDir,
+            string csvInputDir)
+        {
+            var emptyDir = Path.Combine(outputDir, "empties\\");
+            var failDir = Path.Combine(outputDir, "failed\\");
+            var tempEmpty = Path.Combine(outputDir, "tempdir\\");
+            RunSummaryPipeline(
+                new[] { inputDir },
+                tempEmpty,
+                outputDir,
+                failDir,
+                emptyDir,
+                csvInputDir,
+                false);
+        }
         /// <summary>
         /// Reads summary from propsitions .txt format and outputs models with dokument meta-data as well as their summary.
         /// Filters any proposition not containing summary.
@@ -59,7 +77,7 @@ namespace Riksdagen.Import
 
             ClearDir(outputDir);
 
-            Exporter.ExporCsvtModels(outputDir, allData);
+            Exporter.ExporCsvtModels(outputDir+"models.tsv", allData);
 
 
             // Save to output
