@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Riksdagen.Import.ExportedModels
 {
+  
     public class PropositionSummary
     {
         public string DocumentId { get; set; } = default!;

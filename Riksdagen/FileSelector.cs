@@ -110,5 +110,155 @@ namespace Riksdagen
         }
 
       
+        public static List<T> LoadFromDir<T>(string inputDir)
+        {
+            var l = new List<T>();
+            foreach(var f in Directory.GetFiles(inputDir))
+            {
+                var txt = File.ReadAllText(f);
+                var obj = JsonSerializer.Deserialize<T>(txt);
+                l.Add(obj);
+            }
+            return l;
+        }
+        public static void SaveToDir<T>(List<T> list, string outputDir, Func<T,string> filenameFunc)
+        {
+            foreach(var t in list)
+            {
+                var fn = outputDir + filenameFunc(t);
+                File.WriteAllText(fn, JsonSerializer.Serialize<T>(t));
+            }
+        }
+        const string FiDep = "finansdepartementet";
+        const string JuDep = "justitiedepartementet";
+        const string SoDep = "socialdepartementet";
+        const string UDDep = "utrikesdepartementet";
+        const string UbDep = "utbildningsdepartementet";
+        const string AmDep = "arbetsmarknadsdepartementet";
+        const string KNDep = "klimat- och näringslivsdepartementet";
+        const string LIDep = "landsbygds- och infrastrukturdepartementet";
+        const string StBr = "statsrådsberedningen";
+        const string FvDep = "försvarsdepartementet";
+        const string KuDep = "kulturdepartementet";
+
+        public static int FixOrgan(List<PropositionExportModel> models)
+        {
+            var organsDictionary = new Dictionary<string, HashSet<string>>
+            {
+                { FiDep, new HashSet<string>() },
+                { JuDep, new HashSet<string>() },
+                { SoDep, new HashSet<string>() },
+                { UDDep, new HashSet<string>() },
+                { UbDep, new HashSet<string>() },
+                { AmDep, new HashSet<string>() },
+                { FvDep, new HashSet<string>() },
+                { KNDep, new HashSet<string>() },
+                { LIDep, new HashSet<string>() },
+                { StBr, new HashSet<string>() },
+                { KuDep, new HashSet<string>() },
+
+            };
+            // Finansdep
+            organsDictionary[FiDep].Add("fi");
+            organsDictionary[FiDep].Add("finansdepartementet-");
+
+            // Justitie
+            organsDictionary[JuDep].Add("ju");
+            organsDictionary[JuDep].Add("justitiedepartement");
+            organsDictionary[JuDep].Add("justitedepartementet");
+
+            // Socialdep
+            organsDictionary[SoDep].Add("s");
+            organsDictionary[SoDep].Add("integrations- och jämställdhetsdepartementet");
+            organsDictionary[SoDep].Add("civildepartementet");
+            organsDictionary[SoDep].Add("kommunikationsdepartementet");
+            // UD
+            organsDictionary[UDDep].Add("ud");
+            organsDictionary[UDDep].Add("-utrikesdepartementet");
+
+            // Utbildning
+            organsDictionary[UbDep].Add("u");
+            organsDictionary[UbDep].Add("u t.o.m. 1 jan-07");
+            organsDictionary[UbDep].Add("u t.o.m. -04");
+            organsDictionary[UbDep].Add("utbildningsdepartementet)");
+
+            // AM
+            organsDictionary[AmDep].Add("a");
+
+            // Försvar
+            organsDictionary[FvDep].Add("fö");
+
+            // Klimat & Näring
+            organsDictionary[KNDep].Add("näringsdepartemetet");
+            organsDictionary[KNDep].Add("näringsdepartementet");
+            organsDictionary[KNDep].Add("n");
+            organsDictionary[KNDep].Add("närings¶ och handelsdepartementet");
+            organsDictionary[KNDep].Add("näringsdepartemetet");
+            organsDictionary[KNDep].Add("miljö- och energidepartementet");
+            organsDictionary[KNDep].Add("miljödepartementet");
+            organsDictionary[KNDep].Add("m");
+            organsDictionary[KNDep].Add("m  t.o.m. 1 jan-07");
+            organsDictionary[KNDep].Add("m t.o.m. -04");
+            organsDictionary[KNDep].Add("m");
+            organsDictionary[KNDep].Add("närings- och handelsdepartementet");
+
+            // Kultur
+            organsDictionary[KuDep].Add("ku");
+            organsDictionary[KuDep].Add("kud");
+            organsDictionary[KuDep].Add("kud t.o.m. -04");
+
+
+            // Landsbygd
+            organsDictionary[LIDep].Add("l");
+            organsDictionary[LIDep].Add("miljö- och naturresursdepartementet");
+            organsDictionary[LIDep].Add("inrikesdepartementet");
+            organsDictionary[LIDep].Add("miljö- och samhällsbyggnadsdepartementet");
+            organsDictionary[LIDep].Add("jordbruksdepartementet");
+            organsDictionary[LIDep].Add("jo");
+            organsDictionary[LIDep].Add("jordbruksdepartemetet");
+
+
+            // Statsrådsberedning
+            organsDictionary[StBr].Add("sb");
+
+            int numFixed = 0;
+            int numRemoved = 0;
+            foreach (var model in models.ToList())
+            {
+                if (model.Organ == null)
+                    continue;
+                model.Organ = model.Organ.ToLower();
+                bool ok = true;
+                if (!organsDictionary.ContainsKey(model.Organ))
+                {
+                    ok = false;
+                    foreach(var kvp in organsDictionary)
+                    {
+                        if (kvp.Value.Contains(model.Organ))
+                        {
+                            model.GuessedOrgan = kvp.Key;
+                            numFixed++;
+                            ok = true;
+                            break;
+                        }
+                    }
+                }
+                else
+                {
+                    model.GuessedOrgan = model.Organ;
+                }
+                if (!ok)
+                {
+                    Console.WriteLine("Removing " + model.Organ);
+                    models.Remove(model);
+                    numRemoved++;
+                }
+            }
+
+            Console.WriteLine("Fixed " + numFixed + ", removed: " + numRemoved);
+            return numFixed;
+        }
+
+
     }
 }

@@ -7,8 +7,24 @@ using System.Threading.Tasks;
 
 namespace Riksdagen.Import.ExportedModels
 {
-    public class PropositionExportModel
+    public interface ITaggable
     {
+        void ApplyTag(string tagType, string tagValue);
+    }
+    public interface IDatable
+    {
+        DateTime? DokDate { get; set; }
+    }
+
+    public class PropositionExportModel : ITaggable, IDatable
+    {
+        public void ApplyTag(string tagType, string tagValue)
+        {
+            if (Tags == null)
+                Tags = new Dictionary<string, string>();
+            Tags.Remove(tagType);
+            Tags.Add(tagType, tagValue);
+        }
         /// <summary>
         /// Unique between all documents?
         /// </summary>
@@ -18,6 +34,8 @@ namespace Riksdagen.Import.ExportedModels
         /// Which "Utskott" ?
         /// </summary>
         public string? Organ { get; set; }
+
+        public string? GuessedOrgan { get; set; }
 
         public string DokumentTyp { get; set; } = default!;
 
@@ -30,7 +48,7 @@ namespace Riksdagen.Import.ExportedModels
         public string Status { get; set; } = default!;
         public DateTime? DokDate { get; set; } = default!;
 
-
+        public Dictionary<string, string>? Tags { get; set; } = default!;
         // These two together seems to create another unique id: [Rm]:[Beteckning].
         // Can probably be used to link to voting on this so saving...
         public string Rm { get; set; } = default!;  

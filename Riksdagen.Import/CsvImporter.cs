@@ -42,7 +42,7 @@ namespace Riksdagen.Import
         const int PropPerfixCol = 2;
         const int PropPostfixCol = 3;
         const int DokTypCOl = 4;
-        const int OrganShortCol = 9;
+        const int OrganShortCol = 8;
         const int DokDateCol = 11;
         const int TitleCol = 13;
         const int StatusCol = 14;
@@ -55,14 +55,14 @@ namespace Riksdagen.Import
             {
                 return null;
             }
-            var idCol = cols[IdCol];
-            var propPrefixCol = cols[PropPerfixCol];
-            var propPostFixCol = cols[PropPostfixCol];
-            var dokTypCol = cols[DokTypCOl];
-            var orgCol = cols[OrganShortCol];
-            var dateCol = cols[DokDateCol];
-            var statusCol = cols[StatusCol];
-
+            var idCol = cols[IdCol].Trim().Trim('"');
+            var propPrefixCol = cols[PropPerfixCol].Trim().Trim('"');
+            var propPostFixCol = cols[PropPostfixCol].Trim().Trim('"');
+            var dokTypCol = cols[DokTypCOl].Trim().Trim('"');
+            var orgCol = cols[OrganShortCol].Trim().Trim('"');
+            var dateCol = cols[DokDateCol].Trim().Trim('"');
+            var statusCol = cols[StatusCol].Trim().Trim('"');
+            var titleCol = cols[TitleCol].Trim().Trim('"');
             // All documents should have Id right?
             if (string.IsNullOrEmpty(idCol))
             {
@@ -83,9 +83,15 @@ namespace Riksdagen.Import
             model.Rm = propPrefixCol;
             model.Organ = orgCol;
             model.DokumentTyp = dokTypCol;
+            model.Title = titleCol;
+
             if (DateTime.TryParse(dateCol, out var dokDate))
             {
                 model.DokDate = dokDate;
+            }
+            else if (dokDate != null)
+            {
+                Console.WriteLine("Cant parse date: " + dokDate);
             }
             return model;
         }
