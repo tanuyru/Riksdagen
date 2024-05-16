@@ -59,5 +59,15 @@ namespace Riksdagen.Import
             var models = FileSelector.LoadFromDir<PropositionExportModel>(inputPath);
             ExporCsvtModels(outputFileName, models);
         }
+
+        public static void ExportTrainAndTestData(string inputPath, DateTime startDate, DateTime splitDate, string testFileName = "test.tsv", string trainFileName = "train.tsv")
+        {
+            var models = FileSelector.LoadFromDir<PropositionExportModel>(inputPath);
+            var train = models.Where(m => m.DokDate.Value >= startDate && m.DokDate.Value < splitDate).ToList();
+            var test = models.Where(m => m.DokDate.Value >= splitDate).ToList();
+
+            ExporCsvtModels(trainFileName, train);
+            ExporCsvtModels(testFileName, test);
+        }
     }
 }

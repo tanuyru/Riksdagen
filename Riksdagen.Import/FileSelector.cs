@@ -79,18 +79,20 @@ namespace Riksdagen.Import
                     var id = Path.GetFileNameWithoutExtension(f).ToLower();
 
                     var obj = creatorFunc(jsonText);
-                    var res = dictionary[id]; // just throw exception
 
-                    if (!string.IsNullOrEmpty(res.Organ))
-                    { 
-                        res.ParsedResult = obj;
+                    var res = dictionary[id]; // just throw exception
+                    res.ParsedResult = obj;
+                    if (!filterFunc(res))
+                    {
+                        continue;
+                    }
+
 
                     var outputName = outputDir + Path.GetFileName(f);
-                        var transformedJson = JsonSerializer.Serialize(res);
-                        File.WriteAllText(outputName, transformedJson);
-                        numCopied++;
-                       // Console.WriteLine("Found file, "+numTotal+" and copied " + outputName);
-                    }
+                    var transformedJson = JsonSerializer.Serialize(res);
+                    File.WriteAllText(outputName, transformedJson);
+                    numCopied++;
+                    // Console.WriteLine("Found file, "+numTotal+" and copied " + outputName);
                 }
                 catch (Exception ex)
                 {
@@ -99,7 +101,7 @@ namespace Riksdagen.Import
                     Console.WriteLine(ex.ToString());
                 }
             }
-            Console.WriteLine("Done with " + numCopied + "/" + numTotal);
+            Console.WriteLine("Done with " + numCopied + "/" + numTotal+" failed: "+numFailed);
         }
         public static PropositionExportModel TransformFunc(HtmlParsedResult input, string fileName, Dictionary<string, PropositionExportModel> dic)
         {
@@ -250,7 +252,7 @@ namespace Riksdagen.Import
                 if (!ok)
                 {
                     Console.WriteLine("Removing " + model.Organ);
-                    models.Remove(model);
+                    //models.Remove(model);
                     numRemoved++;
                 }
             }

@@ -64,7 +64,6 @@ namespace Riksdagen.Import
                             if (!string.IsNullOrEmpty(emptyDir))
                             {
                                 File.Copy(file, emptyDir + Path.GetFileName(file), true);
-                                Console.WriteLine("File was empty moved to empty folder");
                             }
                            
                         }

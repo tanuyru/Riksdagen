@@ -5,11 +5,15 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Riksdagen", "Riksdagen\Riksdagen.csproj", "{41272226-4DEC-4960-BC85-5881E808FBAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Riksdagen.Import", "Riksdagen.Import\Riksdagen.Import.csproj", "{937AD9AB-D8A9-4C3C-9456-3E2C8A02098D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Riksdagen.Import", "Riksdagen.Import\Riksdagen.Import.csproj", "{937AD9AB-D8A9-4C3C-9456-3E2C8A02098D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Riksdagen.Export", "Riksdagen.Export\Riksdagen.Export.csproj", "{83911BC4-21B0-4A10-A71E-E455DE4330D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Riksdagen.Export", "Riksdagen.Export\Riksdagen.Export.csproj", "{83911BC4-21B0-4A10-A71E-E455DE4330D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Riksdagen.Import.Test", "Riksdagen.Import.Test\Riksdagen.Import.Test.csproj", "{3F0F9F5D-EB04-48F0-A0E4-9C0975B1A7BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Riksdagen.Import.Test", "Riksdagen.Import.Test\Riksdagen.Import.Test.csproj", "{3F0F9F5D-EB04-48F0-A0E4-9C0975B1A7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Riksdagen.ML", "Riksdagen.ML\Riksdagen.ML.csproj", "{80F550BB-563B-44E4-BFF7-59A448D71CE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Riksdagen.Constants", "Riksdagen.Constants\Riksdagen.Constants.csproj", "{8B516211-DC62-49F4-87C6-C57125EE74A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{3F0F9F5D-EB04-48F0-A0E4-9C0975B1A7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F0F9F5D-EB04-48F0-A0E4-9C0975B1A7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F0F9F5D-EB04-48F0-A0E4-9C0975B1A7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F550BB-563B-44E4-BFF7-59A448D71CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F550BB-563B-44E4-BFF7-59A448D71CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F550BB-563B-44E4-BFF7-59A448D71CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F550BB-563B-44E4-BFF7-59A448D71CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B516211-DC62-49F4-87C6-C57125EE74A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B516211-DC62-49F4-87C6-C57125EE74A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B516211-DC62-49F4-87C6-C57125EE74A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B516211-DC62-49F4-87C6-C57125EE74A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

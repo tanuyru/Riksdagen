@@ -315,6 +315,8 @@ namespace Riksdagen.Import
             double? lastParsedSection = null;
             do
             {
+                if (rows.Count < count + 3)
+                    break;
                 var sectionNumber = rows[count];
                 string prev = null;
                 string next = null;
@@ -372,6 +374,8 @@ namespace Riksdagen.Import
                 {
                     name = rows[count + 1];
                 }
+                if (rows.Count <= count + 2)
+                    break;
                 page = rows[count + 2].Trim();
                 curr = count + 2;
                 string orgName = name.Trim();

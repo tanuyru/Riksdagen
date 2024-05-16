@@ -68,14 +68,15 @@ namespace Riksdagen.Import
             // Match HtmlParsedResults with data from the CSV-file to create final model
             var fileSelector = new FileSelector();
             fileSelector.CopyAndCreate(tempDir, outputDir, dictionary, m => !string.IsNullOrEmpty(m?.ParsedResult?.Summary));
-
-            ClearDir(tempDir);
+           
+          //  ClearDir(tempDir);
 
             var allData = FileSelector.LoadFromDir<PropositionExportModel>(outputDir); // Read finished models
             FileSelector.FixOrgan(allData); // Sets the GuessOrgan by guessing which department it would be in today
             TagHelper.TagByRegering(allData); // Tag data by regering and left right center;
-
             ClearDir(outputDir);
+
+            FileSelector.SaveToDir(allData, outputDir, t => t.DokumentId.ToLower() + ".json");
 
             Exporter.ExporCsvtModels(outputDir+"models.tsv", allData);
 
