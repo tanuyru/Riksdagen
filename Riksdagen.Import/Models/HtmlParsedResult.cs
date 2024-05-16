@@ -10,6 +10,8 @@ namespace Riksdagen.Import.Models
     {
         public List<DocSection>? Sections { get; set; } = null;
         public string? Summary { get; set; }
+        public string? Footer { get; set; }
+        public string DokumentId { get; set; }
     }
 
     

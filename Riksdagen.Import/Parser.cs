@@ -7,9 +7,9 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace Riksdagen
+namespace Riksdagen.Import
 {
-    internal class Parser
+    public class Parser
     {
         public void ParseAndSave(string[] inputDirs, string outputDir, string failDir, string emptyDir,
             bool removeSourceOnSuccess = false)
@@ -39,10 +39,7 @@ namespace Riksdagen
                     try
                     {
                         var lines = File.ReadAllLines(file);
-                        if (!lines.Any(l => l.Contains("Förslag till riksdagsbeslut")))
-                        {
-                           // continue;
-                        }
+                        
                         fileCounter++;
 
                         var parser = new PropositionParserTxt(lines);
@@ -59,6 +56,8 @@ namespace Riksdagen
                         var res = new HtmlParsedResult();
                         res.Summary = summary;
                         res.Sections = sections;
+                        res.Footer = PropositionParserTxt.GuessFooter(lines);
+                        res.DokumentId = Path.GetFileNameWithoutExtension(file).ToLower();
                         var outputFilename = outputDir + Path.GetFileNameWithoutExtension(file) + ".json";
                         if ((res.Sections == null || res.Sections.Count == 0) &&
                             (string.IsNullOrEmpty(res.Summary)))

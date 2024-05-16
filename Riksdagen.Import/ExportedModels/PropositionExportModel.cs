@@ -10,6 +10,7 @@ namespace Riksdagen.Import.ExportedModels
     public interface ITaggable
     {
         void ApplyTag(string tagType, string tagValue);
+        string? GetTag(string tagType);
     }
     public interface IDatable
     {
@@ -24,6 +25,12 @@ namespace Riksdagen.Import.ExportedModels
                 Tags = new Dictionary<string, string>();
             Tags.Remove(tagType);
             Tags.Add(tagType, tagValue);
+        }
+        public string? GetTag(string tagType)
+        {
+            if (Tags != null && Tags.TryGetValue(tagType, out var tagValue))
+                return tagValue;
+            return null;
         }
         /// <summary>
         /// Unique between all documents?
@@ -53,5 +60,7 @@ namespace Riksdagen.Import.ExportedModels
         // Can probably be used to link to voting on this so saving...
         public string Rm { get; set; } = default!;  
         public string Beteckning { get; set; } = default!;
+
+        public string? Footer { get; set; }
     }
 }

@@ -30,9 +30,52 @@ namespace Riksdagen.Import
             endDates.Add(new DateTime(2021, 7, 9), "Löfven 2");
             endDates.Add(new DateTime(2021, 11, 30), "Löfven 3");
             endDates.Add(new DateTime(2022, 10, 18), "Andersson");
-            endDates.Add(DateTime.MaxValue, "Kristesson");
+            endDates.Add(DateTime.MaxValue, "Kristersson");
 
-            TagByDate(models, "regeringnamn", endDates);
+            List<string> leftNames = new List<string>
+            {
+                "Palme",
+                "Carlsson",
+                "Persson",
+                "Andersson",
+
+            };
+
+            List<string> centerNames = new List<string>
+            {
+                "Fälldin",
+                "Ullsten",
+            };
+
+            List<string> rightNames = new List<string>
+            {
+                "Bildt",
+                "Reinfeldt",
+                "Kristersson",
+            };
+            const string regeringsName = "regeringsnamn";
+            const string leftRightCenter = "leftrightcenter";
+            TagByDate(models, regeringsName, endDates);
+            Action<T> tagFunc = (t) =>
+            {
+                if (leftNames.Any(name => t.GetTag(regeringsName).StartsWith(name)))
+                {
+                    t.ApplyTag(leftRightCenter, "left");
+                }
+                else if (centerNames.Any(name => t.GetTag(regeringsName).StartsWith(name)))
+                {
+                    t.ApplyTag(leftRightCenter, "center");
+                }
+                else if (rightNames.Any(name => t.GetTag(regeringsName).StartsWith(name)))
+                {
+                    t.ApplyTag(leftRightCenter, "right");
+                }
+                else
+                {
+                    throw new Exception("Should have tagged all models with known names");
+                }
+            };
+            ApplyActionFunc(models, tagFunc);
         }
             public static void TagByDate<T>(IEnumerable<T> models, string tagType, Dictionary<DateTime, string> tagsPerEndDate)
              where T : ITaggable, IDatable

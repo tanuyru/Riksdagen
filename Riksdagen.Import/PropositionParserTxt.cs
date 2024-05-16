@@ -6,6 +6,7 @@ using System.Linq;
 using System.Reflection;
 using System.Security.Cryptography;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace Riksdagen.Import
@@ -29,7 +30,8 @@ namespace Riksdagen.Import
         private string? pageFooter;
         public PropositionParserTxt(IEnumerable<string> rows)
         {
-            currentRows = rows.ToList();
+            currentRows = RemoveEmptyRows(rows.ToList());
+            pageFooter = GuessFooter(currentRows);
         }
 
         List<string> summaryTitles = new List<string>()
@@ -42,9 +44,11 @@ namespace Riksdagen.Import
             for(int i = 0; i < currentRows.Count; i++)
             {
                 var row = currentRows[i].ToLower().Trim();
+                if (row.Length < 3)
+                    continue;
                 if (summaryTitles.Any(row.Contains))
                 {
-                    return ReadSummary(currentRows, i);
+                    return ReadSummary(currentRows, i+1);
                 }
                 else if (row.StartsWith("propositionens"))
                 {
@@ -53,7 +57,23 @@ namespace Riksdagen.Import
                         var nextRow = currentRows[i + 1].ToLower();
                         if (nextRow.StartsWith("huvudsakliga innehåll") || nextRow.StartsWith("liuvudsakliga innehåll"))
                         {
-                            return ReadSummary(currentRows, i + 1);
+                            return ReadSummary(currentRows, i + 2);
+                        }
+                        else if (nextRow.StartsWith("huvudsakliga") && currentRows.Count > i + 2)
+                        {
+                            var nextNextRow = currentRows[i + 3].ToLower();
+                            if (nextNextRow.StartsWith("innehåll") || nextNextRow.StartsWith("innehåll"))
+                            {
+                                return ReadSummary(currentRows, i + 3);
+                            }
+                        }
+                    }
+                    else if (currentRows.Count > i + 2)
+                    {
+                        var nextRow = currentRows[i + 2].ToLower();
+                        if (nextRow.StartsWith("huvudsakliga innehåll") || nextRow.StartsWith("liuvudsakliga innehåll"))
+                        {
+                            return ReadSummary(currentRows, i + 2);
                         }
                     }
                 }
@@ -71,15 +91,60 @@ namespace Riksdagen.Import
                 // Assume we reahed end of page and only one page for summary.
                 if (sumRow.Trim() == "1" || sumRow.Trim() == "2")
                 {
-                    return sb.ToString();
+                    return CleanSummary(sb);
                 }
                 sb.AppendLine(sumRow);
             }
-            return sb.ToString();
+            return CleanSummary(sb);
+        }
+        string CleanSummary(StringBuilder sb)
+        {
+            var result = sb.ToString();
+            if (string.IsNullOrEmpty(result.Trim()))
+            {
+                return null;
+            }
+            string pattern = @"\d{4}/\d{2}";
+
+            result = Regex.Replace(result, pattern, ""); // Replace any ´1997/98 to not give ai info about years.
+            if (false && !string.IsNullOrEmpty(pageFooter))
+            {
+               
+                var parts = pageFooter.Split(' ');
+                foreach(var p in parts.Where(nonEmpty => !string.IsNullOrEmpty(nonEmpty.Trim())))
+                {
+                    result = result.Replace(p.Trim(), ""); // Remove footer so ai cant guess from year
+                }
+
+                // Sometimes they use another space (non break space?)
+                parts = pageFooter.Split('\u00A0');
+                foreach (var p in parts.Where(nonEmpty => !string.IsNullOrEmpty(nonEmpty.Trim())))
+                {
+                    result = result.Replace(p.Trim(), ""); // Remove footer so ai cant guess from year
+                }
+
+                var splitFooter = pageFooter.Split(':');
+                if (splitFooter.Length > 0)
+                {
+                    var subParts = splitFooter[0].Split('/');
+                    if (subParts.Length == 2)
+                    {
+                        result = result.Replace(subParts[0].Trim(), ""); // Remove any 1986/87 as well
+                    }
+                }
+            }
+            var split = result.Split("\r\n\r\n", StringSplitOptions.RemoveEmptyEntries);
+            StringBuilder newBuilder = new StringBuilder();
+            foreach(var p in split)
+            {
+                newBuilder.AppendLine(p.Replace("\r\n", "")); // Remove weird line breaks
+                newBuilder.AppendLine();
+            }
+            return newBuilder.ToString();
         }
         public List<DocSection> ParseSections()
         {
-            var nonEmpty = RemoveEmptyRows(currentRows);
+            var nonEmpty = currentRows.ToList();
             pageFooter = GuessFooter(nonEmpty);
             if (!string.IsNullOrEmpty(pageFooter))
             {

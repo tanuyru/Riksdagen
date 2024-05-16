@@ -12,21 +12,25 @@ Console.WriteLine("Hello, World!");
 
 List<string> inputDirs = Directory.GetDirectories(@"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\").ToList();
 var inputDir = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propstxt\filtered\";
-var outputDir = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\parsed\";
-var emptyDir = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\empty\";
-var failDir = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\failed\";
+var outputDir = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\pipeline\pipelineoutput\";
+var tempDir = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\pipeline\tempempty\";
+var emptyDir = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\pipeline\empty\";
+var failDir = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\pipeline\failed\";
 
 var copyInput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\parsed\summary\";
 var copyOutput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\parsed\summary\organ\";
 
 var csvInput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propscsv\";
-//var propJsonData = new CsvImporter().ImportBaseFromCsv(csvInput);
 
-//Console.WriteLine("Loaded " + propJsonData?.Count + " element from csv file " + csvInput);
-
-//var dictionary = propJsonData.ToDictionary(m => m.DokumentId.Trim('"').ToLower(), m => m);
-//new FileSelector().CopyAndCreate(copyInput, copyOutput, dictionary);
-
+Console.WriteLine("Starting complete pipeline...");
+Pipeline.RunSummaryPipeline(inputDirs.ToArray(),
+    tempDir,
+    outputDir,
+    failDir,
+    emptyDir,
+    csvInput,
+    false
+    );
 /*
 var fileInput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\parsed\summary\organ\";
 var fileOutput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\parsed\summary\organ\fixed\";
@@ -48,10 +52,12 @@ foreach (var g in groups.OrderByDescending(gr => gr.Count()))
 FileSelector.SaveToDir(allModels, fileOutput, m => m.DokumentId.Trim().ToLower() + ".json");
 
 */
-var modelInputFixed = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\parsed\summary\organ\fixed\";
+/*
+var modelInputFixed = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\parsed\summary\";
 
 var modelOutputFixed = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propositionertxt\parsed\summary\organ\fixed\correctorgan\";
 var models = FileSelector.LoadFromDir<PropositionExportModel>(modelInputFixed);
 
 var corrOrgan = models.Where(mod => mod.Organ == mod.GuessedOrgan || mod.Organ.Length <= 3 || mod.Organ.Contains("t.o.m")).ToList();
 FileSelector.SaveToDir(corrOrgan, modelOutputFixed, r => r.DokumentId.ToLower() + ".json");
+*/
