@@ -3,12 +3,60 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace Riksdagen.Import
 {
     public class Pipeline
     {
+        static bool IsStatsBudget(PropositionExportModel m)
+        {
+            if (m.Title == null)
+                return false;
+            var lowerTitle = m.Title.ToLower();
+            if (lowerTitle.Contains("budgetpropositionen för"))
+                return true;
+            if (lowerTitle.Contains("statsbudget"))
+                return true;
+            return false;
+        }
+        public static void CopyStatsBudgets(
+            IEnumerable<string> inputDirsTxts,
+            string inputDirCsv,
+            string outputDir)
+        {
+            Dictionary<string, string> fileDictionary = new Dictionary<string, string>();
+            foreach(var inputDir in inputDirsTxts)
+            {
+                foreach(var f in Directory.GetFiles(inputDir))
+                {
+                    fileDictionary.Add(Path.GetFileNameWithoutExtension(f).ToLower(), f);
+                }
+            }
+            var csvInput = new CsvImporter().ImportBaseFromCsv(inputDirCsv);
+
+            var budgetProps = csvInput.Where(m => IsStatsBudget(m)).ToList();
+
+            if (!Directory.Exists(outputDir))
+            {
+                Directory.CreateDirectory(outputDir);
+            }
+            foreach(var m in budgetProps)
+            {
+                if (!fileDictionary.TryGetValue(m.DokumentId.ToLower(), out var fileName))
+                {
+                    Console.WriteLine("Found budget but not found entity in csv!? " + m.DokumentId + " " + m.Title);
+                }
+                else
+                {
+
+                    var outputName = Path.Combine(outputDir, Path.GetFileName(fileName));
+                    File.Copy(fileName, outputName, true);
+                    Console.WriteLine("Found statsbudget: " + m.DokumentId + " " + m.Title);
+                }
+            }
+        }
         // Easier use
         public static void RunSummaryPipeline(
             string inputDir,
@@ -82,6 +130,50 @@ namespace Riksdagen.Import
 
 
             // Save to output
+        }
+
+        public static void Filter<T>(string inputDir, string outputDir, Func<T,bool> filterFunc)
+        {
+            if (!Directory.Exists(outputDir))
+            {
+                Directory.CreateDirectory(outputDir);
+            }
+            int total = 0;
+            int copied = 0;
+            foreach(var f in Directory.GetFiles(inputDir))
+            {
+                total++;
+                var t = JsonSerializer.Deserialize<T>(File.ReadAllText(f));
+                if (filterFunc(t))
+                {
+                    var outputName = Path.Combine(outputDir, Path.GetFileName(f));
+                    File.Copy(f, outputName, true);
+                    copied++;
+                }
+            }
+            Console.WriteLine("Copied " + copied + "/" + total + " files from " + inputDir + " to " + outputDir);
+        }
+
+        public static void FilterText(string inputDir, string outputDir, Func<string, bool> filterFunc)
+        {
+            if (!Directory.Exists(outputDir))
+            {
+                Directory.CreateDirectory(outputDir);
+            }
+            int total = 0;
+            int copied = 0;
+            foreach (var f in Directory.GetFiles(inputDir))
+            {
+                total++;
+                var t = File.ReadAllText(f);
+                if (filterFunc(t))
+                {
+                    var outputName = Path.Combine(outputDir, Path.GetFileName(f));
+                    File.Copy(f, outputName, true);
+                    copied++;
+                }
+            }
+            Console.WriteLine("Copied " + copied + "/" + total + " files from " + inputDir + " to " + outputDir);
         }
         static void ClearDir(string inputDir)
         {

@@ -75,5 +75,29 @@ namespace Riksdagen.Import
             ExporCsvtModels(trainFileName, train);
             ExporCsvtModels(testFileName, test);
         }
+
+        public static void ExportTrainAndTestDataPerDep(string inputPath, DateTime startDate, DateTime splitDate, string outputDir)
+        {
+            var models = FileSelector.LoadFromDir<PropositionExportModel>(inputPath);
+            if (!Directory.Exists(outputDir))
+            {
+                Directory.CreateDirectory(outputDir);
+            }
+            foreach (var g in models.Where(g => g.GuessedOrgan != null && FileSelector.AllDepartement.Contains(g.GuessedOrgan)).GroupBy(g => g.GuessedOrgan))
+            {
+                var train = g.Where(m => m.DokDate.Value >= startDate && m.DokDate.Value < splitDate).ToList();
+                var test = g.Where(m => m.DokDate.Value >= splitDate).ToList();
+                var dir = outputDir + g.Key + "\\";
+                var trainFileName = dir + "train.tsv";
+                var testFileName = dir + "test.tsv";
+                if (!Directory.Exists(dir))
+                {
+                    Directory.CreateDirectory(dir);
+                }
+                ExporCsvtModels(trainFileName, train);
+                ExporCsvtModels(testFileName, test);
+            }
+          
+        }
     }
 }

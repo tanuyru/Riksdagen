@@ -24,8 +24,18 @@ var csvInput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\propscsv\";
 var doneOutput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\pipeline\pipelineoutput\";
 var outputFile = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\pipeline\output.tsv";
 
+var budgetOutput = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\pipeline\budgets\";
 var testFile = doneOutput + "\\..\\test.tsv";
 var trainFile = doneOutput + "\\..\\train.tsv";
+
+var inputFilter = @"C:\Users\whydo\Downloads\prop-2022-2025.html(1)\";
+var outputFilter = @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\prop2025htmlchange\";
+
+Pipeline.FilterText(inputFilter, outputFilter, s => s.Contains("Förslag till lag om ändring"));
+return;
+Exporter.ExportTrainAndTestDataPerDep(doneOutput, new DateTime(1990, 10, 4), new DateTime(2010, 10, 8),
+    @"C:\Users\whydo\OneDrive\Documentos\ml\riksdagen\pipeline\perdep\");
+return;
 Exporter.ExportTrainAndTestData(doneOutput, new DateTime(1990, 10, 4), new DateTime(2010, 10, 8), testFile, trainFile);
 
 return;

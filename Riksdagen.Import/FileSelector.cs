@@ -143,6 +143,20 @@ namespace Riksdagen.Import
         const string FvDep = "försvarsdepartementet";
         const string KuDep = "kulturdepartementet";
 
+        public static HashSet<string> AllDepartement = new HashSet<string>()
+        {
+            FiDep,
+            JuDep,
+            SoDep,
+            UDDep,
+            UbDep,
+            AmDep,
+            FvDep,
+            KNDep,
+            LIDep,
+            StBr,
+            KuDep,
+        };
         public static int FixOrgan(List<PropositionExportModel> models)
         {
             var organsDictionary = new Dictionary<string, HashSet<string>>
